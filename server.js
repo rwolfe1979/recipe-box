@@ -9,6 +9,8 @@ const TYPES = {
   '.webmanifest': 'application/manifest+json', '.svg': 'image/svg+xml',
 };
 
+const PORT = process.env.PORT || 8420;
+
 http.createServer((req, res) => {
   let p = decodeURIComponent(req.url.split('?')[0]);
   if (p === '/' || p === '') p = '/index.html';
@@ -19,4 +21,4 @@ http.createServer((req, res) => {
     res.writeHead(200, { 'Content-Type': TYPES[path.extname(file)] || 'application/octet-stream' });
     res.end(data);
   });
-}).listen(8420, () => console.log('Recipe Box at http://localhost:8420'));
+}).listen(PORT, () => console.log('Recipe Box at http://localhost:' + PORT));

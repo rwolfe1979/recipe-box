@@ -25,12 +25,15 @@ const Shopping = {
 
   categorize(item) {
     const n = this.normalize(item);
+    if (/^dried\b/.test(n) || (/powder/.test(n) && !/baking/.test(n))) return 'spices';
+    // most specific (longest) keyword wins, so "diced tomatoes" beats "tomato"
+    let best = null, bestLen = 0;
     for (const [cat, keys] of this.CATEGORIES) {
       for (const k of keys) {
-        if (n.includes(k)) return cat;
+        if (k.length > bestLen && n.includes(k)) { best = cat; bestLen = k.length; }
       }
     }
-    return 'other';
+    return best || 'other';
   },
 
   isStaple(item) {
