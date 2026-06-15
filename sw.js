@@ -1,7 +1,7 @@
 /* Recipe Box service worker: cache the app shell for offline use,
    always try the network first for data files. */
 
-const VERSION = 'rb-v3';
+const VERSION = 'rb-v4';
 const SHELL = [
   './',
   'index.html',
@@ -53,10 +53,27 @@ self.addEventListener('fetch', (e) => {
     return;
   }
 
-  // App shell: cache first.
+  // Photos: cache first (they don't change), fall back to network.
+  if (url.origin === location.origin && url.pathname.includes('/images/')) {
+    e.respondWith(
+      caches.match(e.request).then(hit => hit || fetch(e.request).then(res => {
+        if (res.ok) { const copy = res.clone(); caches.open(VERSION).then(c => c.put(e.request, copy)); }
+        return res;
+      }))
+    );
+    return;
+  }
+
+  // App shell (html/css/js): network first so code updates show up immediately,
+  // fall back to cache when offline.
   if (url.origin === location.origin) {
     e.respondWith(
-      caches.match(e.request, { ignoreSearch: true }).then(hit => hit || fetch(e.request))
+      fetch(e.request)
+        .then(res => {
+          if (res.ok) { const copy = res.clone(); caches.open(VERSION).then(c => c.put(e.request, copy)); }
+          return res;
+        })
+        .catch(() => caches.match(e.request, { ignoreSearch: true }))
     );
   }
 });

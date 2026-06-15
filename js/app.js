@@ -21,7 +21,23 @@ const App = {
     this.loaded = true;
     this.route();
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('sw.js').catch(() => {});
+      navigator.serviceWorker.register('sw.js').then(reg => {
+        // When a new version installs (and we already had one running), reload once
+        // so the user always lands on the latest app without manual cache-clearing.
+        reg.addEventListener('updatefound', () => {
+          const nw = reg.installing;
+          if (!nw) return;
+          nw.addEventListener('statechange', () => {
+            if (nw.state === 'installed' && navigator.serviceWorker.controller && !this._reloadedForUpdate) {
+              this._reloadedForUpdate = true;
+              location.reload();
+            }
+          });
+        });
+        // Check for an update now, and whenever the app is brought back to the foreground.
+        reg.update();
+        document.addEventListener('visibilitychange', () => { if (!document.hidden) reg.update(); });
+      }).catch(() => {});
     }
   },
 
