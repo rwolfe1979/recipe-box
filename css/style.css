@@ -167,6 +167,24 @@ label.field > input, label.field > select, label.field > textarea { margin-top: 
 .recipe-card h3 { margin: 0 0 6px; font-size: 1rem; }
 .recipe-card:hover { border-color: var(--accent); }
 
+/* ---- photos ---- */
+.thumb {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.thumb.ph span { font-size: 2.6rem; filter: drop-shadow(0 1px 1px rgba(0,0,0,0.12)); }
+.thumb-big { aspect-ratio: 16 / 9; max-height: 280px; margin-bottom: 8px; }
+.thumb-big.ph span { font-size: 4rem; }
+.detail-hero { position: relative; }
+.detail-hero .photo-btn { position: absolute; right: 10px; bottom: 18px; background: rgba(255,255,255,0.92); }
+
 /* ---- recipe detail ---- */
 .detail-meta { display: flex; gap: 14px; flex-wrap: wrap; color: var(--ink-soft); font-size: 0.85rem; margin-bottom: 10px; }
 
@@ -248,4 +266,17 @@ pre.codeblock {
   background: #2e241e; color: #f3e9df;
   padding: 12px; border-radius: 10px;
   font-size: 0.75rem; overflow-x: auto; white-space: pre-wrap;
+}
+
+/* ---- print ---- */
+@media print {
+  .topbar, .bottomnav, .no-print, .detail-meta a { display: none !important; }
+  body { background: #fff; }
+  .view { padding: 0; max-width: 100%; }
+  .card { box-shadow: none; border: none; padding: 0; margin-bottom: 14px; break-inside: avoid; }
+  .thumb { display: none; }          /* save ink; the recipe text is what matters */
+  h2 { margin-top: 0; }
+  .ing-list li { break-inside: avoid; }
+  .steps li { break-inside: avoid; }
+  a[href]::after { content: ""; }    /* don't append URLs */
 }

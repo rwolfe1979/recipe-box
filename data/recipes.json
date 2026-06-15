@@ -14344,7 +14344,8 @@
     "createdAt": "2026-06-15",
     "diet": [
       "gluten-free"
-    ]
+    ],
+    "image": "images/mexican-street-corn-chicken-salad.jpg"
   },
   {
     "id": "bacon-egg-cheese-rice-paper-spiral",
@@ -14419,7 +14420,8 @@
     ],
     "notes": "Full recipe also at thechefoutwest.com.",
     "createdAt": "2026-06-15",
-    "diet": []
+    "diet": [],
+    "image": "images/bacon-egg-cheese-rice-paper-spiral.jpg"
   },
   {
     "id": "mango-lassi-chia-pudding-with-cardamom-date-crumbl",
@@ -14559,7 +14561,8 @@
     "diet": [
       "vegetarian",
       "gluten-free"
-    ]
+    ],
+    "image": "images/mango-lassi-chia-pudding-with-cardamom-date-crumbl.jpg"
   },
   {
     "id": "banana-pudding-overnight-oats",
@@ -14669,6 +14672,7 @@
     "createdAt": "2026-06-15",
     "diet": [
       "vegetarian"
-    ]
+    ],
+    "image": "images/banana-pudding-overnight-oats.jpg"
   }
 ]

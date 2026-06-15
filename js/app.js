@@ -108,6 +108,7 @@ const App = {
         : '';
       document.getElementById('grid').innerHTML = list.map(r => `
         <div class="recipe-card" onclick="location.hash='#/recipe/${encodeURIComponent(r.id)}'">
+          ${this.thumbHtml(r, false)}
           <h3>${this.esc(r.title)}${r._localOnly ? ' <span class="chip">this device</span>' : ''}</h3>
           <div>
             ${r.cuisine ? `<span class="chip">${this.esc(r.cuisine)}</span>` : ''}
@@ -145,22 +146,27 @@ const App = {
     const suggestions = Shopping.suggestions(r, Store.recipes, Store.bulk);
 
     view.innerHTML = `
-      <a class="muted small" href="#/recipes">← All recipes</a>
+      <a class="muted small no-print" href="#/recipes">← All recipes</a>
+      <div class="detail-hero">${this.thumbHtml(r, true)}
+        <button class="btn tiny photo-btn no-print" id="d-photo">📷 ${Store.imageSrc(r) ? 'Change photo' : 'Add photo'}</button>
+        <input type="file" accept="image/*" id="d-photo-input" hidden>
+      </div>
       <h2>${this.esc(r.title)}</h2>
       <div>
         ${r.cuisine ? `<span class="chip">${this.esc(r.cuisine)}</span>` : ''}
         ${(r.mealTypes || []).map(m => `<span class="chip green">${m}</span>`).join('')}
         ${(r.diet || []).map(d => `<span class="chip diet">${this.esc(d)}</span>`).join('')}
-        ${(r.tags || []).map(t => `<span class="chip">${this.esc(t)}</span>`).join('')}
+        ${(r.tags || []).filter(t => !(r.mealTypes || []).includes(t) && !(r.diet || []).includes(t)).map(t => `<span class="chip">${this.esc(t)}</span>`).join('')}
       </div>
       <div class="detail-meta">
         ${r.prepTime ? `<span>Prep ${r.prepTime} min</span>` : ''}
         ${r.cookTime ? `<span>Cook ${r.cookTime} min</span>` : ''}
         ${r.source && (r.source.url || r.source.note) ? `<span>Source: ${r.source.url ? `<a href="${this.esc(r.source.url)}" target="_blank" rel="noopener">${this.esc(r.source.note || this.hostOf(r.source.url))}</a>` : this.esc(r.source.note)}</span>` : ''}
       </div>
-      <div class="btn-row">
+      <div class="btn-row no-print">
         <button class="btn primary" id="d-plan">📅 Add to plan</button>
         <button class="btn" id="d-shop">🛒 Add to shopping list</button>
+        <button class="btn" id="d-print">🖨️ Print</button>
         <a class="btn" href="#/edit/${encodeURIComponent(r.id)}">✏️ Edit</a>
         <button class="btn danger subtle" id="d-del">Delete</button>
       </div>
@@ -180,11 +186,18 @@ const App = {
       <div class="card">
         <h3 style="margin-top:0">Steps</h3>
         <ol class="steps">${(r.steps || []).map(s => `<li>${this.esc(s)}</li>`).join('')}</ol>
-        ${r.notes ? `<p class="muted">📝 ${this.esc(r.notes)}</p>` : ''}
+      </div>
+
+      <div class="card">
+        <div style="display:flex;justify-content:space-between;align-items:center;">
+          <h3 style="margin:0">Notes</h3>
+          <button class="btn tiny no-print" id="d-notes-edit">✏️ Edit</button>
+        </div>
+        <div id="d-notes-view"></div>
       </div>
 
       ${suggestions.length ? `
-      <div class="suggest-box">
+      <div class="suggest-box no-print">
         <h3>🌿 Use it up</h3>
         <p class="muted small">You'll likely buy more of these than this recipe uses. Other recipes that share them:</p>
         ${suggestions.map(s => `
@@ -217,6 +230,55 @@ const App = {
         this.toast('Recipe deleted');
         location.hash = '#/recipes';
       } catch (e) { this.toast('Delete failed: ' + e.message); }
+    };
+
+    document.getElementById('d-print').onclick = () => window.print();
+
+    // ---- photo ----
+    const photoInput = document.getElementById('d-photo-input');
+    document.getElementById('d-photo').onclick = () => photoInput.click();
+    photoInput.onchange = async () => {
+      const file = photoInput.files && photoInput.files[0];
+      if (!file) return;
+      const btn = document.getElementById('d-photo');
+      btn.disabled = true; btn.textContent = '⏳ Saving photo…';
+      try {
+        const dataUrl = await this.resizeImage(file, 1200);
+        const where = await Store.saveImage(r.id, dataUrl);
+        this.toast(where === 'github' ? 'Photo saved & synced' : 'Photo saved on this device (connect GitHub to sync)');
+        this.route();
+      } catch (e) {
+        btn.disabled = false;
+        btn.textContent = '📷 Add photo';
+        this.toast('Photo failed: ' + e.message);
+      }
+    };
+
+    // ---- notes (inline editable) ----
+    const renderNotes = () => {
+      const view = document.getElementById('d-notes-view');
+      view.innerHTML = r.notes
+        ? this.esc(r.notes).replace(/\n/g, '<br>')
+        : '<span class="muted small">No notes yet. Tap Edit to jot down your tweaks.</span>';
+    };
+    renderNotes();
+    document.getElementById('d-notes-edit').onclick = () => {
+      const card = document.getElementById('d-notes-view');
+      card.innerHTML = `<textarea id="d-notes-text" style="min-height:90px">${this.esc(r.notes || '')}</textarea>
+        <div class="btn-row"><button class="btn primary tiny" id="d-notes-save">Save</button>
+        <button class="btn tiny" id="d-notes-cancel">Cancel</button></div>`;
+      document.getElementById('d-notes-text').focus();
+      document.getElementById('d-notes-cancel').onclick = () => renderNotes();
+      document.getElementById('d-notes-save').onclick = async () => {
+        r.notes = document.getElementById('d-notes-text').value.trim();
+        const save = document.getElementById('d-notes-save');
+        save.disabled = true; save.textContent = 'Saving…';
+        try {
+          await Store.saveRecipe(r);
+          this.toast(Store.hasGitHub() ? 'Notes saved & synced' : 'Notes saved on this device');
+        } catch (e) { this.toast('Save failed: ' + e.message); }
+        renderNotes();
+      };
     };
   },
 
@@ -517,6 +579,8 @@ const App = {
         steps: document.getElementById('e-steps').value.split('\n').map(s => s.trim()).filter(Boolean),
         notes: document.getElementById('e-notes').value.trim(),
         createdAt: r ? (r.createdAt || null) : new Date().toISOString().slice(0, 10),
+        ...(r && r.image ? { image: r.image } : {}),
+        ...(r && r.diet ? { diet: r.diet } : {}),
       };
       const btn = document.getElementById('e-save');
       btn.disabled = true; btn.textContent = 'Saving…';
@@ -655,6 +719,64 @@ const App = {
         this.route();
       } catch (e) { this.toast('Sync failed: ' + e.message); sync.disabled = false; }
     };
+  },
+
+  // ---------- photos ----------
+
+  thumbHtml(r, big) {
+    const src = Store.imageSrc(r);
+    const cls = 'thumb' + (big ? ' thumb-big' : '');
+    if (src) return `<div class="${cls}"><img src="${this.esc(src)}" alt="${this.esc(r.title)}" loading="lazy"></div>`;
+    return `<div class="${cls} ph" style="${this.placeholderStyle(r)}"><span>${this.foodEmoji(r)}</span></div>`;
+  },
+
+  placeholderStyle(r) {
+    const s = r.id || r.title || 'x';
+    let h = 0;
+    for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) % 360;
+    const h2 = (h + 38) % 360;
+    return `background:linear-gradient(135deg,hsl(${h} 52% 82%),hsl(${h2} 54% 66%));`;
+  },
+
+  foodEmoji(r) {
+    const hay = ((r.mainIngredients || []).join(' ') + ' ' + r.title + ' ' + (r.tags || []).join(' ')).toLowerCase();
+    const byIng = [
+      [/shrimp|prawn/, '🦐'], [/salmon|tuna|fish|cod|tilapia/, '🐟'], [/chicken/, '🍗'],
+      [/beef|steak|bolognese/, '🥩'], [/bacon|pork|sausage|chorizo|ham/, '🥓'],
+      [/egg/, '🍳'], [/pasta|spaghetti|penne|noodle|gnocchi|macaroni/, '🍝'],
+      [/\brice\b|risotto/, '🍚'], [/chickpea|bean|lentil|tofu/, '🫘'], [/potato/, '🥔'],
+      [/mango/, '🥭'], [/banana/, '🍌'], [/lemon/, '🍋'], [/blueberr|berry/, '🫐'],
+      [/corn/, '🌽'], [/mushroom/, '🍄'], [/cheese|cheddar|gruyere|parmesan/, '🧀'],
+      [/chia|oat/, '🥣'], [/shakshuka|tomato/, '🍅'],
+    ];
+    for (const [re, e] of byIng) if (re.test(hay)) return e;
+    const types = r.mealTypes || [];
+    const byType = { bread: '🍞', salad: '🥗', soup: '🍲', dessert: '🍰', breakfast: '🍳', drink: '🥤', snack: '🍿', side: '🥘' };
+    for (const t of ['bread', 'salad', 'soup', 'dessert', 'breakfast', 'drink', 'snack', 'side']) if (types.includes(t)) return byType[t];
+    return '🍽️';
+  },
+
+  // Read a chosen file, shrink it to keep the repo light, return a jpeg data URL.
+  resizeImage(file, maxPx) {
+    return new Promise((resolve, reject) => {
+      const reader = new FileReader();
+      reader.onerror = () => reject(new Error('Could not read the file'));
+      reader.onload = () => {
+        const img = new Image();
+        img.onerror = () => reject(new Error('That file is not a readable image'));
+        img.onload = () => {
+          let { width, height } = img;
+          const scale = Math.min(1, maxPx / Math.max(width, height));
+          width = Math.round(width * scale); height = Math.round(height * scale);
+          const canvas = document.createElement('canvas');
+          canvas.width = width; canvas.height = height;
+          canvas.getContext('2d').drawImage(img, 0, 0, width, height);
+          resolve(canvas.toDataURL('image/jpeg', 0.82));
+        };
+        img.src = reader.result;
+      };
+      reader.readAsDataURL(file);
+    });
   },
 
   // ---------- share target ----------

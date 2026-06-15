@@ -120,6 +120,27 @@ const Store = {
     this.shas[path] = body.content.sha;
   },
 
+  // Commit a binary file (e.g. a photo) given its base64 content.
+  async ghPutBinary(path, base64Content, message) {
+    let sha = null;
+    try {
+      const get = await fetch(this.ghUrl(path), { headers: this.ghHeaders() });
+      if (get.ok) { const b = await get.json(); sha = b.sha; }
+    } catch (e) { /* new file */ }
+    const c = this.config;
+    const res = await fetch(
+      'https://api.github.com/repos/' + c.owner + '/' + c.repo + '/contents/' + path,
+      {
+        method: 'PUT',
+        headers: this.ghHeaders(),
+        body: JSON.stringify({ message, content: base64Content, branch: c.branch || 'main', sha: sha || undefined }),
+      });
+    if (!res.ok) {
+      const detail = await res.text();
+      throw new Error('Image upload failed (' + res.status + '): ' + detail.slice(0, 160));
+    }
+  },
+
   async testConnection(cfg) {
     const res = await fetch(
       'https://api.github.com/repos/' + cfg.owner + '/' + cfg.repo,
@@ -157,6 +178,30 @@ const Store = {
         'Remove recipe: ' + (r ? r.title : id));
     }
     this.setLocal('rb-cache-' + this.PATHS.recipes, this.stripLocalFlags(this.recipes));
+  },
+
+  // Save a recipe photo: instantly on this device (localStorage), and to the
+  // repo when connected, recording the path on the recipe.
+  async saveImage(recipeId, dataUrl) {
+    this.setLocal('rb-img-' + recipeId, dataUrl);
+    const recipe = this.recipes.find(r => r.id === recipeId);
+    if (this.hasGitHub()) {
+      const base64 = dataUrl.split(',')[1];
+      const path = 'images/' + recipeId + '.jpg';
+      await this.ghPutBinary(path, base64, 'Add photo: ' + (recipe ? recipe.title : recipeId));
+      if (recipe) { recipe.image = path; await this.saveRecipe(recipe); }
+      return 'github';
+    }
+    if (recipe) recipe.image = 'local';
+    return 'local';
+  },
+
+  // Where to load a recipe's photo from (device copy first, then repo path).
+  imageSrc(recipe) {
+    const local = this.getLocal('rb-img-' + recipe.id);
+    if (local) return local;
+    if (recipe.image && recipe.image !== 'local') return recipe.image;
+    return null;
   },
 
   async savePlan() {
