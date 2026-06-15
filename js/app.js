@@ -13,6 +13,7 @@ const App = {
     this.shop = Store.getLocal('rb-shop') || {
       start: this.today(), days: 7, extras: [], checked: {}, hideStaples: true,
     };
+    this.applyTheme(Store.getLocal('rb-theme') || 'auto');
     this.handleShareTarget();
     this.updateSyncBadge();
     window.addEventListener('hashchange', () => this.route());
@@ -671,6 +672,13 @@ const App = {
     view.innerHTML = `
       <h2>Setup</h2>
       <div class="card">
+        <h3 style="margin-top:0">Appearance</h3>
+        <p class="muted small">Choose the look. “Auto” follows your phone's light/dark setting.</p>
+        <div class="btn-row" id="theme-row">
+          ${['auto', 'light', 'dark'].map(t => `<button class="btn ${(this.themePref || 'auto') === t ? 'primary' : ''}" data-theme-set="${t}">${t[0].toUpperCase() + t.slice(1)}</button>`).join('')}
+        </div>
+      </div>
+      <div class="card">
         <h3 style="margin-top:0">GitHub sync</h3>
         <p class="muted small">Connecting GitHub makes recipes and plans save to your repo so every device sees them.
         Create a fine-grained personal access token at
@@ -700,6 +708,10 @@ const App = {
         After installing, TikTok/Instagram's Share menu can send links straight here.</p>
       </div>
       <p class="muted small">Recipe Box · your data lives in your GitHub repo · built with Claude</p>`;
+
+    view.querySelectorAll('[data-theme-set]').forEach(btn => {
+      btn.onclick = () => { this.applyTheme(btn.dataset.themeSet); this.route(); };
+    });
 
     document.getElementById('g-save').onclick = async () => {
       const cfg = {
@@ -735,6 +747,27 @@ const App = {
         this.route();
       } catch (e) { this.toast('Sync failed: ' + e.message); sync.disabled = false; }
     };
+  },
+
+  // ---------- theme ----------
+
+  applyTheme(pref) {
+    this.themePref = pref;
+    Store.setLocal('rb-theme', pref);
+    const dark = pref === 'dark' ||
+      (pref === 'auto' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
+    const root = document.documentElement;
+    if (dark) root.setAttribute('data-theme', 'dark');
+    else root.removeAttribute('data-theme');
+    const meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.setAttribute('content', dark ? '#15110d' : '#b9472a');
+    // keep "auto" in sync if the system flips while the app is open
+    if (pref === 'auto' && window.matchMedia && !this._themeWatch) {
+      this._themeWatch = window.matchMedia('(prefers-color-scheme: dark)');
+      this._themeWatch.addEventListener('change', () => {
+        if (this.themePref === 'auto') this.applyTheme('auto');
+      });
+    }
   },
 
   // ---------- photos ----------

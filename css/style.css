@@ -12,6 +12,22 @@
   --shadow: 0 1px 3px rgba(60, 40, 20, 0.08), 0 4px 14px rgba(60, 40, 20, 0.06);
 }
 
+:root[data-theme="dark"] {
+  --bg: #15110d;
+  --card: #221b15;
+  --ink: #f4ebe1;
+  --ink-soft: #ab9b8c;
+  --accent: #ef7d4f;
+  --accent-soft: #3a261b;
+  --green: #6fc585;
+  --green-soft: #1f3324;
+  --line: #352a20;
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.4), 0 6px 20px rgba(0, 0, 0, 0.35);
+}
+:root[data-theme="dark"] .chip.diet { background: #1d2c3a; color: #8fc1ee; }
+:root[data-theme="dark"] .detail-hero .photo-btn { background: rgba(34, 27, 21, 0.92); }
+:root[data-theme="dark"] img { filter: none; }
+
 * { box-sizing: border-box; }
 
 html, body {
@@ -270,6 +286,9 @@ pre.codeblock {
 
 /* ---- print ---- */
 @media print {
+  :root, :root[data-theme="dark"] {
+    --bg: #fff; --card: #fff; --ink: #111; --ink-soft: #555; --line: #ccc; --accent: #a3371f;
+  }
   .topbar, .bottomnav, .no-print, .detail-meta a { display: none !important; }
   body { background: #fff; }
   .view { padding: 0; max-width: 100%; }
