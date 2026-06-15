@@ -4,7 +4,9 @@ const App = {
   shop: null,   // {start, days, extras:[], checked:{}, hideStaples}
   loaded: false,
 
-  MEAL_TYPES: ['breakfast', 'lunch', 'dinner', 'side', 'snack', 'dessert', 'drink'],
+  MEAL_TYPES: ['breakfast', 'lunch', 'dinner', 'side', 'bread', 'soup', 'salad', 'snack', 'dessert', 'drink'],
+  DIETS: ['vegetarian', 'vegan', 'gluten-free'],
+  TIME_LIMITS: [20, 30, 45, 60],
   SLOTS: ['breakfast', 'lunch', 'dinner', 'other'],
 
   async start() {
@@ -57,19 +59,25 @@ const App = {
   // ---------- browse ----------
 
   renderBrowse(view) {
-    const f = this.browseFilters || { q: '', meal: '', cuisine: '', main: '' };
+    const f = this.browseFilters || { q: '', meal: '', cuisine: '', main: '', tag: '', diet: '', time: '' };
     this.browseFilters = f;
     const cuisines = this.distinct(Store.recipes.map(r => r.cuisine));
     const mains = this.distinct(Store.recipes.flatMap(r => r.mainIngredients || []));
+    const tags = this.distinct(Store.recipes.flatMap(r => r.tags || []));
+    const diets = this.DIETS.filter(d => Store.recipes.some(r => (r.diet || []).includes(d)));
 
     view.innerHTML = `
       <h2>Recipes <span class="muted small">(${Store.recipes.length})</span></h2>
       <div class="searchbar"><input type="text" id="f-q" placeholder="Search recipes or ingredients…" value="${this.esc(f.q)}"></div>
       <div class="filters">
-        <select id="f-meal"><option value="">Any meal</option>${this.MEAL_TYPES.map(m => `<option ${f.meal === m ? 'selected' : ''}>${m}</option>`).join('')}</select>
+        <select id="f-meal"><option value="">Any type</option>${this.MEAL_TYPES.map(m => `<option ${f.meal === m ? 'selected' : ''}>${m}</option>`).join('')}</select>
         <select id="f-cuisine"><option value="">Any cuisine</option>${cuisines.map(c => `<option ${f.cuisine === c ? 'selected' : ''}>${this.esc(c)}</option>`).join('')}</select>
         <select id="f-main"><option value="">Any main ingredient</option>${mains.map(m => `<option ${f.main === m ? 'selected' : ''}>${this.esc(m)}</option>`).join('')}</select>
+        <select id="f-tag"><option value="">Any tag</option>${tags.map(t => `<option ${f.tag === t ? 'selected' : ''}>${this.esc(t)}</option>`).join('')}</select>
+        <select id="f-diet"><option value="">Any diet</option>${diets.map(d => `<option ${f.diet === d ? 'selected' : ''}>${this.esc(d)}</option>`).join('')}</select>
+        <select id="f-time"><option value="">Any time</option>${this.TIME_LIMITS.map(t => `<option value="${t}" ${String(f.time) === String(t) ? 'selected' : ''}>under ${t} min</option>`).join('')}</select>
       </div>
+      <p class="small" id="filter-status" hidden></p>
       <div class="recipe-grid" id="grid"></div>
       <p class="muted small" id="empty-note" hidden></p>`;
 
@@ -78,6 +86,12 @@ const App = {
         if (f.meal && !(r.mealTypes || []).includes(f.meal)) return false;
         if (f.cuisine && r.cuisine !== f.cuisine) return false;
         if (f.main && !(r.mainIngredients || []).includes(f.main)) return false;
+        if (f.tag && !(r.tags || []).includes(f.tag)) return false;
+        if (f.diet && !(r.diet || []).includes(f.diet)) return false;
+        if (f.time) {
+          const total = this.totalTime(r);
+          if (!total || total > Number(f.time)) return false;
+        }
         if (f.q) {
           const hay = (r.title + ' ' + (r.tags || []).join(' ') + ' ' +
             (r.ingredients || []).map(i => i.item).join(' ')).toLowerCase();
@@ -86,6 +100,12 @@ const App = {
         return true;
       });
       list.sort((a, b) => a.title.localeCompare(b.title));
+      const active = ['meal', 'cuisine', 'main', 'tag', 'diet', 'time'].some(k => f[k]) || f.q;
+      const status = document.getElementById('filter-status');
+      status.hidden = !active;
+      status.innerHTML = active
+        ? `<span class="muted">Showing ${list.length} of ${Store.recipes.length}</span> · <a href="javascript:App.clearFilters()">clear filters</a>`
+        : '';
       document.getElementById('grid').innerHTML = list.map(r => `
         <div class="recipe-card" onclick="location.hash='#/recipe/${encodeURIComponent(r.id)}'">
           <h3>${this.esc(r.title)}${r._localOnly ? ' <span class="chip">this device</span>' : ''}</h3>
@@ -103,10 +123,15 @@ const App = {
     };
 
     document.getElementById('f-q').addEventListener('input', e => { f.q = e.target.value; renderGrid(); });
-    for (const [id, key] of [['f-meal', 'meal'], ['f-cuisine', 'cuisine'], ['f-main', 'main']]) {
+    for (const [id, key] of [['f-meal', 'meal'], ['f-cuisine', 'cuisine'], ['f-main', 'main'], ['f-tag', 'tag'], ['f-diet', 'diet'], ['f-time', 'time']]) {
       document.getElementById(id).addEventListener('change', e => { f[key] = e.target.value; renderGrid(); });
     }
     renderGrid();
+  },
+
+  clearFilters() {
+    this.browseFilters = { q: '', meal: '', cuisine: '', main: '', tag: '', diet: '', time: '' };
+    this.route();
   },
 
   // ---------- recipe detail ----------
@@ -125,6 +150,7 @@ const App = {
       <div>
         ${r.cuisine ? `<span class="chip">${this.esc(r.cuisine)}</span>` : ''}
         ${(r.mealTypes || []).map(m => `<span class="chip green">${m}</span>`).join('')}
+        ${(r.diet || []).map(d => `<span class="chip diet">${this.esc(d)}</span>`).join('')}
         ${(r.tags || []).map(t => `<span class="chip">${this.esc(t)}</span>`).join('')}
       </div>
       <div class="detail-meta">

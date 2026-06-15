@@ -142,6 +142,7 @@ label.field > input, label.field > select, label.field > textarea { margin-top: 
   white-space: nowrap;
 }
 .chip.green { background: var(--green-soft); color: var(--green); }
+.chip.diet { background: #e6eef7; color: #2f5d8a; }
 
 /* ---- browse ---- */
 .searchbar { margin-bottom: 10px; }

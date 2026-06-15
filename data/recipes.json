@@ -110,15 +110,19 @@
       "Warm the tortillas in a dry skillet or directly over a gas flame. Fill with the tinga and top with cilantro, cotija, and a squeeze of lime."
     ],
     "notes": "Leftover chipotles freeze well in a zip bag — flatten it so you can snap off one pepper at a time.",
-    "createdAt": "2026-06-12"
+    "createdAt": "2026-06-12",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "coconut-curry-noodle-soup",
     "title": "Coconut Curry Noodle Soup",
     "cuisine": "Thai",
     "mealTypes": [
+      "lunch",
       "dinner",
-      "lunch"
+      "soup"
     ],
     "mainIngredients": [
       "chicken",
@@ -218,15 +222,18 @@
       "Divide the noodles between bowls, ladle the soup over, and top generously with cilantro."
     ],
     "notes": "Shrimp or tofu swap in easily for the chicken.",
-    "createdAt": "2026-06-12"
+    "createdAt": "2026-06-12",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "quick-chana-masala",
     "title": "Quick Chana Masala",
     "cuisine": "Indian",
     "mealTypes": [
-      "dinner",
-      "lunch"
+      "lunch",
+      "dinner"
     ],
     "mainIngredients": [
       "chickpeas"
@@ -343,7 +350,12 @@
       "Off the heat, stir in the lemon juice and half the cilantro. Salt to taste. Serve over rice with the rest of the cilantro on top."
     ],
     "notes": "Even better the next day — make a double batch.",
-    "createdAt": "2026-06-12"
+    "createdAt": "2026-06-12",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ]
   },
   {
     "id": "weeknight-bolognese",
@@ -460,7 +472,8 @@
       "Fish out the bay leaf. Toss the pasta with the sauce and parmesan, loosening with pasta water as needed. Season and serve with more parmesan."
     ],
     "notes": "The milk sounds odd but makes the sauce silky — don't skip it. Sauce freezes well.",
-    "createdAt": "2026-06-12"
+    "createdAt": "2026-06-12",
+    "diet": []
   },
   {
     "id": "buttermilk-pancakes",
@@ -547,7 +560,10 @@
       "Keep warm in a 200°F oven while you finish the batch. Serve with butter and maple syrup."
     ],
     "notes": "Extra pancakes freeze well — reheat in the toaster.",
-    "createdAt": "2026-06-12"
+    "createdAt": "2026-06-12",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "buttermilk-oven-fried-chicken",
@@ -635,14 +651,16 @@
       "Rest 5 minutes before serving."
     ],
     "notes": "The leftover marinade buttermilk gets tossed, so this pairs nicely with pancakes the same week to finish the carton.",
-    "createdAt": "2026-06-12"
+    "createdAt": "2026-06-12",
+    "diet": []
   },
   {
     "id": "same-day-rustic-dutch-oven-loaf",
     "title": "Same-Day Rustic Dutch Oven Loaf",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour"
@@ -717,14 +735,19 @@
       "Cool on a wire rack at least 45 minutes before cutting."
     ],
     "notes": "Tips: The more you score, the more the loaf opens up. A single bold slash gives the classic ear. If your kitchen is cold, rise in the oven with just the light on. For extra flavor, add 1 teaspoon of apple cider vinegar to the water.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ]
   },
   {
     "id": "long-ferment-fake-sourdough",
     "title": "Long-Ferment \"Fake Sourdough\"",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour"
@@ -796,14 +819,19 @@
       "Cool completely before slicing, at least 1 hour."
     ],
     "notes": "Tips: The longer the cold ferment (up to 72 hours), the tangier the bread. Adding a tablespoon of whole wheat flour in place of some bread flour deepens flavor.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ]
   },
   {
     "id": "no-knead-overnight-dutch-oven-loaf",
     "title": "No-Knead Overnight Dutch Oven Loaf",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour"
@@ -861,14 +889,19 @@
       "Cool at least 1 hour."
     ],
     "notes": "Tips: No-knead dough is intentionally sticky. Do not add more flour. Parchment paper makes transferring to the hot Dutch oven much easier and safer.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ]
   },
   {
     "id": "classic-sandwich-loaf",
     "title": "Classic Sandwich Loaf",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -957,14 +990,18 @@
       "Remove from pan immediately. Cool on a rack at least 1 hour."
     ],
     "notes": "Tips: Brush the top with melted butter right out of the oven for a softer, shiny crust. Slices cleanest the next day.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "soft-dinner-rolls",
     "title": "Soft Dinner Rolls",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -1060,14 +1097,18 @@
       "Brush immediately with the 30g melted butter. Serve warm."
     ],
     "notes": "Tips: Tight shaping is the key to a nice round top. Rolls reheat well covered with foil at 175 C / 350 F for 10 minutes.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "burger-buns-soft-brioche-style",
     "title": "Burger Buns, Soft Brioche Style",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -1170,14 +1211,18 @@
       "Bake 15 to 18 minutes until deep golden. Cool completely before slicing."
     ],
     "notes": "Tips: Flatten more than you think you need to. They puff up a lot. Brushing twice (before baking and halfway through) gives a beautiful gloss.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "sturdy-sandwich-buns",
     "title": "Sturdy Sandwich Buns",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour"
@@ -1265,14 +1310,18 @@
       "Cool completely before slicing."
     ],
     "notes": "Tips: The steam pan is the trick to a good crust on lean buns. These hold up much better for anything saucy or wet.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "roasted-garlic-and-rosemary-loaf",
     "title": "Roasted Garlic and Rosemary Loaf",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -1373,14 +1422,19 @@
       "Cool 45 minutes."
     ],
     "notes": "Tips: Roast two heads of garlic at once and freeze the extra. Add 60g of shredded Parmesan with the garlic for a cheesy garlic version.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ]
   },
   {
     "id": "cheddar-jalape-o-loaf",
     "title": "Cheddar Jalapeño Loaf",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -1477,14 +1531,18 @@
       "Cool 45 minutes."
     ],
     "notes": "Tips: Cubed cheese gives visible pockets. Shredded cheese fully melts into the dough. Add 50g of pickled jalapeños for extra tang.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "olive-and-sun-dried-tomato-loaf",
     "title": "Olive and Sun-Dried Tomato Loaf",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -1591,14 +1649,19 @@
       "Cool fully."
     ],
     "notes": "Tips: Pat olives and tomatoes dry before adding. Add 60g of crumbled feta for a more Mediterranean version.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ]
   },
   {
     "id": "everything-bagel-pull-apart-loaf",
     "title": "Everything Bagel Pull-Apart Loaf",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -1717,7 +1780,10 @@
       "Cool 15 minutes before pulling apart."
     ],
     "notes": "Tips: Use a sharp knife or pizza cutter for cutting the layered strips cleanly. Great warm, even better the next day toasted.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "cinnamon-swirl-loaf",
@@ -1725,6 +1791,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
+      "bread",
       "dessert"
     ],
     "mainIngredients": [
@@ -1876,7 +1943,10 @@
       "Cool in pan 15 minutes, then on rack. Beat the optional cream cheese glaze ingredients (85g cream cheese, 100g powdered sugar, 30g heavy cream or milk, 3g vanilla, pinch of salt) and drizzle over."
     ],
     "notes": "Tips: The soft butter in the filling is critical. It needs to spread, not tear. For extra cinnamon punch, dust the outside of the rolled log with more cinnamon before placing in the pan.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "lemon-swirl-loaf-with-lemon-glaze",
@@ -1884,6 +1954,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
+      "bread",
       "dessert"
     ],
     "mainIngredients": [
@@ -2028,7 +2099,10 @@
       "Cool 20 minutes. Mix glaze (150g powdered sugar, 30 to 45g fresh lemon juice, zest of 1 lemon) and pour over. Let set before slicing."
     ],
     "notes": "Tips: Do not skip the zest in the dough. It makes the lemon flavor pervasive throughout, not just in the filling.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "chai-spice-swirl-loaf",
@@ -2036,6 +2110,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
+      "bread",
       "dessert"
     ],
     "mainIngredients": [
@@ -2215,7 +2290,10 @@
       "Cool. Mix glaze (120g powdered sugar, 30g heavy cream, 5g vanilla, pinch of cardamom) and drizzle."
     ],
     "notes": "Tips: The black pepper in the filling is authentic to chai. Do not skip it. Replace some of the milk with brewed strong chai tea for an even deeper flavor.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "chocolate-babka-swirl-loaf",
@@ -2223,6 +2301,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
+      "bread",
       "dessert"
     ],
     "mainIngredients": [
@@ -2369,7 +2448,10 @@
       "Cool completely before slicing."
     ],
     "notes": "Tips: Use a serrated knife for cutting the log lengthwise. Add a teaspoon of espresso powder to the filling to deepen the chocolate flavor.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "orange-cranberry-loaf",
@@ -2377,6 +2459,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
+      "bread",
       "dessert"
     ],
     "mainIngredients": [
@@ -2500,7 +2583,10 @@
       "Bake at 175 C / 350 F for 35 to 40 minutes. Cool completely. Add glaze (150g powdered sugar, 30 to 40g fresh orange juice, zest of 1 orange)."
     ],
     "notes": "Tips: Using orange juice in the tangzhong doubles down on citrus flavor throughout the loaf. Works with dried cherries, blueberries, or apricots in place of cranberries.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "cinnamon-rolls-with-cream-cheese-frosting",
@@ -2508,6 +2594,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
+      "bread",
       "dessert"
     ],
     "mainIngredients": [
@@ -2676,14 +2763,18 @@
       "Spread generously over hot rolls right out of the oven."
     ],
     "notes": "For overnight rolls: cover the pan after shaping and refrigerate. Pull out in the morning, let warm 1 hour, then bake. Do not overbake; pull when the center rolls are just set. More frosting is always correct.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "caramelized-onion-and-gruyere-loaf",
     "title": "Caramelized Onion and Gruyere Loaf",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -2806,15 +2897,19 @@
       "Bake at 190 C / 375 F for 35 to 42 minutes. Cool 1 hour."
     ],
     "notes": "Caramelized onions can be made days ahead and stored in the fridge. Gruyere can be replaced with Swiss, Emmental, or Comté.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "bacon-cheddar-and-chive-loaf",
     "title": "Bacon, Cheddar, and Chive Loaf",
     "cuisine": "Bakery",
     "mealTypes": [
+      "breakfast",
       "side",
-      "breakfast"
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -2923,15 +3018,17 @@
       "Bake at 190 C / 375 F for 35 to 42 minutes. Cool 45 minutes."
     ],
     "notes": "The reserved bacon fat in the dough adds incredible depth of flavor.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "dark-chocolate-and-dried-cherry-loaf",
     "title": "Dark Chocolate and Dried Cherry Loaf",
     "cuisine": "Bakery",
     "mealTypes": [
-      "dessert",
-      "breakfast"
+      "breakfast",
+      "bread",
+      "dessert"
     ],
     "mainIngredients": [
       "bread flour",
@@ -3039,7 +3136,10 @@
       "Bake at 175 C / 350 F for 35 to 40 minutes. Cool fully."
     ],
     "notes": "A light dusting of cocoa powder on the greased pan before placing the dough gives a chocolatey crust.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "cardamom-and-almond-swirl-loaf",
@@ -3047,6 +3147,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
+      "bread",
       "dessert"
     ],
     "mainIngredients": [
@@ -3212,7 +3313,10 @@
       "Cool. Mix glaze (powdered sugar, milk or cream, almond extract), pour over, and scatter sliced almonds."
     ],
     "notes": "This loaf is excellent the next day after the flavors meld. Almond extract is potent; start with less if you are unfamiliar with it.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "no-knead-overnight-focaccia",
@@ -3220,6 +3324,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "side",
+      "bread",
       "snack"
     ],
     "mainIngredients": [
@@ -3337,14 +3442,19 @@
       "Cool in pan 10 minutes. Slide out and cool on a rack."
     ],
     "notes": "The dimpling step is essential; it creates craters that hold the olive oil and toppings. Check the bottom by tilting the pan; it should be golden brown and crispy. Focaccia reheats well at 190 C / 375 F for 10 minutes.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ]
   },
   {
     "id": "no-knead-olive-oil-and-herb-loaf",
     "title": "No-Knead Olive Oil and Herb Loaf",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -3446,7 +3556,11 @@
       "Cool 1 hour."
     ],
     "notes": "No-knead dough is much wetter than kneaded dough. Resist adding more flour.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ]
   },
   {
     "id": "no-knead-cheesy-pull-apart-rolls",
@@ -3454,6 +3568,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "side",
+      "bread",
       "snack"
     ],
     "mainIngredients": [
@@ -3555,14 +3670,18 @@
       "Bake at 190 C / 375 F for 25 to 30 minutes. Serve warm."
     ],
     "notes": "Cheese that melts out creates crispy bits on the bottom.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "no-knead-caramelized-onion-bread",
     "title": "No-Knead Caramelized Onion Bread",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -3661,14 +3780,19 @@
       "Cool 1 hour."
     ],
     "notes": "Caramelized onions can be made and refrigerated up to 5 days ahead.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ]
   },
   {
     "id": "no-knead-cinnamon-raisin-bread",
     "title": "No-Knead Cinnamon Raisin Bread",
     "cuisine": "Bakery",
     "mealTypes": [
-      "breakfast"
+      "breakfast",
+      "bread"
     ],
     "mainIngredients": [
       "all-purpose flour",
@@ -3763,14 +3887,18 @@
       "Cool in pan 15 minutes, then on rack."
     ],
     "notes": "Soaking raisins prevents them from pulling moisture from the dough. Brush the top with a sugar-water glaze (equal parts) hot out of the oven for a shiny top.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "classic-beer-bread",
     "title": "Classic Beer Bread",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "self-rising flour",
@@ -3828,14 +3956,18 @@
       "Cool 15 minutes before slicing."
     ],
     "notes": "Darker beer gives deeper, richer flavor. A can of hard cider works beautifully in place of beer. Add 120g shredded cheddar and 5g garlic powder for a cheesy version.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "cheddar-and-herb-batter-bread",
     "title": "Cheddar and Herb Batter Bread",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "all-purpose flour",
@@ -3958,14 +4090,18 @@
       "Cool 15 minutes."
     ],
     "notes": "Do not overmix. A few lumps are fine.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "sun-dried-tomato-and-olive-batter-bread",
     "title": "Sun-Dried Tomato and Olive Batter Bread",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "all-purpose flour",
@@ -4088,14 +4224,18 @@
       "Bake 45 to 55 minutes. Cool 15 minutes."
     ],
     "notes": "Pat tomatoes and olives dry before adding to avoid excess oil.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "caramelized-onion-batter-bread",
     "title": "Caramelized Onion Batter Bread",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "all-purpose flour",
@@ -4212,14 +4352,18 @@
       "Bake 50 to 60 minutes. Cool 15 minutes."
     ],
     "notes": "Make the onions a day ahead to save time.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "jalape-o-cheddar-batter-bread",
     "title": "Jalapeño Cheddar Batter Bread",
     "cuisine": "Bakery",
     "mealTypes": [
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "all-purpose flour",
@@ -4336,7 +4480,10 @@
       "Bake 48 to 55 minutes. Cool 15 minutes."
     ],
     "notes": "Wear gloves when dicing jalapeños.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "lemon-poppy-seed-loaf",
@@ -4344,6 +4491,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
+      "bread",
       "dessert"
     ],
     "mainIngredients": [
@@ -4475,7 +4623,10 @@
       "Cool in pan 20 minutes, then on a rack."
     ],
     "notes": "More zest means more lemon flavor. Do not be shy.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "orange-cranberry-quick-bread",
@@ -4483,6 +4634,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
+      "bread",
       "snack",
       "dessert"
     ],
@@ -4616,7 +4768,10 @@
       "Tip: If using fresh cranberries, halve the larger ones."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "cinnamon-swirl-quick-bread",
@@ -4624,6 +4779,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
+      "bread",
       "snack",
       "dessert"
     ],
@@ -4743,13 +4899,17 @@
       "Tip: Sprinkle extra cinnamon sugar on top before baking for a crackle top."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "chocolate-chip-snacking-loaf",
     "title": "Chocolate Chip Snacking Loaf",
     "cuisine": "Bakery",
     "mealTypes": [
+      "bread",
       "snack",
       "dessert"
     ],
@@ -4861,7 +5021,10 @@
       "Tip: Espresso powder (5g) added to the dry ingredients deepens the chocolate flavor."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "chai-and-brown-sugar-quick-bread",
@@ -4869,6 +5032,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
+      "bread",
       "snack",
       "dessert"
     ],
@@ -5028,7 +5192,10 @@
       "Tip: Brewed chai tea in place of milk gives a deeper, more layered spice flavor."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "blueberry-lemon-quick-bread",
@@ -5036,6 +5203,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
+      "bread",
       "snack",
       "dessert"
     ],
@@ -5169,13 +5337,17 @@
       "Tip: Use frozen blueberries frozen (not thawed) to prevent the batter turning purple."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "dark-chocolate-and-espresso-quick-bread",
     "title": "Dark Chocolate and Espresso Quick Bread",
     "cuisine": "Bakery",
     "mealTypes": [
+      "bread",
       "snack",
       "dessert"
     ],
@@ -5316,15 +5488,19 @@
       "Tip: This loaf gets better on day 2 as the flavors deepen."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "classic-anadama-batter-bread",
     "title": "Classic Anadama Batter Bread",
     "cuisine": "Bakery",
     "mealTypes": [
+      "breakfast",
       "side",
-      "breakfast"
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -5421,7 +5597,10 @@
       "Tip: Molasses intensity varies by brand. Regular baking molasses is milder than blackstrap."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "english-muffin-batter-bread",
@@ -5429,7 +5608,8 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "all-purpose flour",
@@ -5517,7 +5697,10 @@
       "Tip: The cornmeal on the outside is authentic and gives the English muffin texture."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "honey-oat-batter-bread",
@@ -5525,7 +5708,8 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -5615,15 +5799,19 @@
       "Tip: Drizzle a thin line of honey across the top before baking for a shiny crust."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "cheddar-and-roasted-garlic-batter-bread",
     "title": "Cheddar and Roasted Garlic Batter Bread",
     "cuisine": "Bakery",
     "mealTypes": [
+      "dinner",
       "side",
-      "dinner"
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -5735,15 +5923,19 @@
       "Tip: The cheese on top forms a crispy crust."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "sun-dried-tomato-and-basil-batter-bread",
     "title": "Sun-Dried Tomato and Basil Batter Bread",
     "cuisine": "Bakery",
     "mealTypes": [
+      "dinner",
       "side",
-      "dinner"
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -5860,7 +6052,10 @@
       "Tip: Use the oil from the tomato jar in place of olive oil for intense flavor."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "everything-bagel-batter-bread",
@@ -5868,7 +6063,8 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
-      "side"
+      "side",
+      "bread"
     ],
     "mainIngredients": [
       "bread flour",
@@ -5977,7 +6173,10 @@
       "Tip: Add 120g cubed cream cheese to the batter for cream cheese pockets inside."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "cinnamon-raisin-batter-bread",
@@ -5985,6 +6184,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
+      "bread",
       "snack"
     ],
     "mainIngredients": [
@@ -6096,7 +6296,10 @@
       "Tip: The cinnamon sugar top caramelizes into a crispy, fragrant crust."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "lemon-blueberry-yeasted-batter-bread",
@@ -6104,6 +6307,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
+      "bread",
       "snack",
       "dessert"
     ],
@@ -6236,13 +6440,17 @@
       "Tip: Do not thaw frozen blueberries before folding in."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "chocolate-cherry-yeasted-batter-bread",
     "title": "Chocolate Cherry Yeasted Batter Bread",
     "cuisine": "Bakery",
     "mealTypes": [
+      "bread",
       "snack",
       "dessert"
     ],
@@ -6362,7 +6570,10 @@
       "Tip: Soak cherries in dark cherry juice or bourbon for extra intensity."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "maple-and-walnut-yeasted-batter-bread",
@@ -6370,6 +6581,7 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
+      "bread",
       "snack",
       "dessert"
     ],
@@ -6504,7 +6716,10 @@
       "Tip: Use Grade B (darker) maple syrup for the most intense maple flavor."
     ],
     "notes": "",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "lemon-ricotta-pancakes-with-blueberry-compote",
@@ -6670,7 +6885,10 @@
       "Serve the compote warm over the pancakes. The compote will thicken further as it cools."
     ],
     "notes": "Tuning notes — More lemon flavor: add a 3rd lemon's zest or 1/4 tsp lemon extract. Sweeter pancakes: add 1 more tbsp of sugar to the batter. Thicker compote: stir in 1 tsp cornstarch dissolved in 1 tsp water in the last 2 minutes. Make-ahead: compote stores in the fridge up to 5 days; reheat gently on the stove or 30 seconds in the microwave. Makes ~10 pancakes plus 1.5 cups compote.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "house-made-sage-pork-sausage",
@@ -6770,7 +6988,10 @@
       "Heat a skillet over medium-low. Cook patties 3 to 4 minutes per side until browned and cooked through."
     ],
     "notes": "Key notes: Keep pork cold throughout mixing and forming — warm fat smears and makes patties greasy. Refrigerating before cooking helps patties hold their shape and improves texture. For best flavor, mix the night before and refrigerate overnight. Tuning notes — More sage-forward: bump sage to 2 tsp and omit fennel entirely on first batch. Slightly sweeter: add 1/2 tsp maple syrup to the mix. More heat: increase red pepper flakes to 1/4 tsp. Makes 8 patties.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "shakshuka",
@@ -6905,7 +7126,10 @@
       "Remove from heat. Crumble goat cheese over the top, scatter fresh cilantro, and serve immediately with toast."
     ],
     "notes": "Based on the Paragary's menu (spiced tomato, goat cheese, cilantro, toast), this version skips bell pepper and heavy spice in favor of a clean, herb-forward tomato sauce. Goat cheese finishes the dish, not cooks into it. Key notes: Use hand-crushed San Marzano whole tomatoes — diced or pureed changes the texture. Cook the sauce down well before adding eggs; thin sauce leads to watery eggs. Goat cheese goes on at the very end, not while cooking. Tuning notes — More savory depth: add 1 tsp tomato paste with the garlic before the tomatoes. Slightly more complex: add 1/8 tsp cumin (bridges Italian and Middle Eastern without going full shakshuka). More heat: bump red pepper flakes to 1/2 tsp. Serve over polenta: skip the toast and ladle sauce and eggs over a bowl of cheesy polenta.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "creamy-cheesy-polenta",
@@ -7000,15 +7224,18 @@
       "Serve immediately topped with extra Parmesan and fresh cracked black pepper."
     ],
     "notes": "Key notes: Use stock instead of plain water for the liquid — it makes a significant difference in depth. Freshly grate both cheeses; pre-shredded bags do not melt cleanly. Stir frequently — the more you stir, the creamier the final texture. Add cheese off the heat so it melts in without clumping. Troubleshooting — Too thick before serving: stir in a splash of warm stock or milk to loosen. Leftovers: polenta firms up completely in the fridge; slice into cakes and pan-fry in butter for crispy polenta cakes the next morning. Pairing note: Serve the shakshuka directly over a bowl of this polenta instead of (or alongside) toast. The polenta absorbs the tomato sauce beautifully and makes for a more substantial brunch plate.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "vietnamese-vermicelli-bowl-bun-bowl",
     "title": "Vietnamese Vermicelli Bowl (Bun Bowl)",
     "cuisine": "Vietnamese",
     "mealTypes": [
-      "dinner",
-      "lunch"
+      "lunch",
+      "dinner"
     ],
     "mainIngredients": [
       "chicken thighs",
@@ -7286,15 +7513,19 @@
       "Assemble in this order for texture and flavor layering: noodles as the base; lettuce layer on one side; fresh herbs (mint, basil) tucked in; cucumber, bean sprouts, cabbage, bell pepper, and tomato; do chua on top of the vegetables; sliced grilled chicken laid over everything; crispy shallots if you have them; drizzle nuoc cham over everything, or serve it on the side."
     ],
     "notes": "Default protein here is chicken thighs (the most forgiving to cook — thighs over breasts, always). The same universal lemongrass base works for three other proteins, just swap the additions and marinating time: BEEF RIBEYE — add 1 tsp sesame oil, 1 tsp soy sauce, and optionally 1/2 tsp five-spice powder; marinate 2-4 hours, slice thin against the grain, grill or sear hot and fast, brief rest before plating. PORK (shoulder, belly, or tenderloin) — add 1 tbsp honey (promotes caramelization) and 1/2 tsp turmeric (golden color); slice thin, marinate 2-4 hours minimum; the sugar and honey char beautifully on a hot grill. SHRIMP — use HALF the universal base quantity, then add zest of half a lime and a pinch of chili flake; marinate 20-30 minutes MAXIMUM (shrimp gets rubbery if it sits too long in acid or salt); skewer or use a grill basket. Nuoc cham tip: most restaurants water it down; this ratio keeps it punchy. Amounts in the veggie build are sized for 2 bowls.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "starbucks-lemon-loaf-dupe",
     "title": "Starbucks Lemon Loaf (Dupe)",
     "cuisine": "Bakery",
     "mealTypes": [
-      "dessert",
-      "snack"
+      "bread",
+      "snack",
+      "dessert"
     ],
     "mainIngredients": [
       "lemon",
@@ -7447,7 +7678,10 @@
       "Glaze: Sift powdered sugar into a bowl with a pinch of salt. Gradually add lemon juice, whisking until you reach a thick, almost-spreadable consistency. Add 1 tbsp milk for opacity. Do not over-thin. Pour over cooled loaf, spread to drip slightly over edges. Let set 30-60 min until firm."
     ],
     "notes": "Lemon extract is the key ingredient for strong flavor — don't skip it or substitute with extra juice. Sour cream must be full-fat for the right texture. Do not glaze until the loaf is completely cool or the glaze will run off. Triple lemon delivery: zest in batter + lemon extract in batter + lemon juice in glaze. Tastes even better the next day. Store airtight at room temp up to 5 days; do not refrigerate (dries out); freeze unglazed up to 6 months. Pan: 9x5\" loaf pan, 350°F, bake 45-55 min. Yield ~8 slices.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "chicken-broccoli-rice-casserole",
@@ -7601,7 +7835,8 @@
       "Bake: Bake uncovered at 375F for 30 to 35 minutes until the top is golden and the edges are bubbling. Let rest 5 minutes before serving."
     ],
     "notes": "Blanching the broccoli: Two minutes in boiling water, then drained and patted dry. This ensures the broccoli is tender in the final bake without releasing too much water into the sauce. Cheese: Shred your own cheddar from a block. Pre-shredded bags contain anti-caking agents that make the sauce grainy. Storage: Keeps 4 days refrigerated. Reheat covered with foil at 325F for 20 minutes or microwave individual portions.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "classic-beef-and-penne-casserole",
@@ -7741,7 +7976,8 @@
       "Top and Bake: Scatter mozzarella and parmesan over the top. Bake uncovered 25 to 30 minutes until cheese is melted, bubbly, and golden in spots. Rest 5 minutes. Top with fresh parsley before serving."
     ],
     "notes": "Undercook the pasta: Pull it 2 minutes before the package says al dente. It finishes cooking in the oven and absorbs sauce. Fully cooked pasta turns mushy after baking. Drew option: Use hot Italian sausage in place of half the ground beef, or double the red pepper flakes. Ryan note: This is a Ryan-leaning recipe. The beef-forward, tomato-based profile is straightforward and reliable. Storage: Keeps 4 days refrigerated. One of the best next-day reheats in the collection.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "chicken-mushroom-penne-bake",
@@ -7930,7 +8166,8 @@
       "Top and Bake: Toss panko with olive oil and spread over the casserole. Scatter parmesan over the panko. Bake uncovered 25 to 30 minutes until the top is golden and the edges bubble. Rest 5 minutes. Garnish with parsley."
     ],
     "notes": "Don't crowd the mushrooms: Cook them in a single layer without stirring for the first 3 minutes. Crowding causes steaming instead of browning — you want golden edges, not gray mushrooms. Nutmeg: A small amount of nutmeg in cream sauces is a classic French technique. It adds warmth without tasting distinctly of nutmeg. Use a real nutmeg and a microplane if you have one. Drew option: Add a pinch of red pepper flakes to the cream sauce or finish Drew's portion with cracked black pepper.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "scalloped-potatoes-with-ham",
@@ -8056,7 +8293,8 @@
       "Uncover and Finish: Remove foil. Scatter remaining 1/2 cup cheese over the top. Return to oven uncovered for 15 minutes until the top is golden and bubbling. Let rest 10 minutes before cutting — it sets as it rests."
     ],
     "notes": "Potato thickness: Uniform thin slices are critical for even cooking. A mandoline set to 1/8 inch is the easiest way to get consistent results. Thicker slices will be undercooked in the center. Yukon Golds: They hold their shape better than Russets, which fall apart. They also have a natural buttery flavor that works well in cream sauces. Resting time: Don't skip the 10-minute rest after baking. The sauce tightens as it cools slightly and the casserole slices cleanly instead of falling apart. Ryan and Drew note: This one leans toward a maybe for both of you — but a good scalloped potato with real gruyere and ham is worth trying at least once.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "green-bean-casserole",
@@ -8188,7 +8426,8 @@
       "Bake and Top: Bake uncovered 20 minutes. Remove from oven and scatter remaining fried onions and parmesan over the top. Return to oven for 10 more minutes until the topping is crisp and golden. Serve immediately — the topping softens as it sits."
     ],
     "notes": "Why soy sauce: A small amount of soy sauce in mushroom-based sauces adds umami depth that rounds out the flavor. It doesn't taste like soy in the finished dish — it just tastes more savory. Topping timing: Add the final fried onion and parmesan layer in the last 10 minutes only. If they go on at the start they burn before the casserole is done. Drew note: Drew is the more enthusiastic audience for this one — but the scratch mushroom sauce version is significantly better than the canned soup original and may be the one to convert Ryan.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "sausage-potato-and-pepper-bake",
@@ -8321,7 +8560,10 @@
       "Finish: Remove from oven. Scatter parmesan over the top and return to the oven for 3 to 4 minutes until melted. Top with fresh parsley and serve directly from the pan."
     ],
     "notes": "Single layer matters: If the vegetables are stacked, they steam in each other's moisture and won't brown. Use a large sheet pan or split between two pans. Drew option: Use hot Italian sausage or add extra red pepper flakes to Drew's portion before roasting. Variations: Add sliced zucchini or cherry tomatoes in the last 15 minutes of roasting. They don't need the full cook time. Storage: Keeps 4 days. Reheat in a 375F oven for 15 minutes to restore the crispiness — microwaving makes the potatoes soft.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "southwest-chicken-and-black-bean-casserole",
@@ -8468,7 +8710,8 @@
       "Bake: Bake uncovered at 375F for 25 to 30 minutes until the cheese is melted and bubbling and the edges are hot. Rest 5 minutes. Top with fresh parsley or scallions before serving."
     ],
     "notes": "Cream cheese: It needs to be at room temperature to blend smoothly. Cold cream cheese leaves lumps in the sauce. Tortilla chip topping: Add the chips in the last 10 minutes if you want maximum crunch, or from the start if you don't mind them softening slightly into the cheese. Drew option: Use hot Rotel and hot salsa, or add sliced jalapenos to Drew's half of the casserole before baking. Storage: Keeps 4 days. The chip topping softens overnight — add fresh chips when reheating if crunch matters.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "cheesy-chicken-and-rice-bake",
@@ -8608,7 +8851,8 @@
       "Uncover and Finish: Remove foil and bake uncovered 10 more minutes until the cracker topping is golden and the edges are bubbling. Rest 5 minutes before serving."
     ],
     "notes": "Uncooked rice: This recipe goes in with dry rice — it cooks in the soup and broth during the covered bake. Do not use pre-cooked rice here; it will turn mushy. Ritz cracker topping: Ritz crackers give a buttery, slightly salty crunch that works perfectly here. Panko is a fine substitute if you don't have them. Drew option: Add a diced jalapeno to the filling mix or use pepper jack in place of cheddar. Storage: Keeps 4 days. The rice absorbs liquid as it sits — add a splash of broth when reheating.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "italian-baked-penne",
@@ -8790,7 +9034,8 @@
       "Top and Bake: Scatter mozzarella and parmesan over the bechamel layer. Bake uncovered 30 to 35 minutes until the top is golden and bubbling. Rest 10 minutes before serving."
     ],
     "notes": "Two sauces: The meat sauce on the pasta and the bechamel on top is the classic Italian construction. It's more work than a single-sauce bake but the result is richer and more complex. Red wine: A dry red (Chianti, Merlot, or whatever you have open) deepens the meat sauce significantly. Beef broth works as a substitute but the flavor is less complex. Drew option: Add red pepper flakes to the meat sauce or use hot Italian sausage for half the meat.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "mexican-enchilada-casserole",
@@ -8944,7 +9189,10 @@
       "Serve: Rest 5 minutes. Serve topped with sour cream, soaked red onion, and parsley."
     ],
     "notes": "Corn vs flour tortillas: Corn tortillas hold up better in this casserole and give a more authentic flavor. Flour tortillas work but become very soft and can make the layers gummy. Enchilada sauce: Store-bought red enchilada sauce is fine here. Old El Paso and Las Palmas are reliable. Avoid the green (verde) sauce unless you want a different flavor profile. Drew option: Use hot enchilada sauce or add sliced jalapenos between the layers for Drew's half. Storage: Keeps 4 days. One of the best leftover casseroles in the collection — the flavors deepen overnight.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "greek-pastitsio-style-beef-and-pasta-bake",
@@ -9126,7 +9374,8 @@
       "Bake: Bake uncovered 35 to 40 minutes until the bechamel crust is golden and set — it should jiggle slightly but not be liquid when you shake the pan. Rest 15 minutes before cutting. It slices cleanly once it sets."
     ],
     "notes": "The cinnamon: Cinnamon in the meat sauce is the defining flavor of pastitsio. It adds warmth, not sweetness. If it concerned you in the Moroccan stew, this is a good comparison — same principle, savory context. Eggs in the bechamel: The eggs set the bechamel into a firm crust during baking. Without them it stays soft and won't slice. Let the sauce cool to below 160F before adding them. Resting time: 15 minutes is not optional here. The bechamel crust needs time to firm up or it falls apart when cut.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "french-chicken-and-mushroom-gratin",
@@ -9301,7 +9550,8 @@
       "Top and Bake: Scatter gruyere over the top. Toss panko with melted butter and parmesan and spread over the cheese. Bake uncovered at 400F for 20 to 25 minutes until the topping is deep golden and the sauce is bubbling at the edges. Top with fresh parsley."
     ],
     "notes": "Tarragon: The defining herb of French chicken dishes. It has a delicate anise note that works beautifully with cream and mushrooms. Don't substitute with other herbs — use less or omit it entirely if you can't find it, rather than swap it for something else. Gruyere: Essential here — its nutty, slightly complex flavor is what makes this feel French rather than just a cream bake. Swiss cheese is a reasonable substitute. Drew option: Add a generous pinch of white pepper to the sauce and more cracked black pepper on top of Drew's portion.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "spanish-chorizo-and-rice-bake",
@@ -9455,7 +9705,10 @@
       "Bake: Cover tightly with foil or a lid and bake at 375F for 35 to 40 minutes until the rice has absorbed all the liquid and is fully cooked. Remove cover, scatter cheese over the top, and return to the oven uncovered for 5 minutes. Top with parsley and serve with lemon wedges."
     ],
     "notes": "Saffron: A small amount goes a long way — it colors the rice golden and adds a subtle floral, slightly earthy flavor. It's expensive but a pinch is all you need. If unavailable, add an extra 1/2 tsp smoked paprika instead. Spanish chorizo: Use the cured, firm kind sold in a casing — not raw Mexican chorizo. The rendered fat from browning it is the flavor base for the whole dish. Manchego: An aged Spanish sheep's milk cheese that pairs naturally with chorizo. Parmesan is a fine substitute and easier to find.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "moroccan-spiced-ground-beef-and-chickpea-bake",
@@ -9658,7 +9911,8 @@
       "Top and Bake: Toss panko with olive oil, parsley, smoked paprika, and garlic powder. Scatter over the filling. Crumble feta over the panko. Bake uncovered at 375F for 20 to 25 minutes until the topping is golden and the edges are bubbling. Rest 5 minutes before serving."
     ],
     "notes": "The cinnamon: Same principle as the Moroccan chickpea stew — background warmth, not sweetness. It disappears into the blend of cumin, coriander, and paprika. Start with 1/4 tsp if you're cautious and increase next time. Couscous layer: The couscous soaks up the spiced juices from the beef layer as it bakes, making the bottom layer as flavorful as the top. Drew option: Extra cayenne in the filling, or serve with harissa stirred into Drew's portion. Storage: Keeps 4 days. The flavors deepen significantly on day 2.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "creamy-tuscan-white-bean-and-spinach-bake",
@@ -9847,7 +10101,8 @@
       "Top and Bake: Scatter mozzarella and remaining parmesan over the top. Toss panko with olive oil and spread over the cheese. Bake uncovered at 375F for 20 to 25 minutes until the top is golden and the sauce is bubbling at the edges. Rest 5 minutes before serving."
     ],
     "notes": "Cannellini beans: Rinse them well and fold gently — they fall apart if stirred aggressively. Intact beans give the casserole better texture than a mashed mass. Protein add-in: Stir in shredded rotisserie chicken with the beans if you want a heartier version. Sliced Italian sausage browned first also works well. Sundried tomatoes: Use the oil-packed kind, drained. They're more flavorful than the dry-packed variety and distribute better throughout the bake. Drew option: Double the red pepper flakes in the base or add a pinch of cayenne to the cream sauce. Storage: Keeps 4 days refrigerated. Add a splash of broth when reheating — the sauce thickens considerably as it cools.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "garlic-butter-shrimp-scampi",
@@ -9974,7 +10229,8 @@
       "Finish and Combine: Add the drained pasta to the pan and toss to coat, adding splashes of reserved pasta water to loosen as needed. Return shrimp to the pan. Toss everything together and cook 30 seconds. Remove from heat and fold in parsley."
     ],
     "notes": "Pasta water: The starch in reserved pasta water emulsifies the butter-wine sauce and helps it cling to the noodles. Don't skip saving it. Drew option: Double the red pepper flakes or finish Drew's bowl with a pinch of cayenne. No wine: Substitute chicken broth plus an extra tbsp of lemon juice. The sauce will be a little less complex but still good.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "korean-beef-bulgogi-bowls",
@@ -10119,15 +10375,18 @@
       "Build the Bowls: Divide rice into bowls. Top with beef, drained pickled cucumber, scallions, and sesame seeds."
     ],
     "notes": "Slicing the beef: Freeze the beef for 20 to 30 minutes before slicing — it firms up and makes thin slicing much easier. Against the grain is essential for tenderness. Drew option: Add gochujang (1 tbsp) to the marinade or serve with a side of gochujang sauce. Storage: Cooked bulgogi keeps 3 days. The marinade doubles well if you want to prep extra for the week.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "shakshuka-2",
     "title": "Shakshuka",
     "cuisine": "Middle Eastern",
     "mealTypes": [
-      "dinner",
-      "breakfast"
+      "breakfast",
+      "dinner"
     ],
     "mainIngredients": [
       "eggs",
@@ -10267,7 +10526,10 @@
       "Finish and Serve: Scatter feta and parsley over the top. Serve directly from the pan with plenty of crusty bread or warm pita for scooping."
     ],
     "notes": "Yolk doneness: For firmer yolks, cook 2 to 3 minutes longer with the lid on. The whites should be completely opaque with no jiggle before you call them done. Drew option: Add an extra 1/4 tsp cayenne to the sauce, or serve with harissa on the side. Additions: A handful of baby spinach stirred into the sauce before adding eggs works well. So does a dollop of Greek yogurt served alongside.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "miso-butter-pasta",
@@ -10387,7 +10649,10 @@
       "Finish the Pasta: Add drained pasta to the skillet and toss to coat, adding more pasta water a splash at a time until the sauce clings and looks silky. Remove from heat. Add parmesan and toss again. Top with scallions and sesame seeds."
     ],
     "notes": "Miso paste: White (shiro) miso is mild and slightly sweet. Red miso will work but is saltier and more intense — reduce soy sauce by half if substituting. Drew option: A drizzle of chili crisp or a pinch of red pepper flakes over Drew's bowl adds heat that works perfectly with the miso. Add protein: This sauce is excellent with seared scallops, shrimp, or sliced chicken thighs added in step 4.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "french-onion-pasta",
@@ -10528,7 +10793,8 @@
       "Combine and Finish: Add pasta to the skillet and toss to coat. Splash in pasta water as needed. Remove from heat and fold in the shredded cheese until melted and glossy. Top with parsley."
     ],
     "notes": "The onions: Fifteen minutes on medium-high gets you about 70% of the way to fully caramelized. It won't be identical to the 45-minute version, but the wine, broth, and Worcestershire cover the rest of the flavor gap. Cheese: Gruyere melts beautifully and is the classic French onion choice. Swiss works well. Avoid pre-shredded bags — they have anti-caking agents that prevent smooth melting.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "thai-basil-beef",
@@ -10654,7 +10920,10 @@
       "Sauce and Finish: Pour the sauce over the beef and toss to coat. Cook 1 minute until sauce is absorbed and everything is glossy. Remove from heat and fold in the basil leaves — they'll wilt in the residual heat. Serve over jasmine rice, topped with a fried egg if using."
     ],
     "notes": "Thai basil vs Italian basil: Thai basil has an anise note that's more authentic here. Italian basil works fine as a substitute — the dish is still excellent. Do not use dried basil. Fried egg: A runny fried egg on top is traditional and makes the dish richer. Fry it in a separate pan while the beef finishes. Drew option: Add 1 to 2 Thai chilies or a spoonful of chili crisp to Drew's portion. This dish is traditionally quite spicy.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "chicken-piccata",
@@ -10779,14 +11048,16 @@
       "Finish with Butter: Remove from heat and swirl in the remaining 2 tbsp cold butter. This emulsifies the sauce and gives it a glossy, restaurant-quality finish. Return chicken to the pan and spoon sauce over the top. Garnish with parsley."
     ],
     "notes": "Thin-cut chicken: Thin-cut breasts or pounded breasts cook fast and evenly. Thick breasts need longer in the pan and the flour coating will over-brown before the inside is done. Butter finish: Add the butter off the heat. If the pan is too hot when you add butter, it breaks the sauce and turns greasy. Serving: Excellent over angel hair pasta, mashed potatoes, or with crusty bread to soak up the sauce.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "moroccan-spiced-chickpea-and-tomato-stew",
     "title": "Moroccan Spiced Chickpea and Tomato Stew",
     "cuisine": "Moroccan",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "soup"
     ],
     "mainIngredients": [
       "chickpeas",
@@ -10954,7 +11225,8 @@
       "Finish and Serve: Stir in lemon juice. Taste and adjust salt. Serve over couscous, topped with fresh parsley."
     ],
     "notes": "The cinnamon: It's a background note, not a featured flavor. If it concerns you, start with half and taste after the stew simmers. It rounds out the spice blend rather than making the dish taste sweet. Drew option: Extra cayenne in the pot, or serve with harissa on the side. Add protein: A handful of shredded rotisserie chicken stirred in at the end works well if you want it heartier. Storage: This stew improves the next day. Keeps 4 days refrigerated.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "beef-and-lamb-kofte-with-yogurt-sauce",
@@ -11142,7 +11414,8 @@
       "Build the Pitas: Spread yogurt sauce on warm pita. Add 3 kofte per pita, cucumber slices, soaked red onion, and a squeeze of lemon."
     ],
     "notes": "Grating the onion: Grating instead of dicing distributes the onion flavor throughout the meat without leaving visible chunks. Squeezing out the liquid is important — too much moisture and the patties won't hold. Beef-only version: Skip the lamb and use 1.5 lbs ground beef. The flavor is less complex but still excellent. Drew option: Add 1/4 tsp cayenne to the kofte mix or serve with a side of harissa.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "soy-glazed-salmon-with-bok-choy",
@@ -11296,7 +11569,10 @@
       "Cook the Bok Choy: In the same pan over medium-high, add oil. Place bok choy cut-side down and cook 2 minutes until lightly charred. Flip and add soy sauce. Cook 1 minute more until wilted. Serve salmon and bok choy over rice, topped with sesame seeds and scallions."
     ],
     "notes": "Salmon doneness: For medium, the center should still be slightly translucent when you check with a fork. It continues cooking off the heat. Overcooked salmon is dry — err on the side of less. Drew option: Add a squirt of sriracha or a pinch of red pepper flakes to the glaze.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "spanish-chorizo-and-white-bean-skillet",
@@ -11422,7 +11698,8 @@
       "Add Beans and Finish: Add the white beans and return the chorizo to the pan. Simmer 8 to 10 minutes until the sauce reduces and thickens slightly around the beans. Taste and adjust salt. Top with parsley. Serve with crusty bread."
     ],
     "notes": "Spanish vs Mexican chorizo: This recipe uses Spanish chorizo — the hard, cured kind sold in a casing, like a firm sausage. Mexican chorizo is raw and crumbled and is a completely different ingredient. Check the label. Sherry: Dry sherry (Fino or Manzanilla) is the most authentic choice here. Dry white wine is a fine substitute. Storage: Keeps 4 days. The beans absorb the sauce as it sits and become even more flavorful.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "vietnamese-style-lettuce-wraps-with-ground-pork",
@@ -11574,7 +11851,10 @@
       "Build the Wraps: Spoon pork into lettuce leaves. Top with shredded carrots, cucumber, scallions, mint, basil, and sesame seeds. Squeeze lime over the top."
     ],
     "notes": "Fish sauce: It smells strong from the bottle but cooks into a deep savory flavor. Don't skip it — it's doing most of the work in this dish. No cilantro: Traditional versions use cilantro heavily. Mint and basil give you the fresh herb component without it. Drew option: Add sliced Thai chilies to Drew's wraps or serve with a small dish of sambal oelek on the side.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "italian-sausage-and-gnocchi-skillet",
@@ -11686,7 +11966,8 @@
       "Finish: Return sausage to the pan. Add spinach and stir until wilted, about 1 minute. Taste and adjust salt and pepper. Top with grated parmesan."
     ],
     "notes": "Gnocchi: Shelf-stable gnocchi (from the pasta aisle) works better for pan-frying than refrigerated. Refrigerated gnocchi has more moisture and steams rather than crisps. Drew option: Use hot Italian sausage, or add extra red pepper flakes to Drew's bowl.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "honey-garlic-chicken-thighs",
@@ -11804,14 +12085,18 @@
       "Finish in Sauce: Return chicken skin-side up to the pan. Spoon sauce over the chicken and cook over medium heat 5 to 7 minutes, basting occasionally, until chicken is cooked through (internal temp 165F). Swirl in butter to finish the sauce."
     ],
     "notes": "Dry skin: Moisture is the enemy of crispy skin. Pat thoroughly and don't rush the sear. If the skin sticks, it's not ready to flip — give it another minute. Drew option: Add red pepper flakes or a squirt of sriracha to the sauce. Serving: Excellent with steamed rice, roasted vegetables, or mashed potatoes.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "creamy-tuscan-white-bean-and-sausage-soup",
     "title": "Creamy Tuscan White Bean and Sausage Soup",
     "cuisine": "Italian",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "soup"
     ],
     "mainIngredients": [
       "italian sausage",
@@ -11944,14 +12229,18 @@
       "Cream, Greens, and Finish: Stir in heavy cream. Add kale or spinach and stir until wilted, about 2 minutes. Taste and adjust salt and pepper. Ladle into bowls and top with grated parmesan."
     ],
     "notes": "Thickening: For a thicker soup, mash about 1/2 cup of the beans against the side of the pot before adding the cream. The starch thickens the broth. Kale vs spinach: Kale holds up better and adds texture. Spinach wilts completely and gives a smoother result. Either works. Drew option: Use hot Italian sausage or add more red pepper flakes.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "greek-lemon-chicken-soup",
     "title": "Greek Lemon Chicken Soup",
     "cuisine": "Greek",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "soup"
     ],
     "mainIngredients": [
       "chicken",
@@ -12042,7 +12331,10 @@
       "Finish the Soup: Reduce heat to low. Pour the tempered egg mixture back into the pot slowly while stirring. Add shredded chicken. Do not boil after this point — it will break the texture. Heat gently 2 minutes. Season with salt, pepper, and lemon zest. Serve topped with fresh dill."
     ],
     "notes": "Tempering: Slow and steady. Add the hot broth to the eggs one ladle at a time while whisking. Rushing this step gives you lemon scrambled eggs in soup — still edible, but not what you're going for. Broth quality: This soup has very few ingredients so the broth flavor matters. Use a good store-bought broth or homemade. Low-sodium gives you more control over seasoning. Storage: The rice continues to absorb liquid as it sits. The soup will thicken considerably overnight — thin it with extra broth when reheating.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "spicy-peanut-noodles",
@@ -12188,7 +12480,10 @@
       "Toss and Serve: Pour peanut sauce over noodles and toss until every strand is coated. Divide into bowls. Top with cucumber, scallions, peanuts, and sesame seeds. Serve with lime wedges."
     ],
     "notes": "Natural peanut butter: Use a natural peanut butter (just peanuts and salt). Conventional peanut butters with added sugar and oil give the sauce a sweeter, less savory profile. Drew option: Double the chili garlic sauce in Drew's bowl or add a drizzle of chili crisp on top. Add protein: Shredded rotisserie chicken or sliced pan-seared tofu added on top turns this into a more complete meal. Serving temperature: This works at room temperature or cold. The sauce thickens as it chills — thin with a splash of water or soy sauce if serving from the fridge.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   },
   {
     "id": "mediterranean-stuffed-peppers",
@@ -12327,7 +12622,10 @@
       "Finish and Serve: Remove lid and top each pepper with additional crumbled feta. Spoon the pan liquid over the peppers as a sauce."
     ],
     "notes": "Stovetop vs oven: Covering the skillet and cooking in liquid steams the peppers from the outside while the filling finishes from the inside. No oven required and the texture is nearly identical. Pepper selection: Red, yellow, and orange peppers are sweeter. Green peppers are more bitter and slightly firmer. Any combination works — use what's on sale. Drew option: Add a pinch of cayenne to the filling.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "provencal-pan-seared-chicken-with-olives-and-tomat",
@@ -12459,7 +12757,10 @@
       "Finish and Serve: Return chicken to the pan and spoon sauce over the top. Swirl in butter. Sprinkle with fresh parsley. Serve with crusty bread, rice, or orzo."
     ],
     "notes": "Herbes de Provence: A dried herb blend sold in most grocery stores — typically thyme, rosemary, oregano, and lavender. If unavailable, substitute an equal amount of Italian seasoning plus a pinch of dried rosemary. Chicken thighs: Boneless thighs are far more forgiving than breasts — they stay moist even if slightly overcooked and take on sauce flavor better. Serving: This is excellent with crusty French bread to soak up the sauce, or over orzo pasta.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "beef-taco-skillet",
@@ -12620,14 +12921,16 @@
       "Add Cheese and Serve: Scatter shredded cheese over the top and cover with a lid for 2 minutes until melted. Serve directly from the skillet. Top with sour cream and soaked red onion. Squeeze lime over the top. Serve with tortilla chips or in flour tortillas."
     ],
     "notes": "Rotel: Diced tomatoes with green chiles. Find it in the canned tomato aisle. Original is mild. Hot adds noticeable heat — a simple way to dial up the spice level. Drew option: Use Hot Rotel, or add a chopped jalapeno when browning the beef. Serving: Scooped with tortilla chips it works as a dip. Spooned into flour tortillas it works as tacos. Over rice it becomes a burrito bowl. Storage: Keeps 4 days refrigerated. One of the better meal prep options in the collection.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "greek-style-chicken-salad",
     "title": "Greek Style Chicken Salad",
     "cuisine": "Greek",
     "mealTypes": [
-      "lunch"
+      "lunch",
+      "salad"
     ],
     "mainIngredients": [
       "chicken",
@@ -12775,14 +13078,18 @@
       "Rest Before Serving: Cover and refrigerate for at least 30 minutes. The yogurt dressing needs time to bind and the herbs need to bloom into the mix. An hour is better. Taste again after resting and adjust lemon or salt if needed."
     ],
     "notes": "Homemade improvement on the Trader Joe's original. Rest 30 min minimum. Greek oregano: the most distinctly Mediterranean herb here and the biggest upgrade over the TJ's version. Look for dried Greek or Mediterranean oregano; it's more aromatic and slightly bitter compared to Italian oregano. Costco chicken: Pull only the breast meat for the cleanest texture. Let it cool completely before mixing; warm chicken breaks down the yogurt dressing. The bird is already well-salted, so hold back on extra salt until after the rest period. If it seems dry: a small drizzle of the oil from the sundried tomatoes jar stirred into the dressing fixes it without changing the flavor. Storage: Keeps 3 to 4 days refrigerated. The dressing thickens as it sits; a splash of lemon juice loosens it back up.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "smoky-chipotle-chicken-salad",
     "title": "Smoky Chipotle Chicken Salad",
     "cuisine": "Southwestern",
     "mealTypes": [
-      "lunch"
+      "lunch",
+      "salad"
     ],
     "mainIngredients": [
       "chicken",
@@ -12909,14 +13216,18 @@
       "Rest Before Serving: Cover and refrigerate for at least 30 minutes. The cumin and chipotle flavors deepen significantly as it sits."
     ],
     "notes": "Southwest-inspired with smoky heat, roasted corn, and a lime-cumin yogurt dressing. Rest 30 min minimum. Chipotle in adobo: One or two chipotles from a can plus a small spoonful of the sauce; the sauce carries as much flavor as the pepper itself. Freeze the rest of the can in a zip bag flat and break off portions as needed. Drew option: Stir an extra teaspoon of the adobo sauce into Drew's portion, or add a few dashes of hot sauce at the table. Serving: Works especially well in a warm flour tortilla or stuffed in a pita; also excellent on thick-cut crackers. Storage: Keeps 3 to 4 days refrigerated. The corn softens slightly but the flavor improves.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "lemon-herb-chicken-salad-with-artichoke",
     "title": "Lemon Herb Chicken Salad with Artichoke",
     "cuisine": "American",
     "mealTypes": [
-      "lunch"
+      "lunch",
+      "salad"
     ],
     "mainIngredients": [
       "chicken",
@@ -13050,14 +13361,18 @@
       "Rest Before Serving: Refrigerate at least 30 minutes. The tarragon in particular needs time to soften into the dressing."
     ],
     "notes": "A lighter, brighter companion to the Greek salad — capers, tarragon, and a sharp Dijon-lemon dressing. Rest 30 min minimum. Tarragon: Fresh tarragon has a mild anise note that complements the lemon and artichoke. If it's not available, fresh dill works well as a substitute. Dried tarragon is acceptable but use half the amount. Capers: Rinse them briefly if you find them too salty; they add a concentrated briny punch that works with the lemon. Storage: Keeps 3 to 4 days refrigerated. Add a small squeeze of lemon if it tastes flat after sitting.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "sesame-ginger-chicken-salad",
     "title": "Sesame Ginger Chicken Salad",
     "cuisine": "Asian",
     "mealTypes": [
-      "lunch"
+      "lunch",
+      "salad"
     ],
     "mainIngredients": [
       "chicken",
@@ -13177,14 +13492,18 @@
       "Rest and Serve: Refrigerate at least 20 minutes. The cabbage will soften slightly and the ginger flavor will bloom. Taste and adjust soy or rice vinegar before serving."
     ],
     "notes": "Toasted sesame, soy, and fresh ginger with shredded chicken — clean and satisfying with a light creamy base. Rest 20 min minimum. Sesame oil: Use toasted sesame oil, not plain. It's darker and carries the full sesame flavor; a little goes a long way. Drew option: Add a spoonful of chili crisp to Drew's portion and stir it in. It layers heat and additional umami without changing the base recipe. Serving: Excellent in lettuce wraps or on rice crackers; also works well in a flour tortilla with a little extra sesame oil drizzled in. Storage: Best within 2 days. The cabbage softens noticeably by day 3 but the flavor is still good.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "classic-deli-chicken-salad-elevated",
     "title": "Classic Deli Chicken Salad, Elevated",
     "cuisine": "American",
     "mealTypes": [
-      "lunch"
+      "lunch",
+      "salad"
     ],
     "mainIngredients": [
       "chicken",
@@ -13311,14 +13630,18 @@
       "Rest Before Serving: Refrigerate at least 30 minutes. This one particularly benefits from a full hour — the pickles and dill integrate into the dressing and the flavor rounds out."
     ],
     "notes": "The sandwich standard, done right — clean, creamy, dill-forward, with the crunch of celery and pickles. Rest 30 min minimum. Pickles: Use dill pickles, not bread and butter. The sweetness of bread and butter pickles throws off the balance. The pickle brine can also be stirred in (1 tsp) if the dressing needs more tang. Fresh vs. dried dill: Dried dill goes in the dressing where it hydrates and blooms. Fresh dill is folded in at the end for brightness. If you only have one, dried in the dressing is more important. Storage: Keeps 4 days refrigerated. This is the most stable of the collection — the flavors actually improve on day 2.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "ryan-s-tuna-salad-measured-and-refined",
     "title": "Ryan's Tuna Salad, Measured and Refined",
     "cuisine": "American",
     "mealTypes": [
-      "lunch"
+      "lunch",
+      "salad"
     ],
     "mainIngredients": [
       "tuna",
@@ -13416,14 +13739,18 @@
       "Rest Before Serving: Cover and refrigerate at least 20 minutes. The dill and pickles bloom into the mayo and the whole thing comes together. Taste after resting and adjust seasoning."
     ],
     "notes": "The recipe you already make, formalized — same flavors, real measurements, a few small technique upgrades. Serves 3-4. Rest 20 min minimum. White Lightning: This seasoning is doing a lot of work. Start at 1/2 tsp and taste after resting — it's easy to add more, impossible to take it out. If you're out, a pinch of garlic powder, onion powder, and a little celery salt gets close. Onion: Regular white or yellow onion works here instead of red. If you prefer less bite, soak it the same way: cold water 5 minutes, pat dry. Storage: Keeps 3 days refrigerated. Stir before serving — the mayo settles.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "mediterranean-tuna-salad",
     "title": "Mediterranean Tuna Salad",
     "cuisine": "Mediterranean",
     "mealTypes": [
-      "lunch"
+      "lunch",
+      "salad"
     ],
     "mainIngredients": [
       "tuna",
@@ -13557,14 +13884,18 @@
       "Rest Before Serving: Refrigerate at least 20 minutes. The yogurt dressing needs time to bind to the tuna."
     ],
     "notes": "Bold, briny, and herb-forward — the tuna counterpart to the Greek chicken salad, with a yogurt-lemon dressing instead of mayo. Serves 3-4. Rest 20 min minimum. No mayo: This recipe intentionally skips mayo in favor of Greek yogurt and olive oil. The result is lighter and works better with the bright Mediterranean flavors. If you want more richness, add 1 tbsp mayonnaise to the dressing. Greek oregano: Use Greek or Mediterranean oregano, not Italian. The flavor is more intense and slightly bitter in a way that works well here. Storage: Keeps 3 days refrigerated. The lemon flavor stays bright longer than mayo-based salads.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "smoky-tuna-salad-with-roasted-red-pepper",
     "title": "Smoky Tuna Salad with Roasted Red Pepper",
     "cuisine": "American",
     "mealTypes": [
-      "lunch"
+      "lunch",
+      "salad"
     ],
     "mainIngredients": [
       "tuna",
@@ -13691,14 +14022,18 @@
       "Rest Before Serving: Refrigerate at least 20 minutes. The smoked paprika deepens as it sits."
     ],
     "notes": "Deep smoked paprika flavor, roasted red peppers, and a creamy mayo-yogurt base — rich and bold without any actual fire. Serves 3-4. Rest 20 min minimum. Smoked paprika: Use smoked (not sweet or hot) Spanish paprika. It's what gives this recipe its depth; standard paprika will not produce the same result. Drew option: Add a pinch of cayenne (1/8 to 1/4 tsp) to the dressing for Drew's portion. It adds heat that complements the smokiness without changing the base flavor. Roasted red peppers: Jarred peppers in water work better than oil-packed here — less to drain and the flavor is cleaner. Pat them thoroughly dry before chopping. Storage: Keeps 3 days refrigerated. The paprika flavor intensifies on day 2.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "sesame-soy-tuna-salad",
     "title": "Sesame Soy Tuna Salad",
     "cuisine": "Asian",
     "mealTypes": [
-      "lunch"
+      "lunch",
+      "salad"
     ],
     "mainIngredients": [
       "tuna",
@@ -13810,7 +14145,10 @@
       "Rest and Serve: Refrigerate at least 15 minutes. This one moves quickly — the flavors are bright and don't need a long rest. Taste again before serving."
     ],
     "notes": "Light, umami-forward, and wrap-ready — soy, toasted sesame, rice vinegar, and ginger with a minimal mayo base. Serves 3-4. Rest 15 min minimum. Sesame oil: Use toasted sesame oil — the dark kind. It carries all the sesame flavor; plain sesame oil has very little. Drew option: Sriracha stirred into Drew's portion works perfectly here; so does a drizzle of chili crisp over the top. Cucumber: Seed it and dice it small. Large cucumber pieces make the salad watery by day 2. If making ahead, add cucumber right before serving. Serving: Excellent in lettuce wraps or on rice crackers. The lighter dressing makes it ideal for lighter serving formats. Storage: Best within 2 days. Add fresh cucumber if serving on day 2.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "mexican-street-corn-chicken-salad",
@@ -13818,7 +14156,8 @@
     "cuisine": "Mexican",
     "mealTypes": [
       "lunch",
-      "dinner"
+      "dinner",
+      "salad"
     ],
     "mainIngredients": [
       "chicken",
@@ -14002,7 +14341,10 @@
       "Divide the chicken and the street corn salad into 4 servings. Store chilled and eat within 3 to 4 days."
     ],
     "notes": "Meal-prep recipe. Per serving (4 servings): ~475 cal, 58g protein, 30g carbs, 18g fat.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "gluten-free"
+    ]
   },
   {
     "id": "bacon-egg-cheese-rice-paper-spiral",
@@ -14076,7 +14418,8 @@
       "Bake at 400°F for 15 to 20 minutes, until golden and crisp."
     ],
     "notes": "Full recipe also at thechefoutwest.com.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": []
   },
   {
     "id": "mango-lassi-chia-pudding-with-cardamom-date-crumbl",
@@ -14212,7 +14555,11 @@
       "To serve, top the chia pudding with the cardamom date crumble. Adjust sweetness with extra maple syrup to taste."
     ],
     "notes": "About 10g fiber per serving. Full recipe with swaps on the creator's site.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian",
+      "gluten-free"
+    ]
   },
   {
     "id": "banana-pudding-overnight-oats",
@@ -14319,6 +14666,9 @@
       "Cover and refrigerate overnight. For best results, add the banana on top in the morning so it doesn't brown."
     ],
     "notes": "Per serving: 573 cal, 64g carbs, 16g fat, 44g protein.",
-    "createdAt": "2026-06-15"
+    "createdAt": "2026-06-15",
+    "diet": [
+      "vegetarian"
+    ]
   }
 ]
