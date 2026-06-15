@@ -13811,5 +13811,514 @@
     ],
     "notes": "Light, umami-forward, and wrap-ready — soy, toasted sesame, rice vinegar, and ginger with a minimal mayo base. Serves 3-4. Rest 15 min minimum. Sesame oil: Use toasted sesame oil — the dark kind. It carries all the sesame flavor; plain sesame oil has very little. Drew option: Sriracha stirred into Drew's portion works perfectly here; so does a drizzle of chili crisp over the top. Cucumber: Seed it and dice it small. Large cucumber pieces make the salad watery by day 2. If making ahead, add cucumber right before serving. Serving: Excellent in lettuce wraps or on rice crackers. The lighter dressing makes it ideal for lighter serving formats. Storage: Best within 2 days. Add fresh cucumber if serving on day 2.",
     "createdAt": "2026-06-15"
+  },
+  {
+    "id": "mexican-street-corn-chicken-salad",
+    "title": "Mexican Street Corn Chicken Salad",
+    "cuisine": "Mexican",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "corn"
+    ],
+    "tags": [
+      "meal-prep",
+      "high-protein",
+      "tiktok"
+    ],
+    "servings": 4,
+    "prepTime": 25,
+    "cookTime": 15,
+    "source": {
+      "url": "https://www.tiktok.com/@amateurprochef/video/7649477031775800584",
+      "note": "@amateurprochef on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "chicken breast",
+        "qty": 800,
+        "unit": "g",
+        "prep": "cut into bite-sized cubes",
+        "optional": false
+      },
+      {
+        "item": "lime juice",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the chicken",
+        "optional": false
+      },
+      {
+        "item": "avocado oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chili powder",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ground cumin",
+        "qty": 1.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "paprika",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cotija cheese",
+        "qty": 50,
+        "unit": "g",
+        "prep": "crumbled",
+        "optional": false
+      },
+      {
+        "item": "red onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "large, finely diced",
+        "optional": false
+      },
+      {
+        "item": "red bell pepper",
+        "qty": 1,
+        "unit": "",
+        "prep": "large, finely diced",
+        "optional": false
+      },
+      {
+        "item": "cilantro",
+        "qty": null,
+        "unit": "",
+        "prep": "1 handful, chopped",
+        "optional": false
+      },
+      {
+        "item": "jalapeño",
+        "qty": 3,
+        "unit": "",
+        "prep": "finely diced",
+        "optional": false
+      },
+      {
+        "item": "canned corn",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "drained and charred",
+        "optional": false
+      },
+      {
+        "item": "plain 0% Greek yogurt",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "lime juice",
+        "qty": null,
+        "unit": "",
+        "prep": "from ½ lime, for the sauce",
+        "optional": false
+      },
+      {
+        "item": "hot sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "Tajín",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "for the sauce",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Cut the chicken breast into bite-sized cubes, then add to a bowl with the lime juice, avocado oil, chili powder, cumin, garlic powder, paprika, salt, and black pepper. Mix well and marinate 15 to 30 minutes.",
+      "Heat a large pan over medium-high heat. Add the marinated chicken and cook 8 to 10 minutes, stirring occasionally, until browned and cooked through to 165°F.",
+      "Drain the canned corn well and pat dry with paper towel. In a clean hot pan, add the corn in a single layer and let it sit untouched 2 to 3 minutes, then stir and cook another 2 to 3 minutes until charred in spots.",
+      "In a bowl, whisk the Greek yogurt, lime juice, hot sauce, Tajín, water, salt, and black pepper until smooth.",
+      "In a large bowl, combine the charred corn, red onion, red bell pepper, cilantro, jalapeños, and cotija cheese.",
+      "Pour in the sauce and mix until everything is coated.",
+      "Divide the chicken and the street corn salad into 4 servings. Store chilled and eat within 3 to 4 days."
+    ],
+    "notes": "Meal-prep recipe. Per serving (4 servings): ~475 cal, 58g protein, 30g carbs, 18g fat.",
+    "createdAt": "2026-06-15"
+  },
+  {
+    "id": "bacon-egg-cheese-rice-paper-spiral",
+    "title": "Bacon, Egg & Cheese Rice Paper Spiral",
+    "cuisine": "American",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "mainIngredients": [
+      "eggs",
+      "rice paper"
+    ],
+    "tags": [
+      "breakfast",
+      "viral",
+      "tiktok"
+    ],
+    "servings": 2,
+    "prepTime": 10,
+    "cookTime": 20,
+    "source": {
+      "url": "https://www.tiktok.com/@thechefoutwest/video/7643519388880047368",
+      "note": "@thechefoutwest on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "eggs",
+        "qty": 5,
+        "unit": "",
+        "prep": "divided — 4 scrambled, 1 for coating",
+        "optional": false
+      },
+      {
+        "item": "rice paper",
+        "qty": 3,
+        "unit": "",
+        "prep": "large sheets",
+        "optional": false
+      },
+      {
+        "item": "mozzarella",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "shredded",
+        "optional": false
+      },
+      {
+        "item": "bacon",
+        "qty": 2,
+        "unit": "slice",
+        "prep": "cooked and chopped (turkey bacon works)",
+        "optional": false
+      },
+      {
+        "item": "everything bagel seasoning",
+        "qty": null,
+        "unit": "",
+        "prep": "for sprinkling",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 400°F and line a baking sheet with parchment paper.",
+      "Scramble 4 of the eggs over medium-low heat until just set but still soft, then set aside.",
+      "Crack the remaining egg into a shallow bowl and whisk until smooth.",
+      "Dip each of the 3 rice paper sheets into the beaten egg, coating both sides.",
+      "Lay the coated sheets on a lightly oiled surface, slightly overlapping to form one large sheet.",
+      "Add the scrambled eggs down the center, then top with the chopped bacon and shredded mozzarella.",
+      "Roll tightly into a cylinder, sealing as you go, then gently coil into a spiral.",
+      "Brush the top with any remaining egg and sprinkle generously with everything bagel seasoning.",
+      "Bake at 400°F for 15 to 20 minutes, until golden and crisp."
+    ],
+    "notes": "Full recipe also at thechefoutwest.com.",
+    "createdAt": "2026-06-15"
+  },
+  {
+    "id": "mango-lassi-chia-pudding-with-cardamom-date-crumbl",
+    "title": "Mango Lassi Chia Pudding with Cardamom Date Crumble",
+    "cuisine": "Indian",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "mainIngredients": [
+      "chia seeds",
+      "mango"
+    ],
+    "tags": [
+      "vegan",
+      "plant-based",
+      "make-ahead",
+      "high-fiber",
+      "tiktok"
+    ],
+    "servings": 2,
+    "prepTime": 15,
+    "cookTime": null,
+    "source": {
+      "url": "https://www.tiktok.com/@plantbasedrd/video/7647223124315868429",
+      "note": "@plantbasedrd on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "unsweetened plain plant-based yogurt",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "coconut milk",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "full-fat, canned",
+        "optional": false
+      },
+      {
+        "item": "soy milk",
+        "qty": 0.75,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "vanilla extract",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "kosher salt",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "mango",
+        "qty": 2,
+        "unit": "",
+        "prep": "honey mangos, peeled and cubed",
+        "optional": false
+      },
+      {
+        "item": "ground cardamom",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "maple syrup",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "adjust to taste",
+        "optional": false
+      },
+      {
+        "item": "chia seeds",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "walnuts",
+        "qty": 4,
+        "unit": "tbsp",
+        "prep": "for the crumble",
+        "optional": false
+      },
+      {
+        "item": "coconut flakes",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "for the crumble",
+        "optional": false
+      },
+      {
+        "item": "medjool dates",
+        "qty": 3,
+        "unit": "",
+        "prep": "for the crumble",
+        "optional": false
+      },
+      {
+        "item": "ground cardamom",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "for the crumble",
+        "optional": false
+      },
+      {
+        "item": "kosher salt",
+        "qty": null,
+        "unit": "",
+        "prep": "pinch, for the crumble",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Make the mango milk: in a blender, combine the cubed mango, plant-based yogurt, coconut milk, soy milk, vanilla, kosher salt, ground cardamom, and maple syrup. Blend until smooth.",
+      "Pour the mango milk into a jar or bowl and stir in the chia seeds until evenly distributed. Stir again after about 5 minutes to keep them from clumping.",
+      "Cover and refrigerate overnight (at least 4 hours), until thick and gelled.",
+      "Make the crumble: pulse the walnuts, coconut flakes, medjool dates, cardamom, and a pinch of salt in a food processor until it forms a sticky, textured crumble.",
+      "To serve, top the chia pudding with the cardamom date crumble. Adjust sweetness with extra maple syrup to taste."
+    ],
+    "notes": "About 10g fiber per serving. Full recipe with swaps on the creator's site.",
+    "createdAt": "2026-06-15"
+  },
+  {
+    "id": "banana-pudding-overnight-oats",
+    "title": "Banana Pudding Overnight Oats",
+    "cuisine": "American",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "mainIngredients": [
+      "oats",
+      "banana"
+    ],
+    "tags": [
+      "high-protein",
+      "make-ahead",
+      "overnight-oats",
+      "tiktok"
+    ],
+    "servings": 1,
+    "prepTime": 10,
+    "cookTime": null,
+    "source": {
+      "url": "https://www.tiktok.com/@_munaskitchen/video/7640221869546753311",
+      "note": "@_munaskitchen on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "rolled oats",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "Kodiak",
+        "optional": false
+      },
+      {
+        "item": "chia seeds",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "milk",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "Fairlife",
+        "optional": false
+      },
+      {
+        "item": "vanilla extract",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "vanilla yogurt",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "Ratio brand, for the base",
+        "optional": false
+      },
+      {
+        "item": "vanilla yogurt",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "Ratio brand, for the topping",
+        "optional": false
+      },
+      {
+        "item": "sugar-free Cool Whip",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "sugar-free vanilla pudding mix",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "mini Nilla wafers",
+        "qty": 6,
+        "unit": "",
+        "prep": "6–7 wafers",
+        "optional": false
+      },
+      {
+        "item": "banana",
+        "qty": 0.25,
+        "unit": "",
+        "prep": "¼–⅓ banana, sliced",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Blend the rolled oats and chia seeds together until finely ground.",
+      "Mix the ground oats with the Fairlife milk, 1 tbsp vanilla yogurt, and vanilla to make the oat base.",
+      "Make the pudding mixture: stir together the ½ cup vanilla yogurt, sugar-free Cool Whip, and sugar-free vanilla pudding mix until smooth.",
+      "In a jar, layer half the oat base, then half the pudding mixture, then a few crushed Nilla wafers and banana slices. Repeat with the remaining oat base, pudding mixture, wafers, and banana.",
+      "Cover and refrigerate overnight. For best results, add the banana on top in the morning so it doesn't brown."
+    ],
+    "notes": "Per serving: 573 cal, 64g carbs, 16g fat, 44g protein.",
+    "createdAt": "2026-06-15"
   }
 ]
