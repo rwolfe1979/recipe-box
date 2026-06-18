@@ -46,9 +46,9 @@ const App = {
 
   route() {
     if (!this.loaded) return;
-    const hash = location.hash || '#/recipes';
+    const hash = location.hash || '#/home';
     const parts = hash.replace(/^#\//, '').split('/');
-    const page = parts[0] || 'recipes';
+    const page = parts[0] || 'home';
     document.querySelectorAll('.bottomnav a').forEach(a => {
       a.classList.toggle('active', a.dataset.nav === page ||
         (a.dataset.nav === 'recipes' && (page === 'recipe' || page === 'edit')) ||
@@ -57,6 +57,7 @@ const App = {
     window.scrollTo(0, 0);
     const view = document.getElementById('view');
     switch (page) {
+      case 'home': return this.renderHome(view);
       case 'recipes': return this.renderBrowse(view);
       case 'recipe': return this.renderDetail(view, decodeURIComponent(parts[1] || ''));
       case 'new': return this.renderEdit(view, null);
@@ -65,8 +66,69 @@ const App = {
       case 'shopping': return this.renderShopping(view);
       case 'import': return this.renderImport(view);
       case 'settings': return this.renderSettings(view);
-      default: return this.renderBrowse(view);
+      default: return this.renderHome(view);
     }
+  },
+
+  // ---------- home (category selector) ----------
+
+  TYPE_META: [
+    ['breakfast', '🍳'], ['lunch', '🥪'], ['dinner', '🍽️'], ['bread', '🍞'],
+    ['soup', '🍲'], ['salad', '🥗'], ['side', '🥘'], ['snack', '🍿'],
+    ['dessert', '🍰'], ['drink', '🥤'],
+  ],
+
+  renderHome(view) {
+    const count = (pred) => Store.recipes.filter(pred).length;
+    const types = this.TYPE_META
+      .map(([t, e]) => ({ t, e, n: count(r => (r.mealTypes || []).includes(t)) }))
+      .filter(x => x.n > 0);
+    const cuisines = this.distinct(Store.recipes.map(r => r.cuisine))
+      .map(c => ({ c, n: count(r => r.cuisine === c) }))
+      .sort((a, b) => b.n - a.n);
+    const quick = [
+      { label: 'Under 30 min', emoji: '⏱️', f: { time: '30' } },
+      { label: 'Vegetarian', emoji: '🌱', f: { diet: 'vegetarian' }, on: count(r => (r.diet || []).includes('vegetarian')) },
+      { label: 'Vegan', emoji: '🥬', f: { diet: 'vegan' }, on: count(r => (r.diet || []).includes('vegan')) },
+      { label: 'From TikTok', emoji: '📱', f: { tag: 'tiktok' }, on: count(r => (r.tags || []).includes('tiktok')) },
+    ].filter(q => q.on === undefined || q.on > 0);
+
+    view.innerHTML = `
+      <div class="home-head">
+        <h2>What are we cooking?</h2>
+        <p class="muted small">${Store.recipes.length} recipes · tap a category, or <a href="javascript:App.browseBy({})">see them all</a></p>
+      </div>
+      <div class="searchbar"><input type="text" id="home-q" placeholder="Search all recipes…"></div>
+
+      <h3>By type</h3>
+      <div class="cat-grid">
+        ${types.map(x => `<button class="cat-tile" style="${this.placeholderStyle({ id: x.t })}" data-meal="${x.t}">
+          <span class="cat-emoji">${x.e}</span><span class="cat-name">${x.t}</span><span class="cat-count">${x.n}</span>
+        </button>`).join('')}
+      </div>
+
+      <h3>Quick picks</h3>
+      <div class="chip-row">
+        ${quick.map((q, i) => `<button class="quick-chip" data-quick="${i}"><span>${q.emoji}</span> ${q.label}</button>`).join('')}
+      </div>
+
+      <h3>By cuisine</h3>
+      <div class="chip-row">
+        ${cuisines.map(x => `<button class="quick-chip" data-cuisine="${this.esc(x.c)}">${this.esc(x.c)} <span class="muted">${x.n}</span></button>`).join('')}
+      </div>`;
+
+    const q = document.getElementById('home-q');
+    q.addEventListener('keydown', e => { if (e.key === 'Enter' && q.value.trim()) this.browseBy({ q: q.value.trim() }); });
+    view.querySelectorAll('[data-meal]').forEach(b => b.onclick = () => this.browseBy({ meal: b.dataset.meal }));
+    view.querySelectorAll('[data-cuisine]').forEach(b => b.onclick = () => this.browseBy({ cuisine: b.dataset.cuisine }));
+    view.querySelectorAll('[data-quick]').forEach(b => b.onclick = () => this.browseBy(quick[Number(b.dataset.quick)].f));
+  },
+
+  // Apply a filter set and jump to the full Recipes list.
+  browseBy(filter) {
+    this.browseFilters = Object.assign(
+      { q: '', meal: '', cuisine: '', main: '', tag: '', diet: '', time: '' }, filter);
+    location.hash = '#/recipes';
   },
 
   renderLoading() {

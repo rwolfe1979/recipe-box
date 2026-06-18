@@ -59,6 +59,8 @@ html, body {
   cursor: pointer;
 }
 
+.topbar-right { display: flex; align-items: center; gap: 10px; }
+
 .sync-badge {
   font-size: 0.75rem;
   color: var(--ink-soft);
@@ -68,6 +70,52 @@ html, body {
   padding: 3px 10px;
 }
 .sync-badge.ok { color: var(--green); border-color: var(--green); }
+
+.gear {
+  font-size: 1.2rem;
+  text-decoration: none;
+  line-height: 1;
+  filter: grayscale(0.2);
+}
+
+/* ---- home ---- */
+.home-head h2 { margin-bottom: 2px; }
+.cat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(104px, 1fr));
+  gap: 10px;
+  margin-bottom: 18px;
+}
+.cat-tile {
+  border: none;
+  border-radius: var(--radius);
+  padding: 14px 10px 12px;
+  cursor: pointer;
+  text-align: left;
+  color: #33251f;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 92px;
+  justify-content: flex-end;
+}
+.cat-tile .cat-emoji { font-size: 1.9rem; margin-bottom: auto; }
+.cat-tile .cat-name { font-weight: 600; text-transform: capitalize; }
+.cat-tile .cat-count { font-size: 0.78rem; opacity: 0.7; }
+
+.chip-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+.quick-chip {
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink);
+  border-radius: 99px;
+  padding: 8px 14px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.quick-chip:hover { border-color: var(--accent); }
 
 .view {
   max-width: 860px;

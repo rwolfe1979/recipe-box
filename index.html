@@ -12,18 +12,21 @@
 </head>
 <body>
   <header class="topbar">
-    <h1 class="brand" onclick="location.hash='#/recipes'">🍲 Recipe Box</h1>
-    <span id="sync-badge" class="sync-badge" title="GitHub sync status"></span>
+    <h1 class="brand" onclick="location.hash='#/home'">🍲 Recipe Box</h1>
+    <div class="topbar-right">
+      <span id="sync-badge" class="sync-badge" title="GitHub sync status"></span>
+      <a class="gear" href="#/settings" aria-label="Setup" title="Setup">⚙️</a>
+    </div>
   </header>
 
   <main id="view" class="view"></main>
 
   <nav class="bottomnav">
+    <a href="#/home" data-nav="home"><span class="nav-ico">🏠</span>Home</a>
     <a href="#/recipes" data-nav="recipes"><span class="nav-ico">📖</span>Recipes</a>
     <a href="#/plan" data-nav="plan"><span class="nav-ico">📅</span>Plan</a>
     <a href="#/shopping" data-nav="shopping"><span class="nav-ico">🛒</span>Shop</a>
     <a href="#/new" data-nav="new"><span class="nav-ico">➕</span>Add</a>
-    <a href="#/settings" data-nav="settings"><span class="nav-ico">⚙️</span>Setup</a>
   </nav>
 
   <div id="modal-root"></div>
