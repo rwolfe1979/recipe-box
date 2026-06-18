@@ -6,6 +6,7 @@ const path = require('path');
 const TYPES = {
   '.html': 'text/html', '.css': 'text/css', '.js': 'text/javascript',
   '.json': 'application/json', '.png': 'image/png',
+  '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.webp': 'image/webp', '.gif': 'image/gif',
   '.webmanifest': 'application/manifest+json', '.svg': 'image/svg+xml',
 };
 

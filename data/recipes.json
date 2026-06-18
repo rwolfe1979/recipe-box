@@ -14674,5 +14674,666 @@
       "vegetarian"
     ],
     "image": "images/banana-pudding-overnight-oats.jpg"
+  },
+  {
+    "id": "salted-maple-banana-bread",
+    "title": "Salted Maple Banana Bread",
+    "cuisine": "Bakery",
+    "mealTypes": [
+      "bread",
+      "breakfast",
+      "dessert"
+    ],
+    "mainIngredients": [
+      "banana",
+      "flour"
+    ],
+    "tags": [
+      "bread",
+      "sweet",
+      "tiktok"
+    ],
+    "servings": 1,
+    "prepTime": 15,
+    "cookTime": 60,
+    "source": {
+      "url": "https://www.tiktok.com/@theselena_v/video/7651342747361709343",
+      "note": "@theselena_v on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "unsalted butter",
+        "qty": 170,
+        "unit": "g",
+        "prep": "softened",
+        "optional": false
+      },
+      {
+        "item": "brown sugar",
+        "qty": 223,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "white sugar",
+        "qty": 72,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "banana",
+        "qty": 340,
+        "unit": "g",
+        "prep": "mashed",
+        "optional": false
+      },
+      {
+        "item": "eggs",
+        "qty": 2,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "vanilla bean paste",
+        "qty": 6,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "molasses",
+        "qty": 6,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 250,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "baking soda",
+        "qty": 5,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 5,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "buttermilk",
+        "qty": 4,
+        "unit": "oz",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "maple syrup",
+        "qty": 2,
+        "unit": "oz",
+        "prep": "Grade A, for topping",
+        "optional": false
+      },
+      {
+        "item": "flaky sea salt",
+        "qty": null,
+        "unit": "",
+        "prep": "for topping",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Cream the softened butter and both sugars together.",
+      "Add the mashed banana and mix until combined.",
+      "Add the eggs, vanilla paste, and molasses, then mix again. The butter will split — don't worry.",
+      "In a separate bowl, whisk the flour, baking soda, and salt.",
+      "Combine the wet and dry ingredients.",
+      "Add the buttermilk half at a time, mixing thoroughly after each addition.",
+      "Pour into a lightly sprayed, parchment-lined loaf pan.",
+      "Bake at 325°F until deeply golden and firm to the touch (200–205°F internal temperature).",
+      "Out of the oven, immediately pour the maple syrup on top — it absorbs fast, so brush it on in small sections with a pastry brush.",
+      "Top with flaky sea salt and let cool completely before slicing."
+    ],
+    "notes": "Even better the next day. At its peak if you slice it, wrap each slice in plastic, freeze, then thaw — the moisture redistributes and takes it to the next level.",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-06-18",
+    "image": "images/salted-maple-banana-bread.jpg"
+  },
+  {
+    "id": "peaches-cream-dirty-soda",
+    "title": "Peaches & Cream Dirty Soda",
+    "cuisine": "American",
+    "mealTypes": [
+      "drink"
+    ],
+    "mainIngredients": [
+      "peaches"
+    ],
+    "tags": [
+      "drink",
+      "make-ahead",
+      "tiktok"
+    ],
+    "servings": 8,
+    "prepTime": 10,
+    "cookTime": 20,
+    "source": {
+      "url": "https://www.tiktok.com/@crowdedkitchen/video/7651644065364069646",
+      "note": "@crowdedkitchen on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "fresh peaches",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "diced, skin on, for the syrup",
+        "optional": false
+      },
+      {
+        "item": "lemon",
+        "qty": 1,
+        "unit": "",
+        "prep": "large, zested and juiced, for the syrup",
+        "optional": false
+      },
+      {
+        "item": "granulated sugar",
+        "qty": 0.75,
+        "unit": "cup",
+        "prep": "for the syrup",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "for the syrup",
+        "optional": false
+      },
+      {
+        "item": "vanilla bean paste",
+        "qty": 1.25,
+        "unit": "tsp",
+        "prep": "for the syrup",
+        "optional": false
+      },
+      {
+        "item": "sparkling water",
+        "qty": null,
+        "unit": "",
+        "prep": "for topping",
+        "optional": false
+      },
+      {
+        "item": "peach",
+        "qty": 0.5,
+        "unit": "",
+        "prep": "optional, for a dirty soda",
+        "optional": true
+      },
+      {
+        "item": "heavy cream",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "optional, for a dirty soda",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Make the syrup: in a small bowl, massage the sugar and lemon zest together with your fingers until fragrant and evenly incorporated.",
+      "In a small saucepan over medium-low heat, combine the diced peaches, the sugar-zest mixture, the lemon juice, and the water. Simmer 15–20 minutes until the peaches soften and break down, mashing them a bit with a wooden spoon as they cook. Stir in the vanilla bean paste.",
+      "Strain the syrup to remove the solids, pressing to extract as much liquid as possible. Save the leftover peaches — they're basically jam.",
+      "Chill the syrup completely in the refrigerator.",
+      "Make a soda: to an ice-filled glass add 2–4 tbsp of peach syrup (to taste), then top with sparkling water.",
+      "For a dirty soda: blend ½ a peach with about ¼ cup water and strain to make peach juice. Add 2 tbsp syrup to an ice-filled glass, top with ¼–⅓ cup peach juice, then sparkling water and about 1 tbsp heavy cream (or coffee creamer). Stir and enjoy."
+    ],
+    "notes": "Syrup keeps in the fridge and makes several sodas. Save the strained peaches as a quick jam.",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-18",
+    "image": "images/peaches-cream-dirty-soda.jpg"
+  },
+  {
+    "id": "cozy-chicken-cream-stew",
+    "title": "Cozy Chicken Cream Stew",
+    "cuisine": "Japanese",
+    "mealTypes": [
+      "dinner",
+      "soup"
+    ],
+    "mainIngredients": [
+      "chicken"
+    ],
+    "tags": [
+      "stew",
+      "cozy",
+      "comfort food",
+      "tiktok"
+    ],
+    "servings": 4,
+    "prepTime": 20,
+    "cookTime": 45,
+    "source": {
+      "url": "https://www.tiktok.com/@brittydcook/video/7652431223821815054",
+      "note": "@brittydcook on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "chicken thighs",
+        "qty": 4,
+        "unit": "",
+        "prep": "cut into bite-sized pieces",
+        "optional": false
+      },
+      {
+        "item": "carrots",
+        "qty": 2,
+        "unit": "",
+        "prep": "sliced",
+        "optional": false
+      },
+      {
+        "item": "Yukon gold potatoes",
+        "qty": 2,
+        "unit": "",
+        "prep": "cubed",
+        "optional": false
+      },
+      {
+        "item": "spinach",
+        "qty": null,
+        "unit": "",
+        "prep": "2 handfuls",
+        "optional": false
+      },
+      {
+        "item": "cremini mushrooms",
+        "qty": 6,
+        "unit": "",
+        "prep": "sliced",
+        "optional": false
+      },
+      {
+        "item": "yellow onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "diced",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": null,
+        "unit": "",
+        "prep": "a few cloves, minced",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "sake",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chicken stock",
+        "qty": 32,
+        "unit": "oz",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "heavy cream",
+        "qty": 12,
+        "unit": "oz",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "fresh rosemary, thyme, and parsley",
+        "qty": null,
+        "unit": "",
+        "prep": "a big bundle, tied together",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": null,
+        "unit": "",
+        "prep": "for browning",
+        "optional": false
+      },
+      {
+        "item": "truffle oil",
+        "qty": null,
+        "unit": "",
+        "prep": "optional, to finish",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Prep all the vegetables first.",
+      "Heat a drizzle of olive oil in a pot and brown the chicken thoroughly, then remove it.",
+      "Add the mushrooms and onion with a pinch of salt and sauté until soft. Add the garlic and cook 2 minutes more.",
+      "Deglaze the pot with the sake. Once it no longer smells like alcohol and has reduced to almost no liquid, add the flour and mix well.",
+      "Add the chicken stock, the browned chicken, and the herb bundle. Simmer uncovered for 20 minutes.",
+      "Remove the herb bundle. Add the heavy cream, potatoes, and carrots and cook until tender.",
+      "If it's not thick enough, mix a couple tablespoons of flour with ⅓ cup water, stir it in, and simmer 5 more minutes.",
+      "Stir in the spinach to wilt, and season with salt and pepper. Serve with toasty sourdough, with a drizzle of truffle oil on top if you like."
+    ],
+    "notes": "Inspired by the cream stew in Witch Hat Atelier. A Japanese-style white cream stew — cozy comfort food.",
+    "diet": [],
+    "createdAt": "2026-06-18",
+    "image": "images/cozy-chicken-cream-stew.jpg"
+  },
+  {
+    "id": "french-eggs-baked-on-toast-in-cream",
+    "title": "French Eggs Baked on Toast in Cream",
+    "cuisine": "French",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "mainIngredients": [
+      "eggs"
+    ],
+    "tags": [
+      "breakfast",
+      "french",
+      "tiktok"
+    ],
+    "servings": 2,
+    "prepTime": 10,
+    "cookTime": 20,
+    "source": {
+      "url": "https://www.tiktok.com/@tastyfeedsdaily/video/7644860327477169429",
+      "note": "@tastyfeedsdaily on TikTok (Oeufs au Plat Bressane)"
+    },
+    "ingredients": [
+      {
+        "item": "heavy cream",
+        "qty": 200,
+        "unit": "ml",
+        "prep": "thickened",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "clove",
+        "prep": "unpeeled",
+        "optional": false
+      },
+      {
+        "item": "fresh rosemary",
+        "qty": 2,
+        "unit": "sprig",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "nutmeg",
+        "qty": null,
+        "unit": "",
+        "prep": "a pinch",
+        "optional": false
+      },
+      {
+        "item": "sourdough",
+        "qty": 2,
+        "unit": "slice",
+        "prep": "thick",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 30,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "eggs",
+        "qty": 4,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Gruyère cheese",
+        "qty": 60,
+        "unit": "g",
+        "prep": "or Comté, grated",
+        "optional": false
+      },
+      {
+        "item": "chives",
+        "qty": null,
+        "unit": "",
+        "prep": "finely chopped, to finish",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": null,
+        "unit": "",
+        "prep": "a drizzle",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Warm the cream with the garlic, rosemary, and nutmeg over low heat for 5 minutes, until fragrant.",
+      "Fry the sourdough in the butter with a drizzle of olive oil, 2–3 minutes each side, until golden.",
+      "Crack the eggs over the toast, strain the warm cream on top, season, and scatter over the grated cheese.",
+      "Bake at 180°C fan (about 350°F) for 8 minutes, until the whites are just set and the cream is gently bubbling.",
+      "Finish with chopped chives and serve immediately."
+    ],
+    "notes": "An old-school French classic (Oeufs au Plat Bressane). Ready in about 20 minutes.",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-06-18",
+    "image": "images/french-eggs-baked-on-toast-in-cream.jpg"
+  },
+  {
+    "id": "one-pot-sausage-and-fennel-rigatoni",
+    "title": "One-Pot Sausage and Fennel Rigatoni",
+    "cuisine": "Italian-American",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "sausage",
+      "pasta"
+    ],
+    "tags": [
+      "one-pot",
+      "weeknight",
+      "pasta",
+      "tiktok"
+    ],
+    "servings": 6,
+    "prepTime": 10,
+    "cookTime": 35,
+    "source": {
+      "url": "https://www.tiktok.com/@heresyourbite/video/7652159145956723981",
+      "note": "@heresyourbite on TikTok (one-pot spin on Ina Garten's)"
+    },
+    "ingredients": [
+      {
+        "item": "sweet Italian sausage",
+        "qty": 1,
+        "unit": "lb",
+        "prep": "casings removed, torn into pieces",
+        "optional": false
+      },
+      {
+        "item": "fennel bulb",
+        "qty": 1,
+        "unit": "",
+        "prep": "large, diced",
+        "optional": false
+      },
+      {
+        "item": "yellow onion",
+        "qty": 0.5,
+        "unit": "",
+        "prep": "large, diced",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 6,
+        "unit": "clove",
+        "prep": "finely minced",
+        "optional": false
+      },
+      {
+        "item": "fennel seeds",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "crushed (use 1 tsp for stronger fennel)",
+        "optional": false
+      },
+      {
+        "item": "red pepper flakes",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "tomato paste",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "dry white wine",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chicken broth",
+        "qty": 5,
+        "unit": "cup",
+        "prep": "5–6 cups",
+        "optional": false
+      },
+      {
+        "item": "rigatoni",
+        "qty": 1,
+        "unit": "lb",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "heavy cream",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Dijon mustard",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "Parmesan cheese",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "freshly grated, plus more for serving",
+        "optional": false
+      },
+      {
+        "item": "lemon",
+        "qty": 1,
+        "unit": "",
+        "prep": "zested",
+        "optional": false
+      },
+      {
+        "item": "unsalted butter",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "fresh parsley",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "chopped, plus more for serving",
+        "optional": false
+      },
+      {
+        "item": "kosher salt",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Brown the sausage in a large pot, breaking it into pieces, then remove and set aside.",
+      "In the same pot, sauté the onion and fennel until softened. Add the crushed fennel seeds, garlic, and red pepper flakes.",
+      "Add the tomato paste and let it caramelize, then stir it through.",
+      "Pour in the white wine, then add the chicken broth and the uncooked rigatoni.",
+      "Simmer, stirring occasionally, until the pasta is tender and has soaked up the liquid.",
+      "Finish with a splash of cream and simmer to thicken. Stir in the Dijon, the cooked sausage, Parmesan, lemon zest, and butter if using.",
+      "Stir in the fresh parsley, taste for salt and pepper, and serve with extra Parmesan."
+    ],
+    "notes": "A one-pot spin on Ina Garten's sausage and fennel rigatoni — fewer dishes to wash.",
+    "diet": [],
+    "createdAt": "2026-06-18",
+    "image": "images/one-pot-sausage-and-fennel-rigatoni.jpg"
   }
 ]
