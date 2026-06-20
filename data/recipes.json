@@ -17637,9 +17637,9 @@
       "party",
       "dip"
     ],
-    "servings": 10,
-    "prepTime": null,
-    "cookTime": null,
+    "servings": 12,
+    "prepTime": 30,
+    "cookTime": 20,
     "source": {
       "url": "",
       "note": "Family recipe"
@@ -17647,105 +17647,113 @@
     "ingredients": [
       {
         "item": "refried beans",
-        "qty": null,
-        "unit": "",
-        "prep": "for the bean layer",
-        "optional": false
-      },
-      {
-        "item": "cheddar cheese",
-        "qty": null,
-        "unit": "",
-        "prep": "for the bean layer",
+        "qty": 1,
+        "unit": "can",
+        "prep": "16 oz, your favorite, for the bean layer",
         "optional": false
       },
       {
         "item": "roasted green chilis",
-        "qty": null,
-        "unit": "",
-        "prep": "for the bean layer",
+        "qty": 1,
+        "unit": "can",
+        "prep": "7 oz, for the bean layer",
+        "optional": false
+      },
+      {
+        "item": "sharp cheddar cheese",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "shredded, or more to taste, for the bean layer",
         "optional": false
       },
       {
         "item": "guacamole",
-        "qty": null,
-        "unit": "",
-        "prep": "store-bought, for the guacamole layer",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "chunky, store-bought or homemade",
         "optional": false
       },
       {
         "item": "sour cream",
-        "qty": null,
-        "unit": "",
-        "prep": "for the sour cream layer",
+        "qty": 16,
+        "unit": "oz",
+        "prep": "",
         "optional": false
       },
       {
         "item": "taco seasoning",
-        "qty": null,
-        "unit": "",
-        "prep": "for the sour cream layer",
+        "qty": 1,
+        "unit": "packet",
+        "prep": "to taste",
         "optional": false
       },
       {
         "item": "fire-roasted salsa",
-        "qty": null,
-        "unit": "",
-        "prep": "for the salsa layer",
+        "qty": 1,
+        "unit": "jar",
+        "prep": "16 oz, high-quality, drained — reserve the liquid for the meat",
         "optional": false
       },
       {
         "item": "ground beef",
-        "qty": null,
-        "unit": "",
-        "prep": "for the meat layer",
+        "qty": 1,
+        "unit": "lb",
+        "prep": "",
         "optional": false
       },
       {
         "item": "Mexican seasoning",
-        "qty": null,
-        "unit": "",
-        "prep": "for the meat layer",
+        "qty": 1,
+        "unit": "packet",
+        "prep": "or homemade: cumin, chili powder, garlic powder, onion powder, oregano, salt, pepper",
         "optional": false
       },
       {
-        "item": "finely shredded Mexican-blend cheese",
-        "qty": null,
-        "unit": "",
-        "prep": "for the cheese layer",
+        "item": "Mexican-blend cheese",
+        "qty": 1,
+        "unit": "package",
+        "prep": "finely shredded, 1–2 packages (8 oz each), enough to fully cover",
         "optional": false
       },
       {
         "item": "tomatoes",
-        "qty": null,
-        "unit": "",
-        "prep": "fresh, diced, for topping",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "diced, for topping",
         "optional": false
       },
       {
         "item": "olives",
-        "qty": null,
-        "unit": "",
-        "prep": "for topping",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "sliced, for topping",
         "optional": false
       },
       {
         "item": "green onion",
-        "qty": null,
-        "unit": "",
-        "prep": "for topping",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "sliced, for topping",
         "optional": false
       },
       {
         "item": "pickled jalapeños",
-        "qty": null,
-        "unit": "",
-        "prep": "for topping",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "to taste, for topping",
         "optional": false
       }
     ],
-    "steps": [],
-    "notes": "A personal recipe — just the layers I use, quantities to taste.",
+    "steps": [
+      "Bean layer: Heat the can of refried beans in a saucepan on the stove. As it warms, stir in the can of roasted green chilis. Once hot, stir in about a cup of sharp cheddar (more to taste). When fully melted and incorporated, set aside to cool completely.",
+      "Guacamole: Use your favorite — homemade or store-bought, chunky is great. You’ll want about 2 cups.",
+      "Sour cream layer: Mix the sour cream with a full packet of taco seasoning (or to taste) until fully combined. Set aside.",
+      "Salsa: Put the fire-roasted salsa in a fine-mesh strainer to drain off most of the liquid — keep the drained liquid for the meat.",
+      "Meat layer: Brown the ground beef, stirring vigorously to break it into a very fine crumble (Taco Bell texture). When mostly cooked, add the Mexican seasoning and the reserved salsa liquid. Cook until most of the liquid evaporates and the meat is fine-grained and flavorful — moist but not wet, so the dip doesn’t get soupy.",
+      "Assemble: Spread the cooled bean mixture on a platter or in a large casserole dish. Spread the guacamole over it (it goes under the sour cream so it won’t brown). Dollop the sour cream mixture all over the guacamole and gently spread to fully seal it. Sprinkle the drained salsa over the sour cream. Scatter the meat in an even layer — don’t push or mix the layers; sprinkle as evenly as you can, then gently spread. Fully cover with the shredded Mexican-blend cheese.",
+      "Garnish generously with the diced tomatoes, sliced olives, sliced green onion, and pickled jalapeños (roughly a cup of each, to taste) — pile on plenty so every chip gets toppings. Serve with tortilla chips."
+    ],
+    "notes": "Make it vegetarian by omitting the meat layer and using vegetarian refried beans (not \"original,\" which has lard). For less heat, use tamed/mild jalapeños or omit them and pick a mild salsa and seasoning. Can/jar sizes are approximate — green chiles come in 4 oz or 7 oz, and salsa jars run 16–24 oz.",
     "diet": [],
     "createdAt": "2026-06-20"
   },
