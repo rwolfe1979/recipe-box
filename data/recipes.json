@@ -17927,5 +17927,189 @@
     "notes": "🐶 These are treats for DOGS, not people. For dogs allergic to chicken/eggs, substitute ¼ cup unsweetened applesauce for the egg. Flourless, so they're soft like baked cookies — they freeze well; thaw at room temperature before serving.",
     "diet": [],
     "createdAt": "2026-06-20"
+  },
+  {
+    "id": "beef-bulgogi-meal-prep",
+    "title": "Beef Bulgogi (Meal Prep)",
+    "cuisine": "Korean",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "beef"
+    ],
+    "tags": [
+      "meal-prep",
+      "high-protein",
+      "freezer",
+      "instagram"
+    ],
+    "servings": 8,
+    "prepTime": 15,
+    "cookTime": 10,
+    "source": {
+      "url": "https://www.instagram.com/reel/DZdTzjHPnkQ/",
+      "note": "@shreddedandfed on Instagram"
+    },
+    "ingredients": [
+      {
+        "item": "petite top sirloin",
+        "qty": 1.2,
+        "unit": "kg",
+        "prep": "medallion, thinly sliced",
+        "optional": false
+      },
+      {
+        "item": "sesame oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "gochujang",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "brown sugar",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 0.75,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 9,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "ginger",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "green onions",
+        "qty": 6,
+        "unit": "",
+        "prep": "sliced",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Combine all the marinade ingredients: sesame oil, gochujang, brown sugar, soy sauce, garlic, ginger, and green onions.",
+      "Portion the thinly sliced beef into zip-top bags or freezer-safe containers and divide the marinade evenly among them.",
+      "Mix well so the beef is fully coated.",
+      "Marinate 1–2 hours before cooking, or freeze immediately (thaw before cooking).",
+      "To cook, sear the beef in a hot pan or stir-fry until caramelized and cooked through. Serve with rice or noodles, or toss into a stir-fry."
+    ],
+    "notes": "Per serving: 248 cal, 37g protein, 9g fat, 6g carbs. Freezer-friendly — store up to 3–4 months frozen. The creator notes you can sub 1 tbsp chili crisp if you run out of gochujang, but gochujang is the better option.",
+    "diet": [],
+    "createdAt": "2026-06-20",
+    "image": "images/beef-bulgogi-meal-prep.jpg"
+  },
+  {
+    "id": "bacon-chive-egg-salad",
+    "title": "Bacon & Chive Egg Salad",
+    "cuisine": "American",
+    "mealTypes": [
+      "lunch",
+      "breakfast"
+    ],
+    "mainIngredients": [
+      "eggs",
+      "bacon"
+    ],
+    "tags": [
+      "high-protein",
+      "meal-prep",
+      "instagram"
+    ],
+    "servings": 6,
+    "prepTime": 20,
+    "cookTime": 15,
+    "source": {
+      "url": "https://www.instagram.com/reel/DZSaDMkxWEk/",
+      "note": "@mishkamakesfood on Instagram"
+    },
+    "ingredients": [
+      {
+        "item": "eggs",
+        "qty": 12,
+        "unit": "",
+        "prep": "extra large",
+        "optional": false
+      },
+      {
+        "item": "cottage cheese",
+        "qty": 0.75,
+        "unit": "cup",
+        "prep": "use low-fat if watching calories",
+        "optional": false
+      },
+      {
+        "item": "dijon mustard",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "thin-cut bacon",
+        "qty": 1,
+        "unit": "package",
+        "prep": "12 oz",
+        "optional": false
+      },
+      {
+        "item": "chives",
+        "qty": null,
+        "unit": "",
+        "prep": "chopped — add a ton",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "freshly cracked",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Bring a large pot of water to a boil over high heat, then lower to medium and gently lower in the eggs. Cook for 10 minutes.",
+      "Transfer the eggs immediately to an ice bath and chill until completely cold. Peel and roughly chop.",
+      "Meanwhile, cook the bacon until crisp, drain on paper towels, and chop into small pieces.",
+      "Add the cottage cheese and a small splash of water (start with 1 tsp) to a blender and blend until completely smooth and creamy, adding water as needed.",
+      "In a large bowl, combine the chopped eggs, bacon, chives, Dijon mustard, and about half the blended cottage cheese.",
+      "Season with a pinch of salt and plenty of freshly cracked black pepper. Stir until evenly combined, adding more cottage cheese until dressed to your liking.",
+      "For the best flavor, cover and refrigerate at least 1 hour before serving."
+    ],
+    "notes": "Blended cottage cheese stands in for mayo to keep it lighter. Scaled for meal prep (a full dozen eggs) — make a half batch if you want less.",
+    "diet": [
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-20",
+    "image": "images/bacon-chive-egg-salad.jpg"
   }
 ]
