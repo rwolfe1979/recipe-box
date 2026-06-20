@@ -15335,5 +15335,945 @@
     "diet": [],
     "createdAt": "2026-06-18",
     "image": "images/one-pot-sausage-and-fennel-rigatoni.jpg"
+  },
+  {
+    "id": "sweet-and-sticky-chicken",
+    "title": "Sweet and Sticky Chicken",
+    "cuisine": "Chinese",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "chicken"
+    ],
+    "tags": [
+      "weeknight",
+      "stir-fry",
+      "tiktok"
+    ],
+    "servings": 3,
+    "prepTime": 15,
+    "cookTime": 15,
+    "source": {
+      "url": "https://www.tiktok.com/@foodiligence/video/7652782044556168461",
+      "note": "@foodiligence on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "chicken thighs",
+        "qty": 16,
+        "unit": "oz",
+        "prep": "cut into 1-inch bite-sized chunks",
+        "optional": false
+      },
+      {
+        "item": "neutral oil",
+        "qty": null,
+        "unit": "",
+        "prep": "for cooking",
+        "optional": false
+      },
+      {
+        "item": "dark soy sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "light soy sauce",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "oyster sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 3,
+        "unit": "clove",
+        "prep": "grated",
+        "optional": false
+      },
+      {
+        "item": "brown sugar",
+        "qty": 1.5,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "honey",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "rice vinegar",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "sesame oil",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "rice",
+        "qty": null,
+        "unit": "",
+        "prep": "for serving",
+        "optional": false
+      },
+      {
+        "item": "green onions",
+        "qty": null,
+        "unit": "",
+        "prep": "for topping",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Slice the chicken thighs into 1-inch pieces. In a bowl, combine with the dark soy, light soy, rice vinegar, oyster sauce, grated garlic, brown sugar, honey, and sesame oil. Marinate at least 15 minutes (or overnight).",
+      "Preheat a pan over medium-high heat. Add a bit of oil and the chicken with all its marinade.",
+      "Cook to an internal temperature of at least 165°F — the sauce will thicken as it cooks.",
+      "Serve over rice, topped with green onions if you like."
+    ],
+    "notes": "Episode 11 of 'recipes every home cook should know.'",
+    "diet": [],
+    "createdAt": "2026-06-20",
+    "image": "images/sweet-and-sticky-chicken.jpg"
+  },
+  {
+    "id": "lemon-caesar-yogurt-marinated-chicken",
+    "title": "Lemon Caesar Yogurt Marinated Chicken",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "chicken"
+    ],
+    "tags": [
+      "high-protein",
+      "marinade",
+      "tiktok"
+    ],
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 10,
+    "source": {
+      "url": "https://www.tiktok.com/@sammymontgoms/video/7652036099186969876",
+      "note": "@sammymontgoms on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "chicken cutlets",
+        "qty": 1.5,
+        "unit": "lb",
+        "prep": "1½–2 lb, ~4 breasts sliced in half and pounded thin",
+        "optional": false
+      },
+      {
+        "item": "plain full-fat Greek yogurt",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "extra-virgin olive oil",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "lemon",
+        "qty": 0.5,
+        "unit": "",
+        "prep": "large, juiced",
+        "optional": false
+      },
+      {
+        "item": "lemon zest",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 4,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "yellow mustard",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "anchovy paste",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Worcestershire sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Parmigiano-Reggiano",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "finely grated",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for pan-frying",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Slice each chicken breast in half horizontally into thinner cutlets. Pound between plastic wrap to an even ~¼-inch thickness. Season both sides with salt and pepper.",
+      "In a large baking dish, whisk together the Greek yogurt, olive oil, lemon juice, lemon zest, minced garlic, yellow mustard, anchovy paste, Worcestershire, grated Parmigiano-Reggiano, and black pepper until smooth.",
+      "Add the cutlets and turn to coat evenly. Cover and refrigerate at least 1 hour (no more than 24).",
+      "Let the chicken come to room temperature for about 20 minutes before cooking.",
+      "Pan-fry: heat 2–3 tbsp olive oil in a large pan over medium-high. Add the chicken and cook 2–3 minutes per side — try not to flip for the first couple minutes so it doesn't stick. Remove at 160°F internal, cover with foil, and rest 5 minutes (it keeps rising).",
+      "Finish with extra parmesan, black pepper, and a squeeze of lemon."
+    ],
+    "notes": "Air fryer: 375°F, ~7 min per side to 165°F. Oven: 425°F on parchment, 15–20 min to 165°F. Marinate no longer than 24 hours.",
+    "diet": [],
+    "createdAt": "2026-06-20",
+    "image": "images/lemon-caesar-yogurt-marinated-chicken.jpg"
+  },
+  {
+    "id": "spicy-chili-shrimp-rice-paper-wontons",
+    "title": "Spicy Chili Shrimp Rice Paper Wontons",
+    "cuisine": "Asian",
+    "mealTypes": [
+      "dinner",
+      "snack"
+    ],
+    "mainIngredients": [
+      "shrimp",
+      "rice paper"
+    ],
+    "tags": [
+      "high-protein",
+      "steamed",
+      "tiktok"
+    ],
+    "servings": 1,
+    "prepTime": 20,
+    "cookTime": 10,
+    "source": {
+      "url": "https://www.tiktok.com/@joexfitness/video/7653117692592917773",
+      "note": "@joexfitness on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "Argentine red shrimp",
+        "qty": 6,
+        "unit": "oz",
+        "prep": "raw, for the filling",
+        "optional": false
+      },
+      {
+        "item": "ginger",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "prep": "minced, for the filling",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "minced, for the filling",
+        "optional": false
+      },
+      {
+        "item": "green onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "thinly diced, for the filling",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the filling",
+        "optional": false
+      },
+      {
+        "item": "cornstarch",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the filling",
+        "optional": false
+      },
+      {
+        "item": "white pepper",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the filling",
+        "optional": false
+      },
+      {
+        "item": "rice paper",
+        "qty": 6,
+        "unit": "sheet",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chili crisp",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "rice vinegar",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "prep": "minced, for the sauce",
+        "optional": false
+      },
+      {
+        "item": "brown sugar",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "green onion",
+        "qty": 2,
+        "unit": "",
+        "prep": "whole, medium, thinly sliced, for the sauce",
+        "optional": false
+      },
+      {
+        "item": "sesame oil",
+        "qty": 0.25,
+        "unit": "tbsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "sesame seeds",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the sauce",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Chop the shrimp into fine chunks and thinly dice the green onions.",
+      "In a bowl, combine the shrimp, green onions, ginger, garlic, soy sauce, cornstarch, and white pepper and mix well to make the filling.",
+      "In a small bowl, mix the chili crisp, rice vinegar, soy sauce, minced garlic, brown sugar, sesame oil, sesame seeds, and thinly sliced green onions to make the sauce.",
+      "Wet a sheet of rice paper in water and fold it in on all sides to form a square roughly 2.5 inches across.",
+      "Place 1–2 tbsp of filling in the center and pinch all the corners together tightly, completely sealing the filling inside to form a rice-paper wonton.",
+      "Place the wontons on a sheet of non-stick baking paper, set in a steamer, and steam 8–10 minutes until the shrimp is cooked.",
+      "Transfer the wontons to a bowl, pour the sauce over the top, and enjoy."
+    ],
+    "notes": "Per serving: 34g protein, 68g carbs, 11g fat, 516 cal. Scale the ingredients up to make more servings.",
+    "diet": [],
+    "createdAt": "2026-06-20",
+    "image": "images/spicy-chili-shrimp-rice-paper-wontons.jpg"
+  },
+  {
+    "id": "blueberry-muffin-tops",
+    "title": "Blueberry Muffin Tops",
+    "cuisine": "Bakery",
+    "mealTypes": [
+      "breakfast",
+      "dessert",
+      "snack"
+    ],
+    "mainIngredients": [
+      "blueberries",
+      "flour"
+    ],
+    "tags": [
+      "sweet",
+      "tiktok"
+    ],
+    "servings": 10,
+    "prepTime": 20,
+    "cookTime": 15,
+    "source": {
+      "url": "https://www.tiktok.com/@crowdedkitchen/video/7647581308532608270",
+      "note": "@crowdedkitchen on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "unsalted butter",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "softened",
+        "optional": false
+      },
+      {
+        "item": "granulated sugar",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "egg",
+        "qty": 1,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "vanilla extract",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "lemon zest",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 1.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "baking powder",
+        "qty": 1.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "baking soda",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "whole milk",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "fresh blueberries",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "unsalted butter",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "room temperature, for the streusel",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 5,
+        "unit": "tbsp",
+        "prep": "for the streusel",
+        "optional": false
+      },
+      {
+        "item": "granulated sugar",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the streusel",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 375°F / 190°C and line a sheet pan with parchment paper.",
+      "In a large bowl, cream the butter and sugar until light and fluffy, 2–3 minutes. Beat in the egg and vanilla until fully incorporated.",
+      "Add the flour, baking powder, baking soda, and salt and mix until combined. Pour in the milk and stir with a spatula until a very thick batter forms.",
+      "In a small bowl, toss the blueberries with about a tablespoon of flour, then fold the coated blueberries into the batter.",
+      "Refrigerate the batter at least 30 minutes.",
+      "Make the streusel: rub the butter into the flour and sugar with a fork or your fingers.",
+      "Scoop the batter with a 3-tablespoon cookie scoop (don't flatten it). Roll the top and sides of each ball in streusel, leaving the bottom bare, and place on the sheet pan ~3 inches apart.",
+      "Bake 12–15 minutes, until the edges begin to brown and the tops turn golden. Cool completely on a wire rack before enjoying."
+    ],
+    "notes": "Makes 10. Chilling the batter keeps them from spreading too much.",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-06-20",
+    "image": "images/blueberry-muffin-tops.jpg"
+  },
+  {
+    "id": "patatas-bravas",
+    "title": "Patatas Bravas",
+    "cuisine": "Spanish",
+    "mealTypes": [
+      "side",
+      "snack"
+    ],
+    "mainIngredients": [
+      "potatoes"
+    ],
+    "tags": [
+      "fried",
+      "tiktok"
+    ],
+    "servings": 6,
+    "prepTime": 20,
+    "cookTime": 35,
+    "source": {
+      "url": "https://www.tiktok.com/@eatwithalyssa/video/7652067742211640589",
+      "note": "@eatwithalyssa on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "gold potatoes",
+        "qty": 5,
+        "unit": "lb",
+        "prep": "peeled and cut into cubes",
+        "optional": false
+      },
+      {
+        "item": "baking soda",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "for the boiling water",
+        "optional": false
+      },
+      {
+        "item": "high-heat oil",
+        "qty": null,
+        "unit": "",
+        "prep": "for frying",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "for the bravas sauce",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 5,
+        "unit": "clove",
+        "prep": "minced, for the sauce",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "smoked paprika",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cayenne pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste, optional",
+        "optional": true
+      },
+      {
+        "item": "chicken stock",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "sherry vinegar",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chicken bouillon",
+        "qty": null,
+        "unit": "",
+        "prep": "or salt, to taste",
+        "optional": false
+      },
+      {
+        "item": "mayonnaise",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "for the aioli",
+        "optional": false
+      },
+      {
+        "item": "lemon",
+        "qty": 0.5,
+        "unit": "",
+        "prep": "juiced, for the aioli",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the aioli",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "clove",
+        "prep": "minced, for the aioli",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Peel, wash, and cube 5 lb of gold potatoes.",
+      "Bring a pot of water to a boil with a heavy pour of salt and 2 tsp baking soda. Par-boil the potatoes 8–10 minutes, then lay them out flat to cool completely.",
+      "Fry in 350°F oil for about 5 minutes. Double-fry until golden brown, rest on a cooling rack, and salt immediately after the second fry.",
+      "Make the bravas sauce: in a pan over medium heat, add ⅓ cup olive oil, the minced garlic, and the flour. Cook about 1 minute, then add the smoked paprika, cayenne (if using), chicken stock, and sherry vinegar, and season with chicken bouillon or salt. Whisk frequently and cook ~8 minutes until thickened.",
+      "Make the garlic aioli: mix the mayo, juice of ½ lemon, olive oil, minced garlic, and salt.",
+      "Serve the potatoes fresh from the fryer, topped with the (lukewarm) bravas sauce and a drizzle of garlic aioli."
+    ],
+    "notes": "",
+    "diet": [],
+    "createdAt": "2026-06-20",
+    "image": "images/patatas-bravas.jpg"
+  },
+  {
+    "id": "crispy-honey-chicken",
+    "title": "Crispy Honey Chicken",
+    "cuisine": "Chinese",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "chicken"
+    ],
+    "tags": [
+      "fried",
+      "restaurant-style",
+      "tiktok"
+    ],
+    "servings": 4,
+    "prepTime": 20,
+    "cookTime": 20,
+    "source": {
+      "url": "https://www.tiktok.com/@victor.wokmanyama/video/7652643935885610261",
+      "note": "@victor.wokmanyama on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "chicken",
+        "qty": null,
+        "unit": "",
+        "prep": "about 1 lb (500g), cut into 1cm pieces",
+        "optional": false
+      },
+      {
+        "item": "plain flour",
+        "qty": 100,
+        "unit": "g",
+        "prep": "for the batter",
+        "optional": false
+      },
+      {
+        "item": "cornstarch",
+        "qty": 50,
+        "unit": "g",
+        "prep": "for the batter",
+        "optional": false
+      },
+      {
+        "item": "oil",
+        "qty": 30,
+        "unit": "g",
+        "prep": "for the batter",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 200,
+        "unit": "ml",
+        "prep": "for the batter",
+        "optional": false
+      },
+      {
+        "item": "baking powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the batter",
+        "optional": false
+      },
+      {
+        "item": "honey",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the glaze",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 4,
+        "unit": "tbsp",
+        "prep": "for the glaze",
+        "optional": false
+      },
+      {
+        "item": "rice vinegar",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the glaze",
+        "optional": false
+      },
+      {
+        "item": "toasted sesame seeds",
+        "qty": null,
+        "unit": "",
+        "prep": "to finish",
+        "optional": false
+      },
+      {
+        "item": "vermicelli noodles",
+        "qty": null,
+        "unit": "",
+        "prep": "optional, for plating",
+        "optional": true
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "chicken powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "baking soda",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "cornstarch",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "mirin",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "or cooking sake, for the marinade",
+        "optional": false
+      },
+      {
+        "item": "oil",
+        "qty": null,
+        "unit": "",
+        "prep": "for deep frying",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Cut the chicken into 1cm pieces. Add the salt, chicken powder, baking soda, ½ tbsp cornstarch, and mirin (or cooking sake). Mix well and marinate 10 minutes.",
+      "For the batter, first mix the plain flour, cornstarch, and oil. Add the water and stir until smooth, then add the baking powder and mix again. It should be thin enough to lightly coat your finger.",
+      "Add the chicken to the batter and mix until every piece is coated.",
+      "Heat oil to 180°C. Add the chicken pieces one by one. Don't move them for at least 1 minute or the batter may fall off. Fry about 3 minutes until golden.",
+      "Raise the oil to 190–200°C and fry again for about 15 seconds. Remove and drain.",
+      "Pour out the oil. Add the honey, sugar, and rice vinegar to the wok and cook over medium-high heat until the sugar melts and the syrup bubbles. Add the fried chicken and toss quickly until coated — as it cools slightly the glaze forms a thin crunchy honey shell.",
+      "For restaurant-style plating, fry a handful of vermicelli noodles until puffed, set the honey chicken on top, and finish with toasted sesame seeds."
+    ],
+    "notes": "",
+    "diet": [],
+    "createdAt": "2026-06-20",
+    "image": "images/crispy-honey-chicken.jpg"
+  },
+  {
+    "id": "blueberry-cheesecake-chia-pudding",
+    "title": "Blueberry Cheesecake Chia Pudding",
+    "cuisine": "American",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "mainIngredients": [
+      "chia seeds",
+      "blueberries"
+    ],
+    "tags": [
+      "high-protein",
+      "make-ahead",
+      "tiktok"
+    ],
+    "servings": 3,
+    "prepTime": 10,
+    "cookTime": null,
+    "source": {
+      "url": "https://www.tiktok.com/@mariannas_pantry/video/7652792520438566158",
+      "note": "@mariannas_pantry on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "frozen blueberries",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "almond milk",
+        "qty": 1.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "vanilla protein powder",
+        "qty": 2,
+        "unit": "scoop",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cheesecake instant pudding mix",
+        "qty": null,
+        "unit": "",
+        "prep": "sugar-free, about 1 small box",
+        "optional": false
+      },
+      {
+        "item": "chia seeds",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "yogurt",
+        "qty": null,
+        "unit": "",
+        "prep": "for topping",
+        "optional": false
+      },
+      {
+        "item": "blueberries",
+        "qty": null,
+        "unit": "",
+        "prep": "for topping",
+        "optional": false
+      },
+      {
+        "item": "graham crackers",
+        "qty": null,
+        "unit": "",
+        "prep": "crushed, for topping",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Add the blueberries, almond milk, protein powder, and pudding mix to a blender and blend until smooth.",
+      "Add the chia seeds and blend again on high until it starts to thicken to a pudding-like texture.",
+      "Pour into jars, add the toppings, and store in the fridge for up to 4 days."
+    ],
+    "notes": "",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-06-20",
+    "image": "images/blueberry-cheesecake-chia-pudding.jpg"
   }
 ]
