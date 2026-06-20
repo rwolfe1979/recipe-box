@@ -15588,6 +15588,7 @@
     "title": "Spicy Chili Shrimp Rice Paper Wontons",
     "cuisine": "Asian",
     "mealTypes": [
+      "appetizer",
       "dinner",
       "snack"
     ],
@@ -15881,6 +15882,7 @@
     "title": "Patatas Bravas",
     "cuisine": "Spanish",
     "mealTypes": [
+      "appetizer",
       "side",
       "snack"
     ],
@@ -17626,8 +17628,8 @@
     "title": "Layered Dip",
     "cuisine": "Mexican",
     "mealTypes": [
-      "snack",
-      "side"
+      "appetizer",
+      "snack"
     ],
     "mainIngredients": [
       "beans",
