@@ -16275,5 +16275,1657 @@
     ],
     "createdAt": "2026-06-20",
     "image": "images/blueberry-cheesecake-chia-pudding.jpg"
+  },
+  {
+    "id": "honey-roasted-carrots",
+    "title": "Honey Roasted Carrots",
+    "cuisine": "American",
+    "mealTypes": [
+      "side"
+    ],
+    "mainIngredients": [
+      "carrots"
+    ],
+    "tags": [
+      "roasted",
+      "easy"
+    ],
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 50,
+    "source": {
+      "url": "",
+      "note": "Allrecipes (FrackFamily5)"
+    },
+    "ingredients": [
+      {
+        "item": "carrots",
+        "qty": 8,
+        "unit": "",
+        "prep": "peeled",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "honey",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 350°F (175°C).",
+      "Place the whole carrots in a baking dish and drizzle with olive oil; mix until completely coated.",
+      "Pour on the honey, season with salt and pepper, and mix until evenly coated.",
+      "Bake until just tender, or cooked to your liking, 40 minutes to 1 hour."
+    ],
+    "notes": "",
+    "diet": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "irish-heritage-cabbage",
+    "title": "Irish Heritage Cabbage",
+    "cuisine": "Irish",
+    "mealTypes": [
+      "side"
+    ],
+    "mainIngredients": [
+      "cabbage"
+    ],
+    "tags": [
+      "side"
+    ],
+    "servings": 6,
+    "prepTime": 5,
+    "cookTime": 20,
+    "source": {
+      "url": "",
+      "note": "Allrecipes (JOELSGIRL)"
+    },
+    "ingredients": [
+      {
+        "item": "Irish bacon",
+        "qty": 2,
+        "unit": "slice",
+        "prep": "diced",
+        "optional": false
+      },
+      {
+        "item": "cabbage",
+        "qty": 1,
+        "unit": "head",
+        "prep": "cored and cut into wedges",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "melted",
+        "optional": false
+      },
+      {
+        "item": "ground nutmeg",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "red wine vinegar",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat your oven's broiler.",
+      "Place the cabbage in a large pot, add the water, and bring to a boil. Simmer over low heat until tender, about 15 minutes.",
+      "Meanwhile, cook the bacon in a skillet over medium-high heat until crisp; drain and set aside.",
+      "Drain the cabbage and drizzle with the melted butter. Sprinkle with the bacon and nutmeg and transfer to a baking dish.",
+      "Broil until the top is lightly browned, about 5 minutes. Serve with salt, pepper, and red wine vinegar to taste."
+    ],
+    "notes": "",
+    "diet": [
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "chicken-kebabs-with-turmeric-and-chile",
+    "title": "Chicken Kebabs with Turmeric and Chile",
+    "cuisine": "Armenian",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "chicken"
+    ],
+    "tags": [
+      "grill",
+      "marinade"
+    ],
+    "servings": 4,
+    "prepTime": 20,
+    "cookTime": 20,
+    "source": {
+      "url": "",
+      "note": "Mark Bittman, NYT Cooking (chef Edward Khechemyan, Adana LA)"
+    },
+    "ingredients": [
+      {
+        "item": "boneless, skinless chicken thighs",
+        "qty": 2,
+        "unit": "lb",
+        "prep": "cut into 1½-inch chunks",
+        "optional": false
+      },
+      {
+        "item": "white onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "sliced",
+        "optional": false
+      },
+      {
+        "item": "crushed red chile powder",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "turmeric",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "saffron",
+        "qty": null,
+        "unit": "",
+        "prep": "a pinch",
+        "optional": false
+      },
+      {
+        "item": "lemon juice",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Combine all the ingredients in a nonreactive dish (or a resealable bag) and marinate in the refrigerator between 3 hours and overnight.",
+      "Discard the onions (or grill them separately if you like) and thread the chicken onto skewers. Heat a charcoal or gas grill; the flame should be fairly low and the rack about 6 inches from the heat.",
+      "Grill the chicken slowly, turning as necessary and basting with any leftover marinade, until browned all over, 15 to 20 minutes."
+    ],
+    "notes": "Marinate at least 3 hours. The chef grills slowly over a low flame, not too close to the fire, until gorgeously browned.",
+    "diet": [
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "strawberry-soda",
+    "title": "Strawberry Soda",
+    "cuisine": "American",
+    "mealTypes": [
+      "drink"
+    ],
+    "mainIngredients": [
+      "strawberries"
+    ],
+    "tags": [
+      "drink",
+      "summer"
+    ],
+    "servings": 2,
+    "prepTime": 25,
+    "cookTime": null,
+    "source": {
+      "url": "",
+      "note": "Vallery Lomas, NYT Cooking"
+    },
+    "ingredients": [
+      {
+        "item": "fresh strawberries",
+        "qty": 1,
+        "unit": "lb",
+        "prep": "hulled and rinsed (or frozen), for the syrup",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "for the syrup",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "for the syrup",
+        "optional": false
+      },
+      {
+        "item": "club soda",
+        "qty": 1.25,
+        "unit": "cup",
+        "prep": "or sparkling water",
+        "optional": false
+      },
+      {
+        "item": "lime juice",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "fresh",
+        "optional": false
+      },
+      {
+        "item": "strawberries",
+        "qty": null,
+        "unit": "",
+        "prep": "sliced, optional, to garnish",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Make the strawberry syrup (blender method): purée the strawberries with 1 cup water. Pour into a medium saucepan over medium-high heat, stir in the sugar, and bring to a boil. Reduce heat to medium and stir occasionally until reduced by half, about 15 minutes (lower the heat if it foams up). Cool and store airtight in the fridge up to 1 week (yields about 2 cups).",
+      "Make the soda: combine ½ cup strawberry syrup, the club soda, and the lime juice in a measuring cup and stir well.",
+      "Divide between two ice-filled glasses, add sliced strawberries, and serve immediately."
+    ],
+    "notes": "No blender: simmer the strawberries, sugar, and 1 cup water ~10 min, mash thoroughly, reduce 5 more min, then strain. Adjust to taste — more syrup for sweeter, more lime/soda for lighter. Club soda or seltzer is fizzier than sparkling water.",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "crispy-garlic-smashed-potatoes",
+    "title": "Crispy Garlic Smashed Potatoes",
+    "cuisine": "American",
+    "mealTypes": [
+      "side"
+    ],
+    "mainIngredients": [
+      "potatoes"
+    ],
+    "tags": [
+      "baked",
+      "side"
+    ],
+    "servings": 6,
+    "prepTime": 10,
+    "cookTime": 45,
+    "source": {
+      "url": "",
+      "note": "Real Housemoms (Aubrey Cota)"
+    },
+    "ingredients": [
+      {
+        "item": "small red potatoes",
+        "qty": 1,
+        "unit": "lb",
+        "prep": "washed",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 4,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "melted",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Boil the whole potatoes in a large pot of water for 20 minutes, or until tender. Preheat the oven to 400°F.",
+      "Grease a baking sheet with non-stick spray. Place the potatoes on it and gently smash each with a fork or potato masher — keep them together, just flattened. Bake for 20 minutes.",
+      "Whisk together the minced garlic and melted butter, pour over the potatoes, and season with salt and pepper. Bake another 5–7 minutes."
+    ],
+    "notes": "",
+    "diet": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "hunan-chicken-salad",
+    "title": "Hunan Chicken Salad",
+    "cuisine": "Chinese-American",
+    "mealTypes": [
+      "dinner",
+      "lunch",
+      "salad"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "noodles"
+    ],
+    "tags": [
+      "spicy",
+      "make-ahead"
+    ],
+    "servings": 6,
+    "prepTime": 25,
+    "cookTime": 0,
+    "source": {
+      "url": "",
+      "note": "Family recipe"
+    },
+    "ingredients": [
+      {
+        "item": "cooked chicken breasts",
+        "qty": 4,
+        "unit": "",
+        "prep": "rotisserie is best, cubed or shredded",
+        "optional": false
+      },
+      {
+        "item": "cucumbers",
+        "qty": 4,
+        "unit": "",
+        "prep": "grated (English/burpless best)",
+        "optional": false
+      },
+      {
+        "item": "fresh Chinese noodles",
+        "qty": 2,
+        "unit": "",
+        "prep": "packages",
+        "optional": false
+      },
+      {
+        "item": "crunchy peanut butter",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the dressing",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the dressing",
+        "optional": false
+      },
+      {
+        "item": "red wine vinegar",
+        "qty": 4,
+        "unit": "tbsp",
+        "prep": "for the dressing",
+        "optional": false
+      },
+      {
+        "item": "red hot chili oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the dressing",
+        "optional": false
+      },
+      {
+        "item": "cayenne pepper",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the dressing",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "for the dressing",
+        "optional": false
+      },
+      {
+        "item": "sesame oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the dressing",
+        "optional": false
+      },
+      {
+        "item": "vegetable oil",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the dressing",
+        "optional": false
+      },
+      {
+        "item": "chicken broth",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "for the dressing",
+        "optional": false
+      },
+      {
+        "item": "ginger",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "grated, for the dressing",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "minced, for the dressing",
+        "optional": false
+      },
+      {
+        "item": "green onion",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "minced, for the dressing",
+        "optional": false
+      },
+      {
+        "item": "white wine",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "optional, for the dressing",
+        "optional": true
+      },
+      {
+        "item": "dried hot mustard",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the dressing",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "for the dressing",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Cook the Chinese noodles per the package. Rinse with cold water to stop the cooking and cool them, then place in a large bowl.",
+      "Cube or shred the chicken and add to the noodles.",
+      "Grate the cucumbers (de-seed and peel first if using standard cucumbers) and add to the chicken and noodles.",
+      "In a separate bowl, whisk all the dressing ingredients until combined — gently melting the peanut butter helps it mix in. Adjust vinegar, garlic, ginger, chili oil, and cayenne to taste.",
+      "Toss the dressing with the chicken, noodle, and cucumber mixture."
+    ],
+    "notes": "Serve with a fruit salad to cut the heat if needed.",
+    "diet": [],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "skillet-breakfast-hash",
+    "title": "Skillet Breakfast Hash",
+    "cuisine": "American",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "mainIngredients": [
+      "hash browns",
+      "eggs"
+    ],
+    "tags": [
+      "brunch"
+    ],
+    "servings": 5,
+    "prepTime": 10,
+    "cookTime": 30,
+    "source": {
+      "url": "",
+      "note": "Family recipe"
+    },
+    "ingredients": [
+      {
+        "item": "hash browns",
+        "qty": 1,
+        "unit": "lb",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "paprika",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "vegetable oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "eggs",
+        "qty": 6,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "heavy cream",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "or whole milk",
+        "optional": false
+      },
+      {
+        "item": "bacon",
+        "qty": 6,
+        "unit": "slice",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cheddar cheese",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "fresh chives",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "chopped",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 350°F (175°C).",
+      "In a medium bowl, season the hash browns with the salt, pepper, and paprika; toss to combine.",
+      "In a skillet, cook the bacon until crispy, set aside, and remove the excess fat.",
+      "Heat the oil in the skillet, then spread the hash browns to take the shape of the pan and form a nest. Cook about 7 minutes over medium so the bottom forms a crispy crust.",
+      "In a bowl, whisk the eggs, cream, chopped bacon, and cheddar. Pour over the hash browns and spread evenly.",
+      "Bake 20 minutes, until golden brown and the eggs are cooked through.",
+      "Sprinkle with chives, slice, and serve hot — great with ketchup or hot sauce."
+    ],
+    "notes": "",
+    "diet": [],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "ham-and-egg-breakfast-braid",
+    "title": "Ham and Egg Breakfast Braid",
+    "cuisine": "American",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "mainIngredients": [
+      "eggs",
+      "puff pastry"
+    ],
+    "tags": [
+      "brunch"
+    ],
+    "servings": 6,
+    "prepTime": 20,
+    "cookTime": 30,
+    "source": {
+      "url": "",
+      "note": "Family recipe"
+    },
+    "ingredients": [
+      {
+        "item": "eggs",
+        "qty": 8,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "heavy cream",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "onion powder",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "puff pastry",
+        "qty": 2,
+        "unit": "sheet",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ham",
+        "qty": 6,
+        "unit": "slice",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cheddar cheese",
+        "qty": 6,
+        "unit": "slice",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "egg",
+        "qty": 1,
+        "unit": "",
+        "prep": "beaten, for egg wash",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 375°F.",
+      "Whisk the 8 eggs, heavy cream, salt, pepper, onion powder, and garlic powder to combine.",
+      "Heat a nonstick pan over medium and scramble the egg mixture until soft and almost fully cooked.",
+      "Flatten the puff pastry and cut it into thirds, then in half. On one piece, cut 3 strips with a paring knife, leaving about 1 inch at the end to hold it together, and braid the strips gently.",
+      "On a second piece, place ham, scrambled egg, and cheese, leaving room around the edges. Lay the braid over the top and brush with egg wash.",
+      "Place the braids on a lightly greased baking sheet and bake 25–30 minutes, until risen and deep golden brown. Serve warm."
+    ],
+    "notes": "Makes about 6 braids.",
+    "diet": [],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "simple-lentil-soup",
+    "title": "Simple Lentil Soup",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "soup"
+    ],
+    "mainIngredients": [
+      "lentils"
+    ],
+    "tags": [
+      "budget",
+      "lentils",
+      "meal-prep"
+    ],
+    "servings": 6,
+    "prepTime": 10,
+    "cookTime": 30,
+    "source": {
+      "url": "",
+      "note": "'Struggle Meals, Lentils and Love' by Zee (She_Writes_Black)"
+    },
+    "ingredients": [
+      {
+        "item": "lentils",
+        "qty": null,
+        "unit": "",
+        "prep": "brown or green; red or yellow for a creamier soup",
+        "optional": false
+      },
+      {
+        "item": "onion soup mix",
+        "qty": null,
+        "unit": "",
+        "prep": "1 packet, or your choice of seasonings",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 1,
+        "unit": "clove",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "bay leaf",
+        "qty": 1,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "potatoes",
+        "qty": null,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "carrots",
+        "qty": null,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "celery",
+        "qty": null,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "corn",
+        "qty": null,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "rice",
+        "qty": null,
+        "unit": "",
+        "prep": "for serving",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Cook the lentils using a ratio of 1 cup lentils to 3 cups water (about 7 cups water for a whole bag — lentils double in size). Add a garlic clove and bay leaf for flavor.",
+      "Bring to a rolling boil, add the onion soup mix (or your seasonings), cover, and simmer on low 20–30 minutes to your desired tenderness.",
+      "For a heartier soup, add vegetables like potatoes, celery, onions, corn, and carrots. Adjust water and seasoning for any extra ingredients.",
+      "Thicken if you like by mashing some of the lentils or stirring in a slurry. Serve over rice or with cornbread."
+    ],
+    "notes": "Budget meal-kit recipe. Optional add-ins: chicken, sausage, or beef. Use broth instead of water for more flavor. Add a little parsley to finish.",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "lentil-sloppy-joes",
+    "title": "Lentil Sloppy Joes",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "lentils"
+    ],
+    "tags": [
+      "budget",
+      "lentils",
+      "meal-prep"
+    ],
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 25,
+    "source": {
+      "url": "",
+      "note": "'Struggle Meals, Lentils and Love' by Zee (She_Writes_Black)"
+    },
+    "ingredients": [
+      {
+        "item": "lentils",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "brown or green, dry",
+        "optional": false
+      },
+      {
+        "item": "sloppy joe sauce",
+        "qty": null,
+        "unit": "",
+        "prep": "1 can (or homemade, below)",
+        "optional": false
+      },
+      {
+        "item": "hamburger buns",
+        "qty": null,
+        "unit": "",
+        "prep": "or rice, for serving",
+        "optional": false
+      },
+      {
+        "item": "onion",
+        "qty": 0.5,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "bell pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "garlic",
+        "qty": 1,
+        "unit": "clove",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "bay leaf",
+        "qty": 1,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "1 cup dry lentils replaces 1 pound of ground meat. Cook using 1 cup lentils to 2½ cups water, with a garlic clove, half an onion, and a bay leaf for flavor.",
+      "Bring to a boil, then cover and simmer 15–20 minutes until just tender. Drain excess liquid and let the lentils dry slightly for better sauce absorption.",
+      "Mix the cooked lentils with sautéed vegetables (if using) and the sloppy joe sauce. Season with salt, pepper, and herbs, then simmer to thicken.",
+      "Serve on hamburger buns with your favorite toppings, or over rice."
+    ],
+    "notes": "Homemade sauce: combine 1 (15 oz) can tomato sauce, 1 tbsp Dijon or yellow mustard, 1 tbsp Worcestershire, brown sugar, paprika, garlic powder, onion powder, cumin, chili powder, salt, and pepper to taste. 1 cup lentils makes about 4 servings. Optional: add ground beef, sausage, chicken, or turkey.",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "lentil-bolognese",
+    "title": "Lentil Bolognese",
+    "cuisine": "Italian",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "lentils",
+      "pasta"
+    ],
+    "tags": [
+      "budget",
+      "lentils",
+      "meal-prep"
+    ],
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 25,
+    "source": {
+      "url": "",
+      "note": "'Struggle Meals, Lentils and Love' by Zee (She_Writes_Black)"
+    },
+    "ingredients": [
+      {
+        "item": "lentils",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "brown or green for texture, red for a creamier sauce, dry",
+        "optional": false
+      },
+      {
+        "item": "spaghetti sauce",
+        "qty": null,
+        "unit": "",
+        "prep": "1 jar, your favorite",
+        "optional": false
+      },
+      {
+        "item": "pasta",
+        "qty": null,
+        "unit": "",
+        "prep": "your favorite",
+        "optional": false
+      },
+      {
+        "item": "onion",
+        "qty": 0.5,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "bell pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "carrots",
+        "qty": null,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "garlic",
+        "qty": 1,
+        "unit": "clove",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "bay leaf",
+        "qty": 1,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "1 cup dry lentils replaces 1 pound of ground meat. Cook using 1 cup lentils to 2½ cups water (use 2 cups water for red lentils), with a garlic clove, half an onion, and a bay leaf.",
+      "Bring to a boil, cover, and simmer 15–20 minutes until just tender (12–15 minutes for red lentils). Drain excess liquid, let dry slightly, and mash ever so slightly.",
+      "Mix the lentils with sautéed vegetables (if using) and the spaghetti sauce. Season with salt, pepper, and herbs, then simmer to thicken.",
+      "Serve over your favorite pasta, topped with cheese and your usual pasta toppings."
+    ],
+    "notes": "Great to make in batches and freeze. Optional: add ground beef, sausage, chicken, or turkey.",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "lentil-shepherd-s-pie",
+    "title": "Lentil Shepherd's Pie",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "lentils",
+      "potatoes"
+    ],
+    "tags": [
+      "budget",
+      "lentils",
+      "comfort food"
+    ],
+    "servings": 6,
+    "prepTime": 15,
+    "cookTime": 40,
+    "source": {
+      "url": "",
+      "note": "'Struggle Meals, Lentils and Love' by Zee (She_Writes_Black)"
+    },
+    "ingredients": [
+      {
+        "item": "lentils",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "brown or green, dry",
+        "optional": false
+      },
+      {
+        "item": "instant mashed potatoes",
+        "qty": null,
+        "unit": "",
+        "prep": "1 package",
+        "optional": false
+      },
+      {
+        "item": "mixed vegetables",
+        "qty": 2,
+        "unit": "can",
+        "prep": "or carrots & peas (frozen/fresh ok)",
+        "optional": false
+      },
+      {
+        "item": "onion soup mix",
+        "qty": null,
+        "unit": "",
+        "prep": "or your favorite seasoning blend",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 1,
+        "unit": "clove",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "shredded cheese",
+        "qty": null,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "1 cup dry lentils replaces 1 pound of ground meat. Cook using 1 cup lentils to 2½ cups water with a garlic clove, half an onion, and a bay leaf.",
+      "Bring to a boil with the onion soup mix and any seasonings, then cover and simmer 15–20 minutes until just tender (not mushy).",
+      "If using fresh or frozen vegetables, sauté until softened; if using canned, just drain (don't cook). Prepare the instant mashed potatoes per the package. Preheat the oven to 400°F.",
+      "Combine the lentils (don't drain all the liquid) with the vegetables, season to taste (onion powder, garlic powder, rosemary), and simmer about 3 minutes to thicken.",
+      "Pour into a baking dish, spread the mashed potatoes evenly on top, add cheese if desired, and bake 15–20 minutes until golden brown."
+    ],
+    "notes": "Serve by itself or with dinner rolls, biscuits, or bread. Optional: add ground beef, sausage, chicken, or turkey.",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "lentil-chili",
+    "title": "Lentil Chili",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "soup"
+    ],
+    "mainIngredients": [
+      "lentils"
+    ],
+    "tags": [
+      "budget",
+      "lentils",
+      "meal-prep"
+    ],
+    "servings": 6,
+    "prepTime": 10,
+    "cookTime": 30,
+    "source": {
+      "url": "",
+      "note": "'Struggle Meals, Lentils and Love' by Zee (She_Writes_Black)"
+    },
+    "ingredients": [
+      {
+        "item": "lentils",
+        "qty": null,
+        "unit": "",
+        "prep": "1 bag, green or brown",
+        "optional": false
+      },
+      {
+        "item": "sweet corn",
+        "qty": 2,
+        "unit": "can",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "diced or rotel tomatoes",
+        "qty": 2,
+        "unit": "can",
+        "prep": "chili-ready",
+        "optional": false
+      },
+      {
+        "item": "dried minced onion",
+        "qty": null,
+        "unit": "",
+        "prep": "1 container",
+        "optional": false
+      },
+      {
+        "item": "chili seasoning",
+        "qty": null,
+        "unit": "",
+        "prep": "1 packet (or homemade, below)",
+        "optional": false
+      },
+      {
+        "item": "tomato paste",
+        "qty": 1,
+        "unit": "can",
+        "prep": "small",
+        "optional": false
+      },
+      {
+        "item": "rice",
+        "qty": null,
+        "unit": "",
+        "prep": "1 bag, for serving",
+        "optional": false
+      },
+      {
+        "item": "bell pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "onion",
+        "qty": null,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "If using fresh vegetables, sauté diced bell peppers and onions in a large pot until translucent.",
+      "Add the lentils, water, tomatoes, dried minced onion (if not using fresh), corn, tomato paste, and chili seasoning. Bring to a boil, then cover and simmer 20–30 minutes until the lentils are tender.",
+      "Remove about 2 cups of the chili, blend or mash it, and return it to the pot to thicken. Cook a few more minutes until thick.",
+      "Serve over rice or with cornbread, plus your favorite chili toppings."
+    ],
+    "notes": "Homemade chili seasoning: combine paprika, garlic powder, onion powder, cumin, chili powder, bay leaves, salt, and pepper to taste. Optional: add ground beef, sausage, chicken, or turkey, and toppings like cheese, sour cream, corn chips, green onions.",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "lentil-tacos",
+    "title": "Lentil Tacos",
+    "cuisine": "Mexican",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "lentils"
+    ],
+    "tags": [
+      "budget",
+      "lentils",
+      "meal-prep"
+    ],
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 20,
+    "source": {
+      "url": "",
+      "note": "'Struggle Meals, Lentils and Love' by Zee (She_Writes_Black)"
+    },
+    "ingredients": [
+      {
+        "item": "lentils",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "green or brown, dry",
+        "optional": false
+      },
+      {
+        "item": "taco shells",
+        "qty": null,
+        "unit": "",
+        "prep": "hard or soft (or a taco dinner kit)",
+        "optional": false
+      },
+      {
+        "item": "taco seasoning",
+        "qty": null,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salsa",
+        "qty": null,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Spanish rice",
+        "qty": null,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "onion",
+        "qty": 0.5,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "bell pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "garlic",
+        "qty": 1,
+        "unit": "clove",
+        "prep": "optional",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "1 cup dry lentils replaces 1 pound of ground meat. Cook using 1 cup lentils to 2½ cups water (2 cups for red lentils), with a garlic clove, half an onion, a bay leaf, and an ancho chili for flavor.",
+      "Bring to a boil, cover, and simmer 15–20 minutes until just tender. Drain excess liquid and let dry slightly.",
+      "Prepare the Spanish rice per the package.",
+      "Mix the cooked lentils with sautéed vegetables (if using), then add taco seasoning and a little water until combined — the mixture should be juicy but not saturated. Season with salt and pepper to taste.",
+      "Serve in your favorite shells with toppings; serve the rice on the side or in the taco."
+    ],
+    "notes": "Optional toppings: onions, bell peppers, lettuce, tomatoes, cheese. Optional protein: ground beef, sausage, chicken, or turkey.",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "seven-layer-dip",
+    "title": "Seven-Layer Dip",
+    "cuisine": "Mexican",
+    "mealTypes": [
+      "snack",
+      "side"
+    ],
+    "mainIngredients": [
+      "beans",
+      "cheese"
+    ],
+    "tags": [
+      "party",
+      "dip"
+    ],
+    "servings": 10,
+    "prepTime": 20,
+    "cookTime": 15,
+    "source": {
+      "url": "",
+      "note": "Family recipe"
+    },
+    "ingredients": [
+      {
+        "item": "refried beans",
+        "qty": null,
+        "unit": "",
+        "prep": "for the bean layer",
+        "optional": false
+      },
+      {
+        "item": "cheddar cheese",
+        "qty": null,
+        "unit": "",
+        "prep": "for the bean layer",
+        "optional": false
+      },
+      {
+        "item": "roasted green chilis",
+        "qty": null,
+        "unit": "",
+        "prep": "for the bean layer",
+        "optional": false
+      },
+      {
+        "item": "guacamole",
+        "qty": null,
+        "unit": "",
+        "prep": "store-bought, for the guacamole layer",
+        "optional": false
+      },
+      {
+        "item": "sour cream",
+        "qty": null,
+        "unit": "",
+        "prep": "for the sour cream layer",
+        "optional": false
+      },
+      {
+        "item": "taco seasoning",
+        "qty": null,
+        "unit": "",
+        "prep": "for the sour cream layer",
+        "optional": false
+      },
+      {
+        "item": "fire-roasted salsa",
+        "qty": null,
+        "unit": "",
+        "prep": "for the salsa layer",
+        "optional": false
+      },
+      {
+        "item": "ground beef",
+        "qty": null,
+        "unit": "",
+        "prep": "for the meat layer",
+        "optional": false
+      },
+      {
+        "item": "Mexican seasoning",
+        "qty": null,
+        "unit": "",
+        "prep": "for the meat layer",
+        "optional": false
+      },
+      {
+        "item": "finely shredded Mexican-blend cheese",
+        "qty": null,
+        "unit": "",
+        "prep": "for the cheese layer",
+        "optional": false
+      },
+      {
+        "item": "tomatoes",
+        "qty": null,
+        "unit": "",
+        "prep": "fresh, diced, for topping",
+        "optional": false
+      },
+      {
+        "item": "olives",
+        "qty": null,
+        "unit": "",
+        "prep": "for topping",
+        "optional": false
+      },
+      {
+        "item": "green onion",
+        "qty": null,
+        "unit": "",
+        "prep": "for topping",
+        "optional": false
+      },
+      {
+        "item": "pickled jalapeños",
+        "qty": null,
+        "unit": "",
+        "prep": "for topping",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Bean layer: spread refried beans, then top with cheddar and roasted green chilis.",
+      "Guacamole layer: spread store-bought guacamole over the beans.",
+      "Sour cream layer: mix sour cream with taco seasoning and spread on.",
+      "Salsa layer: spread a good fire-roasted salsa.",
+      "Meat layer: brown the ground beef with Mexican seasoning and a little salsa juice, then layer on.",
+      "Cheese layer: scatter finely shredded Mexican-blend cheese.",
+      "Toppings: finish with fresh tomatoes, olives, green onion, and pickled jalapeños. Chill and serve with chips."
+    ],
+    "notes": "Quantities to taste — build it in a wide dish in the order above.",
+    "diet": [],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "simply-super-tomatoes",
+    "title": "Simply Super Tomatoes",
+    "cuisine": "American",
+    "mealTypes": [
+      "side",
+      "salad"
+    ],
+    "mainIngredients": [
+      "tomatoes"
+    ],
+    "tags": [
+      "make-ahead",
+      "summer",
+      "side"
+    ],
+    "servings": 6,
+    "prepTime": 15,
+    "cookTime": null,
+    "source": {
+      "url": "",
+      "note": "Family recipe"
+    },
+    "ingredients": [
+      {
+        "item": "tomatoes",
+        "qty": 6,
+        "unit": "",
+        "prep": "firm, medium, peeled and sliced ½-inch thick",
+        "optional": false
+      },
+      {
+        "item": "oil",
+        "qty": 0.667,
+        "unit": "cup",
+        "prep": "for the dressing",
+        "optional": false
+      },
+      {
+        "item": "wine vinegar",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "for the dressing",
+        "optional": false
+      },
+      {
+        "item": "parsley",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "chopped, for the dressing",
+        "optional": false
+      },
+      {
+        "item": "green onion",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "chopped with tops, for the dressing",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 1,
+        "unit": "clove",
+        "prep": "minced, for the dressing",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the dressing",
+        "optional": false
+      },
+      {
+        "item": "dill weed",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the dressing",
+        "optional": false
+      },
+      {
+        "item": "basil",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the dressing",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "fresh, for the dressing",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "In a small bowl or screw-top jar, combine all the dressing ingredients and mix well.",
+      "Arrange the sliced tomatoes in a serving dish (line with fresh lettuce if you wish).",
+      "Pour the dressing over the tomatoes.",
+      "Cover and chill 1 to 2 hours, basting occasionally."
+    ],
+    "notes": "",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "healthy-doggie-treats",
+    "title": "Healthy Doggie Treats",
+    "cuisine": "Pet treats",
+    "mealTypes": [
+      "snack"
+    ],
+    "mainIngredients": [
+      "black beans",
+      "peanut butter"
+    ],
+    "tags": [
+      "dog treats",
+      "pet"
+    ],
+    "servings": 32,
+    "prepTime": 15,
+    "cookTime": 45,
+    "source": {
+      "url": "",
+      "note": "Family recipe"
+    },
+    "ingredients": [
+      {
+        "item": "cooked black beans",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "rinsed and drained",
+        "optional": false
+      },
+      {
+        "item": "natural peanut butter",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "banana",
+        "qty": 0.5,
+        "unit": "",
+        "prep": "very ripe, mashed",
+        "optional": false
+      },
+      {
+        "item": "egg",
+        "qty": 1,
+        "unit": "",
+        "prep": "whipped",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Mash the black beans well (food processor, blender, or a fork). Combine with the peanut butter, banana, and whipped egg and stir until smooth. Cover and refrigerate until chilled and slightly thickened, about 1 hour.",
+      "Preheat the oven to 325°F. Drop by rounded teaspoon onto a parchment-lined or nonstick pan (makes about 30–34 small biscuits).",
+      "After 15 minutes, remove and flatten each with the back of a spoon or a fork. Bake another 10 minutes, then flip the biscuits over.",
+      "Continue baking 15–20 minutes (total 40–45 minutes). Cool completely before serving or storing."
+    ],
+    "notes": "🐶 These are treats for DOGS, not people. For dogs allergic to chicken/eggs, substitute ¼ cup unsweetened applesauce for the egg. Flourless, so they're soft like baked cookies — they freeze well; thaw at room temperature before serving.",
+    "diet": [],
+    "createdAt": "2026-06-20"
   }
 ]
