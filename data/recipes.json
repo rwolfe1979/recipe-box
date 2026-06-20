@@ -17622,8 +17622,8 @@
     "createdAt": "2026-06-20"
   },
   {
-    "id": "seven-layer-dip",
-    "title": "Seven-Layer Dip",
+    "id": "layered-dip",
+    "title": "Layered Dip",
     "cuisine": "Mexican",
     "mealTypes": [
       "snack",
@@ -17638,8 +17638,8 @@
       "dip"
     ],
     "servings": 10,
-    "prepTime": 20,
-    "cookTime": 15,
+    "prepTime": null,
+    "cookTime": null,
     "source": {
       "url": "",
       "note": "Family recipe"
@@ -17744,16 +17744,8 @@
         "optional": false
       }
     ],
-    "steps": [
-      "Bean layer: spread refried beans, then top with cheddar and roasted green chilis.",
-      "Guacamole layer: spread store-bought guacamole over the beans.",
-      "Sour cream layer: mix sour cream with taco seasoning and spread on.",
-      "Salsa layer: spread a good fire-roasted salsa.",
-      "Meat layer: brown the ground beef with Mexican seasoning and a little salsa juice, then layer on.",
-      "Cheese layer: scatter finely shredded Mexican-blend cheese.",
-      "Toppings: finish with fresh tomatoes, olives, green onion, and pickled jalapeños. Chill and serve with chips."
-    ],
-    "notes": "Quantities to taste — build it in a wide dish in the order above.",
+    "steps": [],
+    "notes": "A personal recipe — just the layers I use, quantities to taste.",
     "diet": [],
     "createdAt": "2026-06-20"
   },

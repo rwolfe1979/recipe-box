@@ -262,10 +262,11 @@ const App = {
         <ul class="ing-list" id="ing-list"></ul>
       </div>
 
+      ${(r.steps && r.steps.length) ? `
       <div class="card">
         <h3 style="margin-top:0">Steps</h3>
-        <ol class="steps">${(r.steps || []).map(s => `<li>${this.esc(s)}</li>`).join('')}</ol>
-      </div>
+        <ol class="steps">${r.steps.map(s => `<li>${this.esc(s)}</li>`).join('')}</ol>
+      </div>` : ''}
 
       <div class="card">
         <div style="display:flex;justify-content:space-between;align-items:center;">
