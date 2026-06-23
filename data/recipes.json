@@ -20751,5 +20751,240 @@
     ],
     "notes": "A pantry-friendly copycat of Girard's champagne vinaigrette, built around real champagne vinegar. Why the vinegar split matters: champagne vinegar leads for that clean, slightly floral tang; a splash of white wine vinegar adds a sharper edge so it isn't one-note; the dry white wine rounds it out with a winey depth. Dijon does the emulsifying (the bottle uses xanthan gum), so a good shake holds it together. Worcestershire plus MSG carry the savory backbone. Tuning: too sharp → add ½ tsp sugar; tastes flat → nudge MSG and Worcestershire up ¼ tsp each; want it thinner → whisk in water 1 tsp at a time.",
     "createdAt": "2026-06-23"
+  },
+  {
+    "id": "lemon-rolls-with-cream-cheese-lemon-curd",
+    "title": "Lemon Rolls with Cream Cheese & Lemon Curd",
+    "cuisine": "Bakery",
+    "mealTypes": [
+      "bread",
+      "breakfast",
+      "dessert"
+    ],
+    "mainIngredients": [
+      "lemon",
+      "flour"
+    ],
+    "tags": [
+      "sweet",
+      "rolls",
+      "lemon",
+      "youtube"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
+    "servings": 12,
+    "prepTime": 40,
+    "cookTime": 35,
+    "source": {
+      "url": "https://youtu.be/6tbKoJuyhxc",
+      "note": "YouTube recipe"
+    },
+    "ingredients": [
+      {
+        "item": "warm water",
+        "qty": 180,
+        "unit": "g",
+        "prep": "¾ cup, for the dough",
+        "optional": false
+      },
+      {
+        "item": "active dry yeast",
+        "qty": 2.5,
+        "unit": "tsp",
+        "prep": "for the dough",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for proofing the yeast",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 360,
+        "unit": "g",
+        "prep": "3 cups, for the dough",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 4,
+        "unit": "tbsp",
+        "prep": "melted, for the dough",
+        "optional": false
+      },
+      {
+        "item": "granulated sugar",
+        "qty": 67,
+        "unit": "g",
+        "prep": "⅓ cup, for the dough",
+        "optional": false
+      },
+      {
+        "item": "egg",
+        "qty": 1,
+        "unit": "",
+        "prep": "for the dough",
+        "optional": false
+      },
+      {
+        "item": "egg yolk",
+        "qty": 1,
+        "unit": "",
+        "prep": "for the dough",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the dough",
+        "optional": false
+      },
+      {
+        "item": "lemon zest",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the dough",
+        "optional": false
+      },
+      {
+        "item": "granulated sugar",
+        "qty": 75,
+        "unit": "g",
+        "prep": "6 tbsp, for the lemon curd",
+        "optional": false
+      },
+      {
+        "item": "lemon zest",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the lemon curd",
+        "optional": false
+      },
+      {
+        "item": "eggs",
+        "qty": 2,
+        "unit": "",
+        "prep": "for the lemon curd",
+        "optional": false
+      },
+      {
+        "item": "egg yolk",
+        "qty": 1,
+        "unit": "",
+        "prep": "for the lemon curd",
+        "optional": false
+      },
+      {
+        "item": "fresh lemon juice",
+        "qty": 90,
+        "unit": "g",
+        "prep": "6 tbsp, for the lemon curd",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 56,
+        "unit": "g",
+        "prep": "4 tbsp, for the lemon curd",
+        "optional": false
+      },
+      {
+        "item": "cream cheese",
+        "qty": 8,
+        "unit": "oz",
+        "prep": "softened, for the filling",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the cream cheese filling",
+        "optional": false
+      },
+      {
+        "item": "granulated sugar",
+        "qty": 150,
+        "unit": "g",
+        "prep": "¾ cup, for the lemon sugar",
+        "optional": false
+      },
+      {
+        "item": "lemon zest",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the lemon sugar",
+        "optional": false
+      },
+      {
+        "item": "heavy cream",
+        "qty": 120,
+        "unit": "g",
+        "prep": "½ cup, to pour over the risen rolls",
+        "optional": false
+      },
+      {
+        "item": "cream cheese",
+        "qty": 4,
+        "unit": "oz",
+        "prep": "softened, for the frosting",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "softened, for the frosting",
+        "optional": false
+      },
+      {
+        "item": "powdered sugar",
+        "qty": 90,
+        "unit": "g",
+        "prep": "¾ cup, for the frosting",
+        "optional": false
+      },
+      {
+        "item": "vanilla extract",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the frosting",
+        "optional": false
+      },
+      {
+        "item": "lemon juice",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the frosting",
+        "optional": false
+      },
+      {
+        "item": "milk",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the frosting",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Proof the yeast: stir the warm water, yeast, and 1 tbsp sugar together and let rest 10 minutes until foamy.",
+      "Make the dough: mix the flour, melted butter, ⅓ cup granulated sugar, the whisked egg and egg yolk, salt, lemon zest, and the yeast mixture for about 5 minutes. Oil your hands, transfer the dough to a bowl, cover, and let rise 1–2 hours.",
+      "Lemon curd: in a saucepan, whisk the sugar, lemon zest, eggs, egg yolk, lemon juice, and butter. Cook over medium heat until slightly thickened, removing from the heat as soon as it just starts to bubble. Cover with plastic wrap touching the surface and refrigerate.",
+      "Cream cheese filling: beat the softened cream cheese with 1 tbsp sugar until smooth.",
+      "Lemon sugar: rub the ¾ cup granulated sugar together with 1 tbsp lemon zest until fragrant.",
+      "Assemble: roll the dough out into a large rectangle. Spread with the cream cheese filling, sprinkle evenly with the lemon sugar, and dot/spread with some of the lemon curd. Roll up into a log, cut into rolls, and place in a greased baking dish.",
+      "Cover and let the rolls rest 30 minutes. Pour the heavy cream over the risen rolls.",
+      "Bake at 350°F (177°C) for 30–35 minutes, until golden brown.",
+      "Frosting: beat the cream cheese, butter, powdered sugar, vanilla, lemon juice, and milk until smooth. Spread over the warm rolls."
+    ],
+    "notes": "The softest lemon rolls, stuffed with cream cheese, lemon sugar, and lemon curd. The roll-up assembly is the standard cinnamon-roll method (shown in the video). Save any extra lemon curd to serve on top.",
+    "createdAt": "2026-06-23",
+    "image": "images/lemon-rolls-with-cream-cheese-lemon-curd.jpg"
   }
 ]
