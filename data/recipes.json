@@ -18113,5 +18113,553 @@
     ],
     "createdAt": "2026-06-20",
     "image": "images/bacon-chive-egg-salad.jpg"
+  },
+  {
+    "id": "lemon-herb-chicken-marinade",
+    "title": "Lemon Herb Chicken Marinade",
+    "cuisine": "Mediterranean",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "lemon"
+    ],
+    "tags": [
+      "marinade",
+      "chicken"
+    ],
+    "servings": 1,
+    "prepTime": 5,
+    "cookTime": null,
+    "source": {
+      "url": "https://simply-delicious-food.com/6-easy-chicken-marinade-recipes/",
+      "note": "Simply Delicious — 6 Easy Chicken Marinades"
+    },
+    "ingredients": [
+      {
+        "item": "olive oil",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "lemon",
+        "qty": 1,
+        "unit": "",
+        "prep": "zested",
+        "optional": false
+      },
+      {
+        "item": "lemon juice",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "dried mixed herbs",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "red pepper flakes",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "smoked paprika",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Whisk all the ingredients together until combined.",
+      "Place about 1 lb (500g) chicken in a freezer bag or container, pour the marinade over, and coat thoroughly. Marinate in the fridge at least 30 minutes, ideally up to 8 hours — or freeze for up to 3 months (thaw before cooking)."
+    ],
+    "notes": "Makes enough for about 1 lb (500g) of chicken. Great for meal prep — freeze the chicken in the marinade.",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "yogurt-herb-chicken-marinade",
+    "title": "Yogurt Herb Chicken Marinade",
+    "cuisine": "Mediterranean",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "yogurt"
+    ],
+    "tags": [
+      "marinade",
+      "chicken"
+    ],
+    "servings": 1,
+    "prepTime": 5,
+    "cookTime": null,
+    "source": {
+      "url": "https://simply-delicious-food.com/6-easy-chicken-marinade-recipes/",
+      "note": "Simply Delicious — 6 Easy Chicken Marinades"
+    },
+    "ingredients": [
+      {
+        "item": "Greek yogurt",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "lemon juice",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "smoked paprika",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "dried mixed herbs",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chives",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "parsley",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "fresh thyme",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "red pepper flakes",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Blend everything with an immersion blender or food processor until smooth.",
+      "Place about 1 lb (500g) chicken in a freezer bag or container, pour the marinade over, and coat thoroughly. Marinate in the fridge at least 30 minutes, ideally up to 8 hours — or freeze for up to 3 months (thaw before cooking)."
+    ],
+    "notes": "Makes enough for about 1 lb (500g) of chicken. Great for meal prep — freeze the chicken in the marinade.",
+    "diet": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "teriyaki-chicken-marinade",
+    "title": "Teriyaki Chicken Marinade",
+    "cuisine": "Japanese",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "soy sauce"
+    ],
+    "tags": [
+      "marinade",
+      "chicken"
+    ],
+    "servings": 1,
+    "prepTime": 5,
+    "cookTime": null,
+    "source": {
+      "url": "https://simply-delicious-food.com/6-easy-chicken-marinade-recipes/",
+      "note": "Simply Delicious — 6 Easy Chicken Marinades"
+    },
+    "ingredients": [
+      {
+        "item": "soy sauce",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "rice vinegar",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "honey",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "crushed",
+        "optional": false
+      },
+      {
+        "item": "ginger",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "crushed",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Whisk all the ingredients together.",
+      "Place about 1 lb (500g) chicken in a freezer bag or container, pour the marinade over, and coat thoroughly. Marinate in the fridge at least 30 minutes, ideally up to 8 hours — or freeze for up to 3 months (thaw before cooking)."
+    ],
+    "notes": "Makes enough for about 1 lb (500g) of chicken. Great for meal prep — freeze the chicken in the marinade.",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "mexican-chicken-marinade",
+    "title": "Mexican Chicken Marinade",
+    "cuisine": "Mexican",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "lime"
+    ],
+    "tags": [
+      "marinade",
+      "chicken"
+    ],
+    "servings": 1,
+    "prepTime": 5,
+    "cookTime": null,
+    "source": {
+      "url": "https://simply-delicious-food.com/6-easy-chicken-marinade-recipes/",
+      "note": "Simply Delicious — 6 Easy Chicken Marinades"
+    },
+    "ingredients": [
+      {
+        "item": "olive oil",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "lime juice",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "or lemon juice",
+        "optional": false
+      },
+      {
+        "item": "taco seasoning",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "red pepper flakes",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "crushed",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Whisk the ingredients until combined.",
+      "Place about 1 lb (500g) chicken in a freezer bag or container, pour the marinade over, and coat thoroughly. Marinate in the fridge at least 30 minutes, ideally up to 8 hours — or freeze for up to 3 months (thaw before cooking)."
+    ],
+    "notes": "Makes enough for about 1 lb (500g) of chicken. Great for meal prep — freeze the chicken in the marinade.",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "bbq-chicken-marinade",
+    "title": "BBQ Chicken Marinade",
+    "cuisine": "American",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "tomato"
+    ],
+    "tags": [
+      "marinade",
+      "chicken"
+    ],
+    "servings": 1,
+    "prepTime": 5,
+    "cookTime": null,
+    "source": {
+      "url": "https://simply-delicious-food.com/6-easy-chicken-marinade-recipes/",
+      "note": "Simply Delicious — 6 Easy Chicken Marinades"
+    },
+    "ingredients": [
+      {
+        "item": "tomato ketchup",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Worcestershire sauce",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "honey",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "balsamic vinegar",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "smoked paprika",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "oil",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Whisk all the ingredients together.",
+      "Place about 1 lb (500g) chicken in a freezer bag or container, pour the marinade over, and coat thoroughly. Marinate in the fridge at least 30 minutes, ideally up to 8 hours — or freeze for up to 3 months (thaw before cooking)."
+    ],
+    "notes": "Makes enough for about 1 lb (500g) of chicken. Great for meal prep — freeze the chicken in the marinade.",
+    "diet": [],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "spicy-paprika-garlic-chicken-marinade",
+    "title": "Spicy Paprika Garlic Chicken Marinade",
+    "cuisine": "Mediterranean",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "paprika",
+      "garlic"
+    ],
+    "tags": [
+      "marinade",
+      "chicken",
+      "spicy"
+    ],
+    "servings": 1,
+    "prepTime": 5,
+    "cookTime": null,
+    "source": {
+      "url": "https://simply-delicious-food.com/6-easy-chicken-marinade-recipes/",
+      "note": "Simply Delicious — 6 Easy Chicken Marinades"
+    },
+    "ingredients": [
+      {
+        "item": "olive oil",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "lemon juice",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "fresh chili",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "finely chopped, to taste",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "crushed",
+        "optional": false
+      },
+      {
+        "item": "dried oregano",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "smoked paprika",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Whisk the ingredients until combined.",
+      "Place about 1 lb (500g) chicken in a freezer bag or container, pour the marinade over, and coat thoroughly. Marinate in the fridge at least 30 minutes, ideally up to 8 hours — or freeze for up to 3 months (thaw before cooking)."
+    ],
+    "notes": "Makes enough for about 1 lb (500g) of chicken. Great for meal prep — freeze the chicken in the marinade.",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-20"
   }
 ]
