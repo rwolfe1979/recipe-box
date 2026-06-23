@@ -20097,5 +20097,519 @@
     ],
     "createdAt": "2026-06-23",
     "image": "images/seared-scallops-with-sweet-corn.jpg"
+  },
+  {
+    "id": "vietnamese-shaking-beef",
+    "title": "Vietnamese Shaking Beef",
+    "cuisine": "Vietnamese",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "beef"
+    ],
+    "tags": [
+      "quick",
+      "tiktok"
+    ],
+    "servings": 4,
+    "prepTime": 25,
+    "cookTime": 15,
+    "source": {
+      "url": "https://www.tiktok.com/@bp.ham/video/7650176210542054686",
+      "note": "@bp.ham on TikTok (A–Z of Vietnamese Cooking: Thịt Bò Lúc Lắc)"
+    },
+    "ingredients": [
+      {
+        "item": "New York strip steak",
+        "qty": 1.5,
+        "unit": "lb",
+        "prep": "or ribeye/filet, cut into 1-inch cubes",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 4,
+        "unit": "clove",
+        "prep": "minced, for the marinade",
+        "optional": false
+      },
+      {
+        "item": "chicken bouillon powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "low-sodium soy sauce",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "fish sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "oyster sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "neutral oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the marinade, plus more for searing",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "or to taste",
+        "optional": false
+      },
+      {
+        "item": "yellow onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "large, cut into 1-inch cubes",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "to deglaze",
+        "optional": false
+      },
+      {
+        "item": "oyster sauce",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the onions",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "lettuce",
+        "qty": null,
+        "unit": "",
+        "prep": "for serving",
+        "optional": false
+      },
+      {
+        "item": "tomatoes",
+        "qty": null,
+        "unit": "",
+        "prep": "sliced, for serving",
+        "optional": false
+      },
+      {
+        "item": "steamed rice",
+        "qty": null,
+        "unit": "",
+        "prep": "for serving",
+        "optional": false
+      },
+      {
+        "item": "lime",
+        "qty": 1,
+        "unit": "",
+        "prep": "for the dipping sauce",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the dipping sauce",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the dipping sauce",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Cut the steak into 1-inch cubes. In a bowl, marinate with the garlic, chicken powder, sugar, salt, soy sauce, fish sauce, oyster sauce, oil, and black pepper. Mix well and marinate at least 20 minutes (up to a day).",
+      "Cut the onion into 1-inch cubes.",
+      "Heat a pan over high heat with a little oil. Add the beef spaced apart so it browns (work in batches if needed — you want a sizzle and a hard sear). Sear, then flip and shake the pan; once well-seared, remove and set aside.",
+      "Bring the pan to medium heat. Add the onions and a pinch of salt with a splash of water to release the browned bits, then a little oyster sauce. Cook the onions to your liking.",
+      "Return the beef, add the butter, and shake/toss until the butter melts and coats everything glossy.",
+      "Make the dipping sauce: stir the salt and pepper together and squeeze in lime juice to taste.",
+      "Plate over lettuce and tomatoes with rice, and serve with the lime-salt-pepper dipping sauce."
+    ],
+    "notes": "Amounts here are standard estimates — the creator showed the method but did not give measured quantities, so adjust to taste. New York strip, ribeye, or filet all work. Marinate at least 20 minutes (up to overnight). \"Lúc lắc\" means \"shaking\" — keep the beef moving in a hot pan.",
+    "diet": [],
+    "createdAt": "2026-06-23",
+    "image": "images/vietnamese-shaking-beef.jpg"
+  },
+  {
+    "id": "strawberry-pretzel-pie",
+    "title": "Strawberry Pretzel Pie",
+    "cuisine": "American",
+    "mealTypes": [
+      "dessert"
+    ],
+    "mainIngredients": [
+      "strawberries",
+      "pretzels"
+    ],
+    "tags": [
+      "summer",
+      "make-ahead",
+      "tiktok"
+    ],
+    "servings": 8,
+    "prepTime": 30,
+    "cookTime": 15,
+    "source": {
+      "url": "https://www.tiktok.com/@zestfulkitchen/video/7653492086980873486",
+      "note": "@zestfulkitchen on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "pretzels",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "finely crushed, for the crust",
+        "optional": false
+      },
+      {
+        "item": "unsalted butter",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "melted, for the crust",
+        "optional": false
+      },
+      {
+        "item": "granulated sugar",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "for the crust",
+        "optional": false
+      },
+      {
+        "item": "strawberries",
+        "qty": 1.5,
+        "unit": "lb",
+        "prep": "hulled — about 1 lb to cook, ½ lb fresh",
+        "optional": false
+      },
+      {
+        "item": "granulated sugar",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "for the strawberries",
+        "optional": false
+      },
+      {
+        "item": "lemon zest",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cornstarch",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "slurried with a splash of water",
+        "optional": false
+      },
+      {
+        "item": "cream cheese",
+        "qty": 8,
+        "unit": "oz",
+        "prep": "softened, for the filling",
+        "optional": false
+      },
+      {
+        "item": "granulated sugar",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "for the filling",
+        "optional": false
+      },
+      {
+        "item": "vanilla extract",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the filling",
+        "optional": false
+      },
+      {
+        "item": "lemon juice",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the filling",
+        "optional": false
+      },
+      {
+        "item": "heavy whipping cream",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "for the filling",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Crust: mix the crushed pretzels, melted butter, and 3 tbsp sugar. Press into a pie dish and bake at 350°F (175°C) about 8–10 minutes. Cool.",
+      "Strawberries: in a saucepan, cook about 1 lb chopped strawberries with the ½ cup sugar, lemon zest, and the cornstarch slurry until thick and jammy. Cool, then stir in the remaining ½ lb fresh chopped strawberries. (No jello — the cornstarch does the work.)",
+      "Filling: whip the heavy cream to stiff peaks. Separately beat the cream cheese, ½ cup sugar, vanilla, and lemon juice until smooth, then fold in the whipped cream.",
+      "Spread the cream cheese filling over the cooled crust, then spoon the strawberry mixture over the top.",
+      "Chill at least 8 hours (so the layers set and adhere) before slicing."
+    ],
+    "notes": "Amounts here are standard estimates — the creator showed the method but did not give measured quantities, so adjust to taste. A no-jello revamp of the Midwestern strawberry pretzel dessert, made as a pie. The fuller version is on the creator’s site.",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-06-23",
+    "image": "images/strawberry-pretzel-pie.jpg"
+  },
+  {
+    "id": "greek-lemon-oregano-dressing",
+    "title": "Greek Lemon-Oregano Dressing",
+    "cuisine": "Greek",
+    "mealTypes": [
+      "salad"
+    ],
+    "mainIngredients": [
+      "lemon"
+    ],
+    "tags": [
+      "dressing",
+      "tiktok"
+    ],
+    "servings": 4,
+    "prepTime": 5,
+    "cookTime": null,
+    "source": {
+      "url": "https://www.tiktok.com/@foodbymaria/video/7653837562447924488",
+      "note": "@foodbymaria on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "extra-virgin olive oil",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "dried oregano",
+        "qty": 1.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "kosher salt",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ground black pepper",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "lemon",
+        "qty": 1,
+        "unit": "",
+        "prep": "large, juiced (~¼ cup)",
+        "optional": false
+      },
+      {
+        "item": "red wine vinegar",
+        "qty": 1.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "clove",
+        "prep": "small, pressed",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Whisk all the ingredients together in a bowl (or shake them in a jar) until combined.",
+      "Let it sit 10–15 minutes before serving so the garlic and oregano bloom."
+    ],
+    "notes": "Bright and acidic — great on steak salad and any Greek salad. Makes about ½ cup.",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-23"
+  },
+  {
+    "id": "greek-steak-salad",
+    "title": "Greek Steak Salad",
+    "cuisine": "Greek",
+    "mealTypes": [
+      "dinner",
+      "lunch",
+      "salad"
+    ],
+    "mainIngredients": [
+      "beef",
+      "orzo"
+    ],
+    "tags": [
+      "tiktok",
+      "greek"
+    ],
+    "servings": 4,
+    "prepTime": 20,
+    "cookTime": 20,
+    "source": {
+      "url": "https://www.tiktok.com/@foodbymaria/video/7653837562447924488",
+      "note": "@foodbymaria on TikTok (Greek Out cookbook)"
+    },
+    "ingredients": [
+      {
+        "item": "steak",
+        "qty": 1,
+        "unit": "lb",
+        "prep": "sirloin or flank, grilled and sliced",
+        "optional": false
+      },
+      {
+        "item": "orzo",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "dry, cooked",
+        "optional": false
+      },
+      {
+        "item": "zucchini",
+        "qty": 1,
+        "unit": "",
+        "prep": "charred and chopped",
+        "optional": false
+      },
+      {
+        "item": "red bell pepper",
+        "qty": 1,
+        "unit": "",
+        "prep": "charred and chopped",
+        "optional": false
+      },
+      {
+        "item": "red onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "charred and chopped",
+        "optional": false
+      },
+      {
+        "item": "kalamata olives",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "green olives",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "capers",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "fresh herbs",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "parsley, dill, and mint, chopped",
+        "optional": false
+      },
+      {
+        "item": "Greek Lemon-Oregano Dressing",
+        "qty": 1,
+        "unit": "batch",
+        "prep": "see the separate recipe",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": null,
+        "unit": "",
+        "prep": "for grilling",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Cook the orzo per the package, drain, and cool slightly.",
+      "Season the steak with salt and pepper, grill to your liking, rest, then slice.",
+      "Char the zucchini, bell pepper, and red onion on the grill or in a hot pan until blistered, then chop.",
+      "Make a batch of the Greek Lemon-Oregano Dressing (see that recipe).",
+      "Toss the orzo, charred vegetables, olives, capers, and fresh herbs with most of the dressing.",
+      "Top with the sliced steak and drizzle with the remaining dressing. Serve."
+    ],
+    "notes": "Amounts here are standard estimates — the creator showed the method but did not give measured quantities, so adjust to taste. Built around @foodbymaria’s Greek Lemon-Oregano Dressing (added as its own recipe in your box). The video showed the components but not amounts; the full version is in her cookbook, \"Greek Out.\"",
+    "diet": [],
+    "createdAt": "2026-06-23",
+    "image": "images/greek-steak-salad.jpg"
   }
 ]
