@@ -19110,5 +19110,143 @@
       "vegetarian"
     ],
     "createdAt": "2026-06-20"
+  },
+  {
+    "id": "shrimp-rolls-lobster-roll-style",
+    "title": "Shrimp Rolls (Lobster Roll Style)",
+    "cuisine": "American",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "mainIngredients": [
+      "shrimp"
+    ],
+    "tags": [
+      "seafood",
+      "summer",
+      "no-bake",
+      "youtube"
+    ],
+    "diet": [],
+    "servings": 4,
+    "prepTime": 25,
+    "cookTime": 10,
+    "source": {
+      "url": "https://www.youtube.com/watch?v=43faOzwh7nc",
+      "note": "Brian Lagerstrom on YouTube"
+    },
+    "ingredients": [
+      {
+        "item": "water",
+        "qty": 3000,
+        "unit": "g",
+        "prep": "about 3 quarts, for poaching",
+        "optional": false
+      },
+      {
+        "item": "coarse salt",
+        "qty": 120,
+        "unit": "g",
+        "prep": "about ⅔ cup, for poaching",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 90,
+        "unit": "g",
+        "prep": "about ½ cup, for poaching",
+        "optional": false
+      },
+      {
+        "item": "lemon",
+        "qty": 1,
+        "unit": "",
+        "prep": "halved and juiced, for poaching",
+        "optional": false
+      },
+      {
+        "item": "raw Argentinian red shrimp",
+        "qty": 600,
+        "unit": "g",
+        "prep": "about 1.25–1.45 lb, 21/25 count, peeled and deveined",
+        "optional": false
+      },
+      {
+        "item": "mayonnaise",
+        "qty": 120,
+        "unit": "g",
+        "prep": "about ½ cup (Duke’s recommended), for the dressing",
+        "optional": false
+      },
+      {
+        "item": "chives",
+        "qty": 20,
+        "unit": "g",
+        "prep": "about ½ cup, finely cut — reserve some for topping",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 3,
+        "unit": "g",
+        "prep": "about ½ tsp, for the dressing",
+        "optional": false
+      },
+      {
+        "item": "lemon",
+        "qty": 1,
+        "unit": "",
+        "prep": "zested, for the dressing",
+        "optional": false
+      },
+      {
+        "item": "lemon juice",
+        "qty": 15,
+        "unit": "g",
+        "prep": "about 1 tbsp (~¼ lemon), for the dressing",
+        "optional": false
+      },
+      {
+        "item": "brioche hot dog buns",
+        "qty": 4,
+        "unit": "",
+        "prep": "top-split",
+        "optional": false
+      },
+      {
+        "item": "neutral oil",
+        "qty": 15,
+        "unit": "g",
+        "prep": "about 1 tbsp, for toasting",
+        "optional": false
+      },
+      {
+        "item": "chives",
+        "qty": null,
+        "unit": "",
+        "prep": "extra, for topping",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "for topping",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Make the poaching liquid: combine the water, salt, sugar, and the halved/juiced lemon in a large stock pot and bring to a boil. (Being exact with the water keeps your cook time matching — more water cooks the shrimp faster, less cooks them slower.)",
+      "Turn OFF the heat, then gently add the shrimp — this drops the water into a gentle poach (~190–200°F) so they cook slowly and stay tender. Stir once to distribute and poach for 3 minutes.",
+      "The shrimp are done when they’ve curled into a \"C\" (not a tight \"O\") and are mostly opaque — a little translucency in the very center is fine since they carry over. (For larger 16/20 or 12/15 shrimp, add 30–45 seconds.) Lift them out with a spider onto a paper-towel-lined tray and refrigerate about 20 minutes to stop the cooking and chill.",
+      "Cut the cold shrimp into ½-inch (\"peanut M&M\") pieces — keep them chunky; cutting too small makes it taste like chicken salad. Pat the pieces very dry with paper towel (surface water makes the dressing watery and sloppy).",
+      "Gently fold the shrimp together with the mayonnaise, about 15 g of the chives, the salt, lemon zest, and lemon juice. Taste and adjust the salt and lemon.",
+      "Toast the buns: heat the oil in a nonstick pan over medium. Open the top-split buns and toast them cut-side down, swirling to coat in the oil, about 90 seconds until golden from tip to tip.",
+      "Spread a little mayo inside each bun (a glue so the shrimp stay put), fill with about 3 oz of the shrimp salad (don’t overfill), and top with the reserved chives and a couple cracks of black pepper. Serve immediately."
+    ],
+    "notes": "Make to order — don’t make it ahead; the salt and lemon will \"cook\" the shrimp and turn the salad weepy. Shrimp: wild Argentinian red shrimp give the most lobster-like sweet, tender result; wild gulf shrimp are the next best; farmed white shrimp work fine (~8.5/10). The same poaching liquid and shrimp also make excellent shrimp cocktail. Optional topping: a little Old Bay (go easy). A fuller version is on brianlagerstrom.com.",
+    "createdAt": "2026-06-20",
+    "image": "images/shrimp-rolls-lobster-roll-style.jpg"
   }
 ]
