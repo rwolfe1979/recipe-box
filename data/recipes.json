@@ -19248,5 +19248,854 @@
     "notes": "Make to order — don’t make it ahead; the salt and lemon will \"cook\" the shrimp and turn the salad weepy. Shrimp: wild Argentinian red shrimp give the most lobster-like sweet, tender result; wild gulf shrimp are the next best; farmed white shrimp work fine (~8.5/10). The same poaching liquid and shrimp also make excellent shrimp cocktail. Optional topping: a little Old Bay (go easy). A fuller version is on brianlagerstrom.com.",
     "createdAt": "2026-06-20",
     "image": "images/shrimp-rolls-lobster-roll-style.jpg"
+  },
+  {
+    "id": "sheet-pan-philly-cheesesteak",
+    "title": "Sheet Pan Philly Cheesesteak",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "beef",
+      "bell pepper"
+    ],
+    "tags": [
+      "sheet-pan",
+      "meal-prep",
+      "high-protein",
+      "instagram"
+    ],
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 20,
+    "source": {
+      "url": "https://www.instagram.com/reel/DT1SL1JgBnj/",
+      "note": "@salaarfit on Instagram"
+    },
+    "ingredients": [
+      {
+        "item": "shaved ribeye steak",
+        "qty": 2,
+        "unit": "package",
+        "prep": "heritage; or sub 24 oz trimmed skirt steak",
+        "optional": false
+      },
+      {
+        "item": "green bell pepper",
+        "qty": 1,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "red bell pepper",
+        "qty": 1,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "yellow onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "baby mushrooms",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Worcestershire sauce",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "2–3 tbsp",
+        "optional": false
+      },
+      {
+        "item": "steak seasoning",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "thin provolone",
+        "qty": 6,
+        "unit": "slice",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Slice all the veggies into thin strips on a sheet pan and top with the shaved ribeye (or skirt steak).",
+      "Season aggressively with the Worcestershire, steak seasoning, salt, and garlic powder.",
+      "Cook in the oven at 425°F for 15 minutes.",
+      "Remove, layer the thin provolone over the top, and broil on high 2–3 minutes until melted. Serve."
+    ],
+    "notes": "One-pan, high-protein meal prep. Per serving (4 servings): 331 cal, 46g protein, 10.5g fat, 12g carbs.",
+    "diet": [
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-23",
+    "image": "images/sheet-pan-philly-cheesesteak.jpg"
+  },
+  {
+    "id": "high-protein-chocolate-coffee-cheesecake",
+    "title": "High-Protein Chocolate Coffee Cheesecake",
+    "cuisine": "American",
+    "mealTypes": [
+      "dessert"
+    ],
+    "mainIngredients": [
+      "cottage cheese",
+      "cocoa"
+    ],
+    "tags": [
+      "high-protein",
+      "tiktok"
+    ],
+    "servings": 8,
+    "prepTime": 10,
+    "cookTime": 50,
+    "source": {
+      "url": "https://www.tiktok.com/@thechefoutwest/video/7652799848869154056",
+      "note": "@thechefoutwest on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "cottage cheese",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Greek yogurt",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "eggs",
+        "qty": 2,
+        "unit": "",
+        "prep": "large",
+        "optional": false
+      },
+      {
+        "item": "unsweetened cocoa powder",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "maple syrup",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "or honey",
+        "optional": false
+      },
+      {
+        "item": "oat flour",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "or almond flour",
+        "optional": false
+      },
+      {
+        "item": "vanilla extract",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ground coffee",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "any flavor",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Add the cottage cheese, Greek yogurt, eggs, cocoa powder, maple syrup, oat (or almond) flour, vanilla, and ground coffee to a blender.",
+      "Blend until completely smooth, stopping to scrape down the sides as needed.",
+      "Pour the batter into a parchment-lined 6-inch round baking dish and smooth the top.",
+      "Bake at 325°F (165°C) for 45–50 minutes, until the edges are set and the center is still soft and slightly jiggly.",
+      "Transfer to the fridge and chill at least 8 hours, preferably overnight, before slicing."
+    ],
+    "notes": "High-protein dessert. Use almond flour to keep it gluten-free.",
+    "diet": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-23",
+    "image": "images/high-protein-chocolate-coffee-cheesecake.jpg"
+  },
+  {
+    "id": "blueberry-cookies",
+    "title": "Blueberry Cookies",
+    "cuisine": "Bakery",
+    "mealTypes": [
+      "dessert",
+      "snack"
+    ],
+    "mainIngredients": [
+      "blueberries",
+      "flour"
+    ],
+    "tags": [
+      "cookies",
+      "sweet",
+      "tiktok"
+    ],
+    "servings": 12,
+    "prepTime": 25,
+    "cookTime": 12,
+    "source": {
+      "url": "https://www.tiktok.com/@betterbakesbygrace/video/7652877275859307807",
+      "note": "@betterbakesbygrace on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "unsalted butter",
+        "qty": 115,
+        "unit": "g",
+        "prep": "½ cup, melted",
+        "optional": false
+      },
+      {
+        "item": "granulated sugar",
+        "qty": 120,
+        "unit": "g",
+        "prep": "⅔ cup",
+        "optional": false
+      },
+      {
+        "item": "light brown sugar",
+        "qty": 60,
+        "unit": "g",
+        "prep": "⅓ cup",
+        "optional": false
+      },
+      {
+        "item": "egg yolk",
+        "qty": 1,
+        "unit": "",
+        "prep": "large (18g)",
+        "optional": false
+      },
+      {
+        "item": "vanilla bean paste",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "or extract",
+        "optional": false
+      },
+      {
+        "item": "Mexican vanilla",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "thick blueberry reduction",
+        "qty": 100,
+        "unit": "g",
+        "prep": "frozen blueberries cooked down till thick and jammy — 50g for the dough, 50g to fold in",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 180,
+        "unit": "g",
+        "prep": "1½ cups",
+        "optional": false
+      },
+      {
+        "item": "baking soda",
+        "qty": 1,
+        "unit": "g",
+        "prep": "¼ tsp",
+        "optional": false
+      },
+      {
+        "item": "kosher salt",
+        "qty": 4,
+        "unit": "g",
+        "prep": "¾ tsp",
+        "optional": false
+      },
+      {
+        "item": "white chocolate chunks",
+        "qty": 100,
+        "unit": "g",
+        "prep": "½ cup",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Make a thick blueberry reduction: cook frozen blueberries down until thick and jammy (you need ~100g). Cool.",
+      "Whisk the melted butter, 50g of the blueberry reduction, both sugars, the egg yolk, and the vanilla until smooth.",
+      "Fold in the flour, baking soda, and salt.",
+      "Gently fold in the white chocolate chunks and the remaining 50g blueberry reduction until just combined.",
+      "Scoop onto a parchment-lined baking sheet and bake at 350°F (175°C) for 10–12 minutes, until the edges are lightly golden and the centers still look slightly underbaked.",
+      "Let set for 10 minutes before eating."
+    ],
+    "notes": "Thin and chewy inside with a crispy outside.",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-06-23",
+    "image": "images/blueberry-cookies.jpg"
+  },
+  {
+    "id": "one-pot-french-onion-bolognese",
+    "title": "One-Pot French Onion Bolognese",
+    "cuisine": "French-Italian",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "beef",
+      "pasta"
+    ],
+    "tags": [
+      "one-pot",
+      "budget",
+      "comfort food",
+      "tiktok"
+    ],
+    "servings": 4,
+    "prepTime": 30,
+    "cookTime": 60,
+    "source": {
+      "url": "https://www.tiktok.com/@food_bylucy/video/7654203448539254037",
+      "note": "@food_bylucy on TikTok (Boujee on a Budget)"
+    },
+    "ingredients": [
+      {
+        "item": "olive oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the bolognese",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 40,
+        "unit": "g",
+        "prep": "for the bolognese",
+        "optional": false
+      },
+      {
+        "item": "brown onions",
+        "qty": 3,
+        "unit": "",
+        "prep": "sliced, for the bolognese",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the bolognese",
+        "optional": false
+      },
+      {
+        "item": "beef mince",
+        "qty": 500,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 4,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "tomato paste",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Worcestershire sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "thyme",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "plain flour",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "parmesan rind",
+        "qty": 1,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "beef stock",
+        "qty": 1,
+        "unit": "l",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "spaghetti",
+        "qty": 250,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cold butter",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "to finish the bolognese",
+        "optional": false
+      },
+      {
+        "item": "red wine vinegar",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "1–2 tsp, to finish",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 40,
+        "unit": "g",
+        "prep": "for the brown butter parmesan cream",
+        "optional": false
+      },
+      {
+        "item": "thickened cream",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "for the cream",
+        "optional": false
+      },
+      {
+        "item": "parmesan",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "for the cream",
+        "optional": false
+      },
+      {
+        "item": "dijon mustard",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "for the cream",
+        "optional": false
+      },
+      {
+        "item": "bread flour",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the rolls (tangzhong)",
+        "optional": false
+      },
+      {
+        "item": "milk",
+        "qty": 80,
+        "unit": "ml",
+        "prep": "for the tangzhong, plus extra for brushing",
+        "optional": false
+      },
+      {
+        "item": "active dry yeast",
+        "qty": 7,
+        "unit": "g",
+        "prep": "for the rolls",
+        "optional": false
+      },
+      {
+        "item": "bread flour",
+        "qty": 350,
+        "unit": "g",
+        "prep": "for the dough",
+        "optional": false
+      },
+      {
+        "item": "caster sugar",
+        "qty": 50,
+        "unit": "g",
+        "prep": "for the dough",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the dough",
+        "optional": false
+      },
+      {
+        "item": "egg",
+        "qty": 1,
+        "unit": "",
+        "prep": "for the dough",
+        "optional": false
+      },
+      {
+        "item": "warm milk",
+        "qty": 125,
+        "unit": "ml",
+        "prep": "for the dough",
+        "optional": false
+      },
+      {
+        "item": "unsalted butter",
+        "qty": 50,
+        "unit": "g",
+        "prep": "softened, for the dough",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 60,
+        "unit": "g",
+        "prep": "melted, for the garlic topping",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "clove",
+        "prep": "grated, for the topping",
+        "optional": false
+      },
+      {
+        "item": "chives",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the topping",
+        "optional": false
+      },
+      {
+        "item": "Gruyère",
+        "qty": 60,
+        "unit": "g",
+        "prep": "60–80g, grated, for the topping",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Bolognese: cook the sliced onions in the butter, olive oil, and salt until golden and jammy. Remove and set aside.",
+      "Brown and season the beef mince, then add the garlic, tomato paste, Worcestershire, thyme, and salt and pepper.",
+      "Return the onions, add the plain flour, and cook 1 minute.",
+      "Add the beef stock and parmesan rind. Simmer 5 minutes, then add the spaghetti and cook until tender. Remove the rind and stir through the cold butter and red wine vinegar.",
+      "Brown butter parmesan cream: brown the 40g butter, then stir in the cream, Dijon, parmesan, and black pepper.",
+      "Rolls: cook the 2 tbsp bread flour with the 80ml milk into a thick paste (tangzhong) and cool. Combine the 350g bread flour, yeast, sugar, and salt; add the tangzhong, warm milk, and egg. Mix into a dough, then knead in the softened butter until smooth. Proof 1–2 hours.",
+      "Divide the dough into 7 balls, rest 15 minutes, place in a greased dish, and proof 30–45 minutes. Brush with milk and bake at 180°C (350°F) for 15–18 minutes.",
+      "Brush the baked rolls with the garlic butter (melted butter, grated garlic, chives, salt, pepper), top with the grated Gruyère, and grill/broil until golden.",
+      "To serve, spoon the parmesan cream onto a plate, top with the bolognese, and serve with the rolls."
+    ],
+    "notes": "\"Boujee on a Budget\" — comes to about $8 per serving.",
+    "diet": [],
+    "createdAt": "2026-06-23",
+    "image": "images/one-pot-french-onion-bolognese.jpg"
+  },
+  {
+    "id": "one-pot-soy-glazed-chicken-rice",
+    "title": "One-Pot Soy-Glazed Chicken & Rice",
+    "cuisine": "Asian",
+    "mealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "rice"
+    ],
+    "tags": [
+      "one-pot",
+      "high-protein",
+      "meal-prep",
+      "tiktok"
+    ],
+    "servings": 2,
+    "prepTime": 15,
+    "cookTime": 30,
+    "source": {
+      "url": "https://www.tiktok.com/@joexfitness/video/7652570750280289550",
+      "note": "@joexfitness on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "chicken thigh",
+        "qty": 12,
+        "unit": "oz",
+        "prep": "boneless, skinless, raw",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 1.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "oyster sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "honey",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 1.5,
+        "unit": "tbsp",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "jasmine rice",
+        "qty": 0.667,
+        "unit": "cup",
+        "prep": "uncooked",
+        "optional": false
+      },
+      {
+        "item": "chicken bone broth",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "persian cucumbers",
+        "qty": 2,
+        "unit": "",
+        "prep": "for the salad",
+        "optional": false
+      },
+      {
+        "item": "rice vinegar",
+        "qty": 1.5,
+        "unit": "tbsp",
+        "prep": "for the salad",
+        "optional": false
+      },
+      {
+        "item": "brown sugar",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "for the salad",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "prep": "for the salad",
+        "optional": false
+      },
+      {
+        "item": "sesame seeds",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the salad",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Thinly slice the cucumbers and pat them dry.",
+      "In a bowl, mix the chicken thighs with the salt, black pepper, soy sauce, oyster sauce, honey, and minced garlic.",
+      "Wash the rice.",
+      "In a rice cooker, add the uncooked rice, chicken bone broth, and marinated chicken, and cook for 30 minutes.",
+      "Toss the sliced cucumbers with salt and let sit 15 minutes to draw out the excess liquid.",
+      "Squeeze out the liquid, rinse the cucumbers with water, and pat dry.",
+      "Toss the cucumbers with the rice vinegar, brown sugar, soy sauce, and sesame seeds to make the salad.",
+      "Once cooked, serve half the rice, half the chicken, and half the cucumber salad per bowl."
+    ],
+    "notes": "Per serving: 42g protein, 76g carbs, 8g fat, 567 cal. Makes 2 servings.",
+    "diet": [],
+    "createdAt": "2026-06-23",
+    "image": "images/one-pot-soy-glazed-chicken-rice.jpg"
+  },
+  {
+    "id": "seared-scallops-with-sweet-corn",
+    "title": "Seared Scallops with Sweet Corn",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "scallops",
+      "corn"
+    ],
+    "tags": [
+      "seafood",
+      "tiktok"
+    ],
+    "servings": 2,
+    "prepTime": 20,
+    "cookTime": 25,
+    "source": {
+      "url": "https://www.tiktok.com/@sad_papi/video/7653953271073115423",
+      "note": "@sad_papi on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "corn",
+        "qty": 4,
+        "unit": "ear",
+        "prep": "for the corn pudding",
+        "optional": false
+      },
+      {
+        "item": "smoked paprika",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the chorizo oil",
+        "optional": false
+      },
+      {
+        "item": "chili powder",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the chorizo oil",
+        "optional": false
+      },
+      {
+        "item": "cumin",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the chorizo oil",
+        "optional": false
+      },
+      {
+        "item": "coriander seed",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the chorizo oil",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "clove",
+        "prep": "crushed, for the chorizo oil",
+        "optional": false
+      },
+      {
+        "item": "rosemary",
+        "qty": 1,
+        "unit": "sprig",
+        "prep": "for the chorizo oil",
+        "optional": false
+      },
+      {
+        "item": "neutral oil",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "for the chorizo oil",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the corn monté",
+        "optional": false
+      },
+      {
+        "item": "cold butter",
+        "qty": 5,
+        "unit": "tbsp",
+        "prep": "for the corn monté",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "scallops",
+        "qty": null,
+        "unit": "",
+        "prep": "seared, for serving",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Corn pudding: cut the kernels off the cob and pass them through a juicer (or blend and squeeze through a towel to extract the juice). Cook the juice in a pot over medium-low heat until thickened.",
+      "Chorizo oil: combine the smoked paprika, chili powder, cumin, coriander seed, crushed garlic, rosemary, and neutral oil in a pot. Gently simmer over low heat 10–15 minutes, then cool completely and strain through a fine mesh lined with cheesecloth.",
+      "Corn monté: bring the water to a simmer in a pot, drop the heat to low, and whisk in the cold butter a tablespoon at a time. Once incorporated, stir in a few tablespoons of the corn pudding and season with salt to taste.",
+      "Sear the scallops, then serve them over the corn monté, drizzled with the chorizo oil."
+    ],
+    "notes": "The chorizo oil and corn pudding can be made ahead.",
+    "diet": [
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-23",
+    "image": "images/seared-scallops-with-sweet-corn.jpg"
   }
 ]
