@@ -18661,5 +18661,454 @@
       "gluten-free"
     ],
     "createdAt": "2026-06-20"
+  },
+  {
+    "id": "bbq-steak-marinade",
+    "title": "BBQ Steak Marinade",
+    "cuisine": "American",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "tomato"
+    ],
+    "tags": [
+      "marinade",
+      "steak"
+    ],
+    "servings": 1,
+    "prepTime": 5,
+    "cookTime": null,
+    "source": {
+      "url": "https://simply-delicious-food.com/easy-steak-marinades/",
+      "note": "Simply Delicious — Easy Steak Marinades"
+    },
+    "ingredients": [
+      {
+        "item": "tomato ketchup",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "balsamic vinegar",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Worcestershire sauce",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "smoked paprika",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "brown sugar",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Whisk all the ingredients together in a bowl.",
+      "Place about 1 lb (500g) steak in a ziploc bag or container, pour the marinade over, squeeze out the air, and seal. Marinate in the fridge 2–24 hours (or freeze up to 3 months; thaw before cooking). Let the steak come to room temperature before cooking."
+    ],
+    "notes": "Makes enough for about 1 lb (500g) of steak (sirloin, ribeye, filet, skirt, or flank). Great for meal prep — freeze the steak in the marinade.",
+    "diet": [],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "balsamic-steak-marinade",
+    "title": "Balsamic Steak Marinade",
+    "cuisine": "Italian",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "balsamic vinegar"
+    ],
+    "tags": [
+      "marinade",
+      "steak"
+    ],
+    "servings": 1,
+    "prepTime": 5,
+    "cookTime": null,
+    "source": {
+      "url": "https://simply-delicious-food.com/easy-steak-marinades/",
+      "note": "Simply Delicious — Easy Steak Marinades"
+    },
+    "ingredients": [
+      {
+        "item": "olive oil",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "balsamic vinegar",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "clove",
+        "prep": "thinly sliced",
+        "optional": false
+      },
+      {
+        "item": "fresh rosemary",
+        "qty": 4,
+        "unit": "sprig",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Whisk all the ingredients together in a bowl.",
+      "Place about 1 lb (500g) steak in a ziploc bag or container, pour the marinade over, squeeze out the air, and seal. Marinate in the fridge 2–24 hours (or freeze up to 3 months; thaw before cooking). Let the steak come to room temperature before cooking."
+    ],
+    "notes": "Makes enough for about 1 lb (500g) of steak (sirloin, ribeye, filet, skirt, or flank). Great for meal prep — freeze the steak in the marinade.",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "fajita-steak-marinade",
+    "title": "Fajita Steak Marinade",
+    "cuisine": "Mexican",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "lime"
+    ],
+    "tags": [
+      "marinade",
+      "steak"
+    ],
+    "servings": 1,
+    "prepTime": 5,
+    "cookTime": null,
+    "source": {
+      "url": "https://simply-delicious-food.com/easy-steak-marinades/",
+      "note": "Simply Delicious — Easy Steak Marinades"
+    },
+    "ingredients": [
+      {
+        "item": "olive oil",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "lime juice",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "taco seasoning",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Whisk all the ingredients together in a bowl.",
+      "Place about 1 lb (500g) steak in a ziploc bag or container, pour the marinade over, squeeze out the air, and seal. Marinate in the fridge 2–24 hours (or freeze up to 3 months; thaw before cooking). Let the steak come to room temperature before cooking."
+    ],
+    "notes": "Makes enough for about 1 lb (500g) of steak (sirloin, ribeye, filet, skirt, or flank). Great for meal prep — freeze the steak in the marinade.",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "garlic-herb-steak-marinade",
+    "title": "Garlic-Herb Steak Marinade",
+    "cuisine": "Mediterranean",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "garlic"
+    ],
+    "tags": [
+      "marinade",
+      "steak"
+    ],
+    "servings": 1,
+    "prepTime": 5,
+    "cookTime": null,
+    "source": {
+      "url": "https://simply-delicious-food.com/easy-steak-marinades/",
+      "note": "Simply Delicious — Easy Steak Marinades"
+    },
+    "ingredients": [
+      {
+        "item": "olive oil",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "lemon juice",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "fresh herbs",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "parsley, rosemary, and thyme, chopped",
+        "optional": false
+      },
+      {
+        "item": "dijon mustard",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 3,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Whisk all the ingredients together in a bowl.",
+      "Place about 1 lb (500g) steak in a ziploc bag or container, pour the marinade over, squeeze out the air, and seal. Marinate in the fridge 2–24 hours (or freeze up to 3 months; thaw before cooking). Let the steak come to room temperature before cooking."
+    ],
+    "notes": "Makes enough for about 1 lb (500g) of steak (sirloin, ribeye, filet, skirt, or flank). Great for meal prep — freeze the steak in the marinade.",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "chimichurri-steak-marinade",
+    "title": "Chimichurri Steak Marinade",
+    "cuisine": "Argentine",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "parsley"
+    ],
+    "tags": [
+      "marinade",
+      "steak"
+    ],
+    "servings": 1,
+    "prepTime": 5,
+    "cookTime": null,
+    "source": {
+      "url": "https://simply-delicious-food.com/easy-steak-marinades/",
+      "note": "Simply Delicious — Easy Steak Marinades"
+    },
+    "ingredients": [
+      {
+        "item": "olive oil",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "red wine vinegar",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "fresh parsley",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "finely chopped",
+        "optional": false
+      },
+      {
+        "item": "chillies",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "dried oregano",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "clove",
+        "prep": "crushed",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Whisk all the ingredients together in a bowl.",
+      "Place about 1 lb (500g) steak in a ziploc bag or container, pour the marinade over, squeeze out the air, and seal. Marinate in the fridge 2–24 hours (or freeze up to 3 months; thaw before cooking). Let the steak come to room temperature before cooking."
+    ],
+    "notes": "Makes enough for about 1 lb (500g) of steak (sirloin, ribeye, filet, skirt, or flank). Great for meal prep — freeze the steak in the marinade.",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "createdAt": "2026-06-20"
+  },
+  {
+    "id": "honey-soy-steak-marinade",
+    "title": "Honey-Soy Steak Marinade",
+    "cuisine": "Asian",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "soy sauce"
+    ],
+    "tags": [
+      "marinade",
+      "steak"
+    ],
+    "servings": 1,
+    "prepTime": 5,
+    "cookTime": null,
+    "source": {
+      "url": "https://simply-delicious-food.com/easy-steak-marinades/",
+      "note": "Simply Delicious — Easy Steak Marinades"
+    },
+    "ingredients": [
+      {
+        "item": "vegetable oil",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "rice vinegar",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "honey",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "ginger",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "minced",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Whisk all the ingredients together in a bowl.",
+      "Place about 1 lb (500g) steak in a ziploc bag or container, pour the marinade over, squeeze out the air, and seal. Marinate in the fridge 2–24 hours (or freeze up to 3 months; thaw before cooking). Let the steak come to room temperature before cooking."
+    ],
+    "notes": "Makes enough for about 1 lb (500g) of steak (sirloin, ribeye, filet, skirt, or flank). Great for meal prep — freeze the steak in the marinade.",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-06-20"
   }
 ]
