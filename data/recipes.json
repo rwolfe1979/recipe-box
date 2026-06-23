@@ -20403,7 +20403,7 @@
     "title": "Greek Lemon-Oregano Dressing",
     "cuisine": "Greek",
     "mealTypes": [
-      "salad"
+      "dressing"
     ],
     "mainIngredients": [
       "lemon"
@@ -20611,5 +20611,145 @@
     "diet": [],
     "createdAt": "2026-06-23",
     "image": "images/greek-steak-salad.jpg"
+  },
+  {
+    "id": "girards-champagne-vinaigrette-dupe",
+    "title": "Girard's Champagne Vinaigrette Dupe",
+    "cuisine": "American",
+    "mealTypes": [
+      "dressing"
+    ],
+    "mainIngredients": [
+      "champagne vinegar"
+    ],
+    "tags": [
+      "dressing",
+      "copycat",
+      "make-ahead"
+    ],
+    "diet": [],
+    "servings": 12,
+    "prepTime": 10,
+    "cookTime": null,
+    "source": {
+      "url": "",
+      "note": "Copycat — created with Claude Code"
+    },
+    "ingredients": [
+      {
+        "item": "neutral oil",
+        "qty": 0.8,
+        "unit": "cup",
+        "prep": "canola, or half canola / half mild olive",
+        "optional": false
+      },
+      {
+        "item": "champagne vinegar",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "white wine vinegar",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "dry white wine",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "Sauvignon Blanc or Pinot Grigio",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Dijon mustard",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "fine salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "MSG",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "Ac'cent / Aji-no-moto",
+        "optional": false
+      },
+      {
+        "item": "Worcestershire sauce",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "molasses",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "onion powder",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "dried chives",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 0.3,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Dissolve the dry ingredients into the vinegars: in a jar or bowl, whisk the sugar, salt, MSG, garlic powder, onion powder, and black pepper into the champagne vinegar and white wine vinegar until the sugar and salt dissolve.",
+      "Whisk in the white wine, water, Dijon, Worcestershire, and molasses until smooth and slightly thickened from the mustard.",
+      "Stream in the oil: while whisking hard (or with a blender running), slowly drizzle in the neutral oil. The Dijon pulls it into a loose, pourable dressing.",
+      "Stir in the dried chives. Cover and chill at least 1 hour so it comes together — it tastes noticeably better after resting.",
+      "Shake well before each use. Keeps about 2 weeks refrigerated."
+    ],
+    "notes": "A pantry-friendly copycat of Girard's champagne vinaigrette, built around real champagne vinegar. Why the vinegar split matters: champagne vinegar leads for that clean, slightly floral tang; a splash of white wine vinegar adds a sharper edge so it isn't one-note; the dry white wine rounds it out with a winey depth. Dijon does the emulsifying (the bottle uses xanthan gum), so a good shake holds it together. Worcestershire plus MSG carry the savory backbone. Tuning: too sharp → add ½ tsp sugar; tastes flat → nudge MSG and Worcestershire up ¼ tsp each; want it thinner → whisk in water 1 tsp at a time.",
+    "createdAt": "2026-06-23"
   }
 ]

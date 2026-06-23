@@ -4,7 +4,7 @@ const App = {
   shop: null,   // {start, days, extras:[], checked:{}, hideStaples}
   loaded: false,
 
-  MEAL_TYPES: ['breakfast', 'lunch', 'dinner', 'side', 'bread', 'soup', 'salad', 'appetizer', 'snack', 'dessert', 'drink', 'marinade'],
+  MEAL_TYPES: ['breakfast', 'lunch', 'dinner', 'side', 'bread', 'soup', 'salad', 'appetizer', 'snack', 'dessert', 'drink', 'dressing', 'marinade'],
   DIETS: ['vegetarian', 'vegan', 'gluten-free'],
   TIME_LIMITS: [20, 30, 45, 60],
   SLOTS: ['breakfast', 'lunch', 'dinner', 'other'],
@@ -75,7 +75,7 @@ const App = {
   TYPE_META: [
     ['breakfast', '🍳'], ['lunch', '🥪'], ['dinner', '🍽️'], ['bread', '🍞'],
     ['soup', '🍲'], ['salad', '🥗'], ['appetizer', '🫕'], ['side', '🥘'], ['snack', '🍿'],
-    ['dessert', '🍰'], ['drink', '🥤'], ['marinade', '🧂'],
+    ['dessert', '🍰'], ['drink', '🥤'], ['dressing', '🫙'], ['marinade', '🧂'],
   ],
 
   renderHome(view) {
@@ -852,6 +852,7 @@ const App = {
 
   foodEmoji(r) {
     if ((r.mealTypes || []).includes('marinade')) return '🧂';
+    if ((r.mealTypes || []).includes('dressing')) return '🫙';
     const hay = ((r.mainIngredients || []).join(' ') + ' ' + r.title + ' ' + (r.tags || []).join(' ')).toLowerCase();
     const byIng = [
       [/shrimp|prawn/, '🦐'], [/salmon|tuna|fish|cod|tilapia/, '🐟'], [/chicken/, '🍗'],
