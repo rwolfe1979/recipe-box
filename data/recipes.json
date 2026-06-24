@@ -21099,9 +21099,9 @@
       },
       {
         "item": "whole milk",
-        "qty": null,
-        "unit": "",
-        "prep": "added in two stages — a portion early to tenderize the meat, a splash at the end for roundness",
+        "qty": 200,
+        "unit": "ml",
+        "prep": "added in two stages — about 150 ml early to tenderize the meat, and a ~50 ml splash at the end for roundness",
         "optional": false
       },
       {
@@ -21169,13 +21169,13 @@
       "Once the liquid has cooked off, lower the heat slightly and caramelise the beef slowly until deeply browned (like a steak — about 80% of the flavour comes from here), scraping the fond off the bottom regularly.",
       "Add the diced pork belly and gently warm it through — no heavy browning; you mainly want its collagen and fat to enrich the sauce.",
       "Stir in the tomato purée and cook until it darkens and caramelises to a deep red-brown.",
-      "Lower the heat and add the first portion of milk; let it fully absorb into the meat to soften the fibres.",
+      "Lower the heat and add about 150 ml of the milk (the first stage); let it fully absorb into the meat to soften the fibres.",
       "Deglaze with the red wine, raise the heat slightly, and reduce by about half, scraping the pan clean.",
       "Return the soffritto, then add the passata, stock, parmesan rind, bay leaves, and a pinch of nutmeg.",
       "Bring to a simmer, cover, and cook in a low oven at 120°C (250°F) for 4½ hours, stirring occasionally.",
       "Meanwhile, make a gastrique: boil the balsamic vinegar and sugar together briefly until lightly thickened.",
       "Once cooked, remove the bay leaves and parmesan rind.",
-      "Finish with a splash of milk, a few knobs of cold butter for gloss, and the gastrique added gradually to balance the acidity. Season to taste."
+      "Finish with the remaining ~50 ml milk, a few knobs of cold butter for gloss, and the gastrique added gradually to balance the acidity. Season to taste."
     ],
     "notes": "A technique-driven \"chef way\" ragù using French/European principles (inspired by Marco Pierre White & Massimo Bottura) — soffritto kept soft and sweet, deep Maillard browning on the meat, two-stage milk, and a gastrique to balance. Quick weeknight version: skip the pork belly, pancetta, and wine and just caramelise good mince over a simple soffritto. In the video it’s served over quick gnocchi: bake red-skin potatoes at 160°C until tender, rice them (~500g), and work in 1 egg yolk and 65g \"00\" flour; roll into ropes, cut, and boil in salted water until they float.",
     "createdAt": "2026-06-23",
