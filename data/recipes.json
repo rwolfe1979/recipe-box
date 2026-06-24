@@ -21307,5 +21307,353 @@
     "notes": "The perfect pancakes — crisp edges, fluffy centers. Two leaveners do the work: baking powder for fluff, and baking soda to neutralize the buttermilk’s tang while adding rise and color (use half as much soda as powder). Buttermilk substitutes: plain yogurt + milk, whole milk + lemon juice or vinegar, or sour cream — any acidified dairy reacts with the baking soda. Flour swaps: replace up to ¾ cup of the AP flour with whole wheat, spelt, rye, or oat flour (or ¾ cup/65g oatmeal, or ¾ cup/110g polenta/cornmeal — coarse = crunchy, fine = cakier). Make-ahead: batter keeps 2 days in the fridge (a touch less fluffy), or mix everything but the leaveners ahead and stir those in ~10 min before cooking; cooked pancakes freeze well (reheat in the toaster ~3 min, +30 sec to crisp). Pan: cast iron, carbon steel, or stainless give crispier edges; nonstick is easiest to flip; never cook on high or the bottom burns before the center sets. Mix-ins (sprinkle on, don’t stir in): blueberries, sliced strawberries or banana, diced peaches, chocolate or butterscotch chips, dried cherries, chopped nuts, sprinkles, coconut, or poppy/sesame seeds.",
     "createdAt": "2026-06-23",
     "image": "images/melissa-clarks-best-buttermilk-pancakes.jpg"
+  },
+  {
+    "id": "dan-dan-udon-noodles",
+    "title": "Dan Dan Udon Noodles",
+    "cuisine": "Chinese",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "udon noodles",
+      "pork"
+    ],
+    "tags": [
+      "noodles",
+      "quick",
+      "tiktok"
+    ],
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 15,
+    "source": {
+      "url": "https://www.tiktok.com/@stephvnietea/video/7652874912587058463",
+      "note": "@stephvnietea on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "soy sauce",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "sesame paste",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "or creamy peanut butter, for the sauce",
+        "optional": false
+      },
+      {
+        "item": "rice vinegar",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "chili oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "1–2 tbsp (Lao Gan Ma or your favorite), for the sauce",
+        "optional": false
+      },
+      {
+        "item": "sesame oil",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "ground pork",
+        "qty": 1,
+        "unit": "lb",
+        "prep": "or ground chicken",
+        "optional": false
+      },
+      {
+        "item": "cooking oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 4,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "hoisin sauce",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "dark soy sauce",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "five spice powder",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chicken broth",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "or water",
+        "optional": false
+      },
+      {
+        "item": "udon noodles",
+        "qty": 2,
+        "unit": "lb",
+        "prep": "fresh, or thawed from frozen",
+        "optional": false
+      },
+      {
+        "item": "bok choy",
+        "qty": 0.25,
+        "unit": "lb",
+        "prep": "washed",
+        "optional": false
+      },
+      {
+        "item": "unsalted roasted peanuts",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "green onions",
+        "qty": 3,
+        "unit": "stalk",
+        "prep": "thinly sliced",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Combine all the sauce ingredients in a bowl, mix well, and set aside.",
+      "Boil water and cook the udon noodles through; blanch the bok choy for 30 seconds to 1 minute. Strain and set aside.",
+      "Heat 1 tbsp cooking oil and sauté the minced garlic about 10 seconds until fragrant. Add the ground meat and cook ~80% through, then season with the hoisin, dark soy, five spice, and chicken broth. Bring to a boil and cook the meat through.",
+      "Turn off the heat, add the cooked strained noodles and the sauce, and toss well.",
+      "Serve topped with the bok choy, roasted peanuts, extra chili oil, and lots of thinly sliced green onion."
+    ],
+    "notes": "Serves 4–5.",
+    "diet": [],
+    "createdAt": "2026-06-24",
+    "image": "images/dan-dan-udon-noodles.jpg"
+  },
+  {
+    "id": "crispy-garlic-parmesan-chicken-wraps",
+    "title": "Crispy Garlic Parmesan Chicken Wraps",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "mainIngredients": [
+      "chicken"
+    ],
+    "tags": [
+      "sheet-pan",
+      "high-protein",
+      "meal-prep",
+      "instagram"
+    ],
+    "servings": 10,
+    "prepTime": 20,
+    "cookTime": 22,
+    "source": {
+      "url": "https://www.instagram.com/reel/DWeXi3wDI2C/",
+      "note": "@jalalsamfit on Instagram"
+    },
+    "ingredients": [
+      {
+        "item": "chicken thighs",
+        "qty": 600,
+        "unit": "g",
+        "prep": "boneless, skinless, cut into cubes",
+        "optional": false
+      },
+      {
+        "item": "chicken breast",
+        "qty": 600,
+        "unit": "g",
+        "prep": "cut into cubes",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 2.5,
+        "unit": "tsp",
+        "prep": "for the chicken",
+        "optional": false
+      },
+      {
+        "item": "chili flakes",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "parsley",
+        "qty": 3,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Italian herbs",
+        "qty": 4,
+        "unit": "tsp",
+        "prep": "for the chicken",
+        "optional": false
+      },
+      {
+        "item": "paprika",
+        "qty": 3,
+        "unit": "tsp",
+        "prep": "for the chicken",
+        "optional": false
+      },
+      {
+        "item": "garlic granules",
+        "qty": 4,
+        "unit": "tsp",
+        "prep": "or powder, for the chicken",
+        "optional": false
+      },
+      {
+        "item": "grated parmesan",
+        "qty": 200,
+        "unit": "g",
+        "prep": "for the chicken",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 6,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "avocado cooking spray",
+        "qty": null,
+        "unit": "",
+        "prep": "before baking",
+        "optional": false
+      },
+      {
+        "item": "light evaporated milk",
+        "qty": 350,
+        "unit": "g",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "Italian herbs",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "paprika",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "grated parmesan",
+        "qty": 80,
+        "unit": "g",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "light cream cheese",
+        "qty": 100,
+        "unit": "g",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "light butter",
+        "qty": 15,
+        "unit": "g",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "low-carb wraps",
+        "qty": 10,
+        "unit": "",
+        "prep": "Mission brand",
+        "optional": false
+      },
+      {
+        "item": "shredded lettuce",
+        "qty": null,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "tomatoes",
+        "qty": null,
+        "unit": "",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "onions",
+        "qty": null,
+        "unit": "",
+        "prep": "chopped",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Cut the chicken breast and thighs into cubes. Add the seasonings and grated parmesan with a drizzle of olive oil and mix until well coated.",
+      "Make the sauce: in a pan on low heat, melt the light butter with the Italian herbs, garlic powder, and paprika and toast about 1 minute. Add the evaporated milk, parmesan, and cream cheese and stir until smooth and creamy.",
+      "Line a sheet pan with parchment, spread the marinated chicken evenly (don’t overcrowd), spray a light layer of cooking spray, and bake in a preheated oven at 200°C (400°F) for 20–22 minutes until crispy.",
+      "While the chicken is still hot, toss with extra parmesan and parsley until coated and cheesy.",
+      "Assemble each wrap with shredded lettuce, onion, tomato, the crispy chicken, and the creamy sauce. Enjoy."
+    ],
+    "notes": "Makes 10 wraps. Per wrap: 423 cal, 41g protein, 25g carbs, 18g fat. Storage: keep the chicken and sauce in separate containers in the fridge; reheat chicken in the oven/air fryer 4–5 min at 180°C/370°F and warm the sauce in a pan before serving.",
+    "diet": [],
+    "createdAt": "2026-06-24",
+    "image": "images/crispy-garlic-parmesan-chicken-wraps.jpg"
   }
 ]
