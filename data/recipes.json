@@ -20986,5 +20986,199 @@
     "notes": "The softest lemon rolls, stuffed with cream cheese, lemon sugar, and lemon curd. The roll-up assembly is the standard cinnamon-roll method (shown in the video). Save any extra lemon curd to serve on top.",
     "createdAt": "2026-06-23",
     "image": "images/lemon-rolls-with-cream-cheese-lemon-curd.jpg"
+  },
+  {
+    "id": "restaurant-style-rag-the-chef-way",
+    "title": "Restaurant-Style Ragù (The Chef Way)",
+    "cuisine": "Italian",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "beef",
+      "pork"
+    ],
+    "tags": [
+      "pasta",
+      "comfort food",
+      "slow-cooked",
+      "youtube"
+    ],
+    "diet": [],
+    "servings": 8,
+    "prepTime": 45,
+    "cookTime": 270,
+    "source": {
+      "url": "https://www.youtube.com/watch?v=-xT57w8ZS8U",
+      "note": "YouTube recipe"
+    },
+    "ingredients": [
+      {
+        "item": "beef mince",
+        "qty": 1,
+        "unit": "kg",
+        "prep": "50% shin, 50% chuck",
+        "optional": false
+      },
+      {
+        "item": "pork belly",
+        "qty": 400,
+        "unit": "g",
+        "prep": "diced",
+        "optional": false
+      },
+      {
+        "item": "pancetta",
+        "qty": 100,
+        "unit": "g",
+        "prep": "diced",
+        "optional": false
+      },
+      {
+        "item": "onion",
+        "qty": 200,
+        "unit": "g",
+        "prep": "finely diced",
+        "optional": false
+      },
+      {
+        "item": "carrots",
+        "qty": 150,
+        "unit": "g",
+        "prep": "finely diced",
+        "optional": false
+      },
+      {
+        "item": "celery",
+        "qty": 150,
+        "unit": "g",
+        "prep": "finely diced",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "clove",
+        "prep": "1–2 cloves, finely grated",
+        "optional": false
+      },
+      {
+        "item": "extra-virgin olive oil",
+        "qty": null,
+        "unit": "",
+        "prep": "for the soffritto",
+        "optional": false
+      },
+      {
+        "item": "neutral oil",
+        "qty": null,
+        "unit": "",
+        "prep": "for browning the meat",
+        "optional": false
+      },
+      {
+        "item": "tomato purée",
+        "qty": 80,
+        "unit": "g",
+        "prep": "tomato paste",
+        "optional": false
+      },
+      {
+        "item": "passata",
+        "qty": 400,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "red wine",
+        "qty": 200,
+        "unit": "ml",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "whole milk",
+        "qty": null,
+        "unit": "",
+        "prep": "added in two stages — a portion early to tenderize the meat, a splash at the end for roundness",
+        "optional": false
+      },
+      {
+        "item": "chicken or beef stock",
+        "qty": 500,
+        "unit": "ml",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "parmesan rind",
+        "qty": 1,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "bay leaves",
+        "qty": 2,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "nutmeg",
+        "qty": null,
+        "unit": "",
+        "prep": "a pinch",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cold butter",
+        "qty": null,
+        "unit": "",
+        "prep": "to finish, for gloss",
+        "optional": false
+      },
+      {
+        "item": "balsamic vinegar",
+        "qty": 100,
+        "unit": "g",
+        "prep": "for the gastrique",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 50,
+        "unit": "g",
+        "prep": "for the gastrique",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "On low heat, add olive oil and the pancetta to a heavy pot and slowly render the fat — don’t brown it; you want the smoky fat to melt into the vegetables.",
+      "Add the onion, carrot, and celery with a pinch of salt. Sweat gently (about 10 minutes) until soft, pale, and sweet with no colour — a dark soffritto makes the finished sauce bitter.",
+      "Grate in the garlic for the final 1–2 minutes, then remove the soffritto and set aside.",
+      "Return the pot to high heat with a little neutral oil. Add the beef mince, breaking it up well, and cook hot to drive off the moisture.",
+      "Once the liquid has cooked off, lower the heat slightly and caramelise the beef slowly until deeply browned (like a steak — about 80% of the flavour comes from here), scraping the fond off the bottom regularly.",
+      "Add the diced pork belly and gently warm it through — no heavy browning; you mainly want its collagen and fat to enrich the sauce.",
+      "Stir in the tomato purée and cook until it darkens and caramelises to a deep red-brown.",
+      "Lower the heat and add the first portion of milk; let it fully absorb into the meat to soften the fibres.",
+      "Deglaze with the red wine, raise the heat slightly, and reduce by about half, scraping the pan clean.",
+      "Return the soffritto, then add the passata, stock, parmesan rind, bay leaves, and a pinch of nutmeg.",
+      "Bring to a simmer, cover, and cook in a low oven at 120°C (250°F) for 4½ hours, stirring occasionally.",
+      "Meanwhile, make a gastrique: boil the balsamic vinegar and sugar together briefly until lightly thickened.",
+      "Once cooked, remove the bay leaves and parmesan rind.",
+      "Finish with a splash of milk, a few knobs of cold butter for gloss, and the gastrique added gradually to balance the acidity. Season to taste."
+    ],
+    "notes": "A technique-driven \"chef way\" ragù using French/European principles (inspired by Marco Pierre White & Massimo Bottura) — soffritto kept soft and sweet, deep Maillard browning on the meat, two-stage milk, and a gastrique to balance. Quick weeknight version: skip the pork belly, pancetta, and wine and just caramelise good mince over a simple soffritto. In the video it’s served over quick gnocchi: bake red-skin potatoes at 160°C until tender, rice them (~500g), and work in 1 egg yolk and 65g \"00\" flour; roll into ropes, cut, and boil in salted water until they float.",
+    "createdAt": "2026-06-23",
+    "image": "images/restaurant-style-ragu-the-chef-way.jpg"
   }
 ]
