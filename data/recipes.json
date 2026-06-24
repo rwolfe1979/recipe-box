@@ -21180,5 +21180,132 @@
     "notes": "A technique-driven \"chef way\" ragù using French/European principles (inspired by Marco Pierre White & Massimo Bottura) — soffritto kept soft and sweet, deep Maillard browning on the meat, two-stage milk, and a gastrique to balance. Quick weeknight version: skip the pork belly, pancetta, and wine and just caramelise good mince over a simple soffritto. In the video it’s served over quick gnocchi: bake red-skin potatoes at 160°C until tender, rice them (~500g), and work in 1 egg yolk and 65g \"00\" flour; roll into ropes, cut, and boil in salted water until they float.",
     "createdAt": "2026-06-23",
     "image": "images/restaurant-style-ragu-the-chef-way.jpg"
+  },
+  {
+    "id": "melissa-clark-s-best-buttermilk-pancakes",
+    "title": "Melissa Clark's Best Buttermilk Pancakes",
+    "cuisine": "American",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "mainIngredients": [
+      "flour",
+      "buttermilk"
+    ],
+    "tags": [
+      "weekend",
+      "classic",
+      "nyt",
+      "youtube"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
+    "servings": 6,
+    "prepTime": 15,
+    "cookTime": 12,
+    "source": {
+      "url": "https://www.youtube.com/watch?v=t8GU3fDENrA",
+      "note": "Melissa Clark, NYT Cooking"
+    },
+    "ingredients": [
+      {
+        "item": "all-purpose flour",
+        "qty": 250,
+        "unit": "g",
+        "prep": "2 cups",
+        "optional": false
+      },
+      {
+        "item": "baking powder",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "baking soda",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "fine sea salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "or table salt",
+        "optional": false
+      },
+      {
+        "item": "eggs",
+        "qty": 2,
+        "unit": "",
+        "prep": "large",
+        "optional": false
+      },
+      {
+        "item": "honey",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "or sugar",
+        "optional": false
+      },
+      {
+        "item": "buttermilk",
+        "qty": 450,
+        "unit": "g",
+        "prep": "2 cups (or a substitute — see notes)",
+        "optional": false
+      },
+      {
+        "item": "unsalted butter",
+        "qty": 85,
+        "unit": "g",
+        "prep": "6 tbsp, melted and cooled, plus more for frying",
+        "optional": false
+      },
+      {
+        "item": "vanilla extract",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "or finely grated citrus zest",
+        "optional": true
+      },
+      {
+        "item": "neutral oil",
+        "qty": null,
+        "unit": "",
+        "prep": "grapeseed, sunflower, or avocado, for frying",
+        "optional": false
+      },
+      {
+        "item": "salted butter",
+        "qty": null,
+        "unit": "",
+        "prep": "for serving",
+        "optional": false
+      },
+      {
+        "item": "maple syrup",
+        "qty": null,
+        "unit": "",
+        "prep": "for serving",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Optional: to keep the pancakes warm as you go, heat the oven to 200°F. Otherwise just serve them as you fry.",
+      "In a large bowl, whisk together the flour, baking powder, baking soda, and salt.",
+      "In a separate bowl, whisk the eggs and honey (or sugar) until well combined, then whisk in the buttermilk, melted butter, and the vanilla or zest if using.",
+      "Pour the buttermilk mixture into the flour and stir gently with a wooden spoon until just combined — a few lumps are fine. Don’t overmix, or you’ll pop the air bubbles and get flatter pancakes.",
+      "Let the batter rest at room temperature at least 10 minutes (up to 30) so the flour hydrates and the batter thickens — this keeps the pancakes from running in the pan.",
+      "Heat a skillet or griddle over medium-high until a drop of water sizzles right away, about 30 seconds. Add a drizzle of oil and a little butter and let the butter melt into the oil (this keeps it from burning) — a thin layer of fat, deep enough to swirl. When the foam subsides (about 1 minute), pour ⅓ cup of batter per pancake, leaving space between each.",
+      "Cook until bubbles form all over the surface and the edges begin to set, 2 to 3 minutes. If using mix-ins, sprinkle them on now (after the crust forms, so they don’t sink or burn). Flip and cook until golden, 1 to 2 minutes more.",
+      "Serve immediately, or keep warm on a rack/baking sheet in the 200°F oven. Add fresh oil and butter to the pan between batches. Serve with salted butter and maple syrup."
+    ],
+    "notes": "The perfect pancakes — crisp edges, fluffy centers. Two leaveners do the work: baking powder for fluff, and baking soda to neutralize the buttermilk’s tang while adding rise and color (use half as much soda as powder). Buttermilk substitutes: plain yogurt + milk, whole milk + lemon juice or vinegar, or sour cream — any acidified dairy reacts with the baking soda. Flour swaps: replace up to ¾ cup of the AP flour with whole wheat, spelt, rye, or oat flour (or ¾ cup/65g oatmeal, or ¾ cup/110g polenta/cornmeal — coarse = crunchy, fine = cakier). Make-ahead: batter keeps 2 days in the fridge (a touch less fluffy), or mix everything but the leaveners ahead and stir those in ~10 min before cooking; cooked pancakes freeze well (reheat in the toaster ~3 min, +30 sec to crisp). Pan: cast iron, carbon steel, or stainless give crispier edges; nonstick is easiest to flip; never cook on high or the bottom burns before the center sets. Mix-ins (sprinkle on, don’t stir in): blueberries, sliced strawberries or banana, diced peaches, chocolate or butterscotch chips, dried cherries, chopped nuts, sprinkles, coconut, or poppy/sesame seeds.",
+    "createdAt": "2026-06-23",
+    "image": "images/melissa-clarks-best-buttermilk-pancakes.jpg"
   }
 ]
