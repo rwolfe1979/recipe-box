@@ -1,7 +1,7 @@
 /* Recipe Box service worker: cache the app shell for offline use,
    always try the network first for data files. */
 
-const VERSION = 'rb-v11';
+const VERSION = 'rb-v12';
 const SHELL = [
   './',
   'index.html',

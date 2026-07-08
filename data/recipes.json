@@ -7688,7 +7688,8 @@
     "title": "Chicken Broccoli Rice Casserole",
     "cuisine": "American",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "casserole"
     ],
     "mainIngredients": [
       "chicken",
@@ -7843,7 +7844,8 @@
     "title": "Classic Beef and Penne Casserole",
     "cuisine": "Italian",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "casserole"
     ],
     "mainIngredients": [
       "ground beef",
@@ -7984,7 +7986,8 @@
     "title": "Chicken Mushroom Penne Bake",
     "cuisine": "American",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "casserole"
     ],
     "mainIngredients": [
       "chicken",
@@ -8174,7 +8177,8 @@
     "title": "Scalloped Potatoes with Ham",
     "cuisine": "American",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "casserole"
     ],
     "mainIngredients": [
       "potatoes",
@@ -8301,6 +8305,7 @@
     "title": "Green Bean Casserole",
     "cuisine": "American",
     "mealTypes": [
+      "casserole",
       "side"
     ],
     "mainIngredients": [
@@ -8434,7 +8439,8 @@
     "title": "Sausage, Potato, and Pepper Bake",
     "cuisine": "Italian",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "casserole"
     ],
     "mainIngredients": [
       "sausage",
@@ -8570,7 +8576,8 @@
     "title": "Southwest Chicken and Black Bean Casserole",
     "cuisine": "Mexican",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "casserole"
     ],
     "mainIngredients": [
       "chicken",
@@ -8718,7 +8725,8 @@
     "title": "Cheesy Chicken and Rice Bake",
     "cuisine": "American",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "casserole"
     ],
     "mainIngredients": [
       "chicken",
@@ -8859,7 +8867,8 @@
     "title": "Italian Baked Penne",
     "cuisine": "Italian",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "casserole"
     ],
     "mainIngredients": [
       "penne",
@@ -9042,7 +9051,8 @@
     "title": "Mexican Enchilada Casserole",
     "cuisine": "Mexican",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "casserole"
     ],
     "mainIngredients": [
       "ground beef",
@@ -9199,7 +9209,8 @@
     "title": "Greek Pastitsio-Style Beef and Pasta Bake",
     "cuisine": "Greek",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "casserole"
     ],
     "mainIngredients": [
       "ground beef",
@@ -9382,7 +9393,8 @@
     "title": "French Chicken and Mushroom Gratin",
     "cuisine": "French",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "casserole"
     ],
     "mainIngredients": [
       "chicken",
@@ -9558,7 +9570,8 @@
     "title": "Spanish Chorizo and Rice Bake",
     "cuisine": "Spanish",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "casserole"
     ],
     "mainIngredients": [
       "chorizo",
@@ -9715,7 +9728,8 @@
     "title": "Moroccan-Spiced Ground Beef and Chickpea Bake",
     "cuisine": "Moroccan",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "casserole"
     ],
     "mainIngredients": [
       "ground beef",
@@ -9919,7 +9933,8 @@
     "title": "Creamy Tuscan White Bean and Spinach Bake",
     "cuisine": "Italian",
     "mealTypes": [
-      "dinner"
+      "dinner",
+      "casserole"
     ],
     "mainIngredients": [
       "cannellini beans",
@@ -14680,8 +14695,8 @@
     "title": "Salted Maple Banana Bread",
     "cuisine": "Bakery",
     "mealTypes": [
-      "bread",
       "breakfast",
+      "bread",
       "dessert"
     ],
     "mainIngredients": [
@@ -15588,8 +15603,8 @@
     "title": "Spicy Chili Shrimp Rice Paper Wontons",
     "cuisine": "Asian",
     "mealTypes": [
-      "appetizer",
       "dinner",
+      "appetizer",
       "snack"
     ],
     "mainIngredients": [
@@ -15742,8 +15757,8 @@
     "cuisine": "Bakery",
     "mealTypes": [
       "breakfast",
-      "dessert",
-      "snack"
+      "snack",
+      "dessert"
     ],
     "mainIngredients": [
       "blueberries",
@@ -15882,8 +15897,8 @@
     "title": "Patatas Bravas",
     "cuisine": "Spanish",
     "mealTypes": [
-      "appetizer",
       "side",
+      "appetizer",
       "snack"
     ],
     "mainIngredients": [
@@ -16697,8 +16712,8 @@
     "title": "Hunan Chicken Salad",
     "cuisine": "Chinese-American",
     "mealTypes": [
-      "dinner",
       "lunch",
+      "dinner",
       "salad"
     ],
     "mainIngredients": [
@@ -18028,8 +18043,9 @@
     "title": "Bacon & Chive Egg Salad",
     "cuisine": "American",
     "mealTypes": [
+      "breakfast",
       "lunch",
-      "breakfast"
+      "salad"
     ],
     "mainIngredients": [
       "eggs",
@@ -19458,8 +19474,8 @@
     "title": "Blueberry Cookies",
     "cuisine": "Bakery",
     "mealTypes": [
-      "dessert",
-      "snack"
+      "snack",
+      "dessert"
     ],
     "mainIngredients": [
       "blueberries",
@@ -19842,8 +19858,8 @@
     "title": "One-Pot Soy-Glazed Chicken & Rice",
     "cuisine": "Asian",
     "mealTypes": [
-      "dinner",
-      "lunch"
+      "lunch",
+      "dinner"
     ],
     "mainIngredients": [
       "chicken",
@@ -20487,8 +20503,8 @@
     "title": "Greek Steak Salad",
     "cuisine": "Greek",
     "mealTypes": [
-      "dinner",
       "lunch",
+      "dinner",
       "salad"
     ],
     "mainIngredients": [
@@ -20757,8 +20773,8 @@
     "title": "Lemon Rolls with Cream Cheese & Lemon Curd",
     "cuisine": "Bakery",
     "mealTypes": [
-      "bread",
       "breakfast",
+      "bread",
       "dessert"
     ],
     "mainIngredients": [
@@ -21469,8 +21485,8 @@
     "title": "Crispy Garlic Parmesan Chicken Wraps",
     "cuisine": "American",
     "mealTypes": [
-      "dinner",
-      "lunch"
+      "lunch",
+      "dinner"
     ],
     "mainIngredients": [
       "chicken"

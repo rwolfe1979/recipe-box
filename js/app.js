@@ -4,7 +4,7 @@ const App = {
   shop: null,   // {start, days, extras:[], checked:{}, hideStaples}
   loaded: false,
 
-  MEAL_TYPES: ['breakfast', 'lunch', 'dinner', 'side', 'bread', 'soup', 'salad', 'appetizer', 'snack', 'dessert', 'drink', 'dressing', 'marinade'],
+  MEAL_TYPES: ['breakfast', 'lunch', 'dinner', 'casserole', 'side', 'bread', 'soup', 'salad', 'appetizer', 'snack', 'dessert', 'drink', 'dressing', 'marinade'],
   DIETS: ['vegetarian', 'vegan', 'gluten-free'],
   TIME_LIMITS: [20, 30, 45, 60],
   SLOTS: ['breakfast', 'lunch', 'dinner', 'other'],
@@ -73,8 +73,8 @@ const App = {
   // ---------- home (category selector) ----------
 
   TYPE_META: [
-    ['breakfast', '🍳'], ['lunch', '🥪'], ['dinner', '🍽️'], ['bread', '🍞'],
-    ['soup', '🍲'], ['salad', '🥗'], ['appetizer', '🫕'], ['side', '🥘'], ['snack', '🍿'],
+    ['breakfast', '🍳'], ['lunch', '🥪'], ['dinner', '🍽️'], ['casserole', '🍲'], ['bread', '🍞'],
+    ['soup', '🥣'], ['salad', '🥗'], ['appetizer', '🫕'], ['side', '🥘'], ['snack', '🍿'],
     ['dessert', '🍰'], ['drink', '🥤'], ['dressing', '🫙'], ['marinade', '🧂'],
   ],
 
@@ -865,8 +865,8 @@ const App = {
     ];
     for (const [re, e] of byIng) if (re.test(hay)) return e;
     const types = r.mealTypes || [];
-    const byType = { bread: '🍞', salad: '🥗', soup: '🍲', appetizer: '🫕', dessert: '🍰', breakfast: '🍳', drink: '🥤', snack: '🍿', side: '🥘' };
-    for (const t of ['appetizer', 'bread', 'salad', 'soup', 'dessert', 'breakfast', 'drink', 'snack', 'side']) if (types.includes(t)) return byType[t];
+    const byType = { casserole: '🍲', bread: '🍞', salad: '🥗', soup: '🥣', appetizer: '🫕', dessert: '🍰', breakfast: '🍳', drink: '🥤', snack: '🍿', side: '🥘' };
+    for (const t of ['casserole', 'appetizer', 'bread', 'salad', 'soup', 'dessert', 'breakfast', 'drink', 'snack', 'side']) if (types.includes(t)) return byType[t];
     return '🍽️';
   },
 
