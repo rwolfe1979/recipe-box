@@ -21671,5 +21671,3023 @@
     "diet": [],
     "createdAt": "2026-06-24",
     "image": "images/crispy-garlic-parmesan-chicken-wraps.jpg"
+  },
+  {
+    "id": "loaded-chicken-and-potato-casserole",
+    "title": "Loaded Chicken and Potato Casserole",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "potato",
+      "bacon"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "potato",
+      "allrecipes"
+    ],
+    "servings": 6,
+    "prepTime": 15,
+    "cookTime": 30,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/8508938/loaded-chicken-and-potato-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "cooking spray",
+        "qty": null,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "russet potatoes",
+        "qty": 5,
+        "unit": "",
+        "prep": "large, peeled and chopped",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "onion powder",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "paprika",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "kosher salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "divided",
+        "optional": false
+      },
+      {
+        "item": "bacon",
+        "qty": 6,
+        "unit": "slice",
+        "prep": "thick-cut",
+        "optional": false
+      },
+      {
+        "item": "rotisserie chicken",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "shredded",
+        "optional": false
+      },
+      {
+        "item": "cream cheese",
+        "qty": 8,
+        "unit": "oz",
+        "prep": "softened",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "tap",
+        "optional": false
+      },
+      {
+        "item": "scallions",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "sliced, plus more for garnish",
+        "optional": false
+      },
+      {
+        "item": "hot sauce",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Mexican-blend cheese",
+        "qty": 8,
+        "unit": "oz",
+        "prep": "shredded, divided",
+        "optional": false
+      },
+      {
+        "item": "sour cream",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "for serving",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 450 degrees F (230 degrees C). Coat a 9- x 1-inch baking dish with cooking spray.",
+      "Combine potatoes, olive oil, garlic powder, onion powder, paprika, black pepper, and 1/2 teaspoon of salt in a large bowl; toss until evenly coated. Transfer to the prepared baking dish.",
+      "Bake in the preheated oven until potatoes are golden and fork-tender, 25 to 30 minutes. Set aside.",
+      "Meanwhile, cook bacon in a large skillet over medium, turning occasionally, until crisp, 10 to 15 minutes. Drain bacon on a paper towel-lined plate; remove and reserve 1 tablespoon drippings from the skillet. When bacon is cool enough to handle, finely chop, and set aside (about 1/2 cup).",
+      "In the same large bowl, combine chicken, cream cheese, water, scallions, hot sauce, 1/4 cup of the bacon pieces, reserved bacon drippings, 1 1/2 cups cheese, and remaining 1/2 teaspoon salt.",
+      "Fold chicken mixture into the potatoes in the casserole until well combined. Sprinkle with remaining 1/2 cup shredded cheese.",
+      "Bake until cheese is melted, 10 minutes longer.",
+      "Set an oven rack about 6 inches from the heat source and switch to the oven's broiler function. Broil on high for 3 minutes or until cheese is bubbling and brown in spots.",
+      "Garnish with remaining bacon (about 1/4 cup) and additional scallions. Serve with sour cream."
+    ],
+    "notes": "",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/loaded-chicken-and-potato-casserole.webp"
+  },
+  {
+    "id": "million-dollar-chicken-casserole",
+    "title": "Million Dollar Chicken Casserole",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "cream cheese"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "allrecipes"
+    ],
+    "servings": 10,
+    "prepTime": 10,
+    "cookTime": 35,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/8422645/million-dollar-chicken-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "cream of chicken soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 oz, condensed",
+        "optional": false
+      },
+      {
+        "item": "cottage cheese",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "sour cream",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cream cheese",
+        "qty": 4,
+        "unit": "oz",
+        "prep": "at room temperature",
+        "optional": false
+      },
+      {
+        "item": "Creole seasoning",
+        "qty": 1.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "onion powder",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "divided",
+        "optional": false
+      },
+      {
+        "item": "rotisserie chicken",
+        "qty": 5,
+        "unit": "cup",
+        "prep": "shredded",
+        "optional": false
+      },
+      {
+        "item": "fresh parsley",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "buttery round crackers (such as Ritz)",
+        "qty": 30,
+        "unit": "",
+        "prep": "crushed",
+        "optional": false
+      },
+      {
+        "item": "unsalted butter",
+        "qty": 4,
+        "unit": "tbsp",
+        "prep": "melted",
+        "optional": false
+      },
+      {
+        "item": "mozzarella cheese",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "shredded",
+        "optional": false
+      },
+      {
+        "item": "scallions",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "sliced, or to taste",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 350 degrees F (175 degrees C).",
+      "Stir cream of chicken soup, cottage cheese, sour cream, cream cheese, Creole seasoning, onion powder, and 1/2 teaspoon of the garlic powder in a medium bowl until well blended and smooth.",
+      "Fold in chicken and parsley until evenly coated.",
+      "Combine crackers, melted butter, and remaining 1/2 teaspoon garlic powder in a medium bowl.",
+      "Spoon chicken mixture evenly into an 11x7-inch or 9-inch square baking dish. Sprinkle evenly with mozzarella then top with cracker mixture.",
+      "Place on a foil-lined baking sheet and bake in the preheated oven until crackers are golden brown and edges are bubbly, about 35 minutes. Garnish with scallions, if desired."
+    ],
+    "notes": "This dish will keep in the freezer for up to 4 months. To reheat, thaw overnight or up to 6 hours in the refrigerator, then bake according to directions. To change up the flavor, substitute different types of rotisserie chicken, like mojo, lemon pepper, or garlic. You can use just about any crisp butter cracker. Feel free to add peas or steamed broccoli.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/million-dollar-chicken-casserole.webp"
+  },
+  {
+    "id": "broccoli-chicken-casserole",
+    "title": "Broccoli Chicken Casserole",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "broccoli"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "broccoli",
+      "allrecipes"
+    ],
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 40,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/8965/broccoli-chicken-casserole-i/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "skinless, boneless chicken breasts",
+        "qty": 4,
+        "unit": "",
+        "prep": "5 ounce each",
+        "optional": false
+      },
+      {
+        "item": "condensed cream of mushroom soup (such as Campbell's)",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 oz",
+        "optional": false
+      },
+      {
+        "item": "mayonnaise",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "broccoli florets",
+        "qty": 1,
+        "unit": "lb",
+        "prep": "cooked",
+        "optional": false
+      },
+      {
+        "item": "Cheddar cheese",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "shredded",
+        "optional": false
+      },
+      {
+        "item": "dry stuffing mix",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Gather all ingredients.",
+      "Preheat the oven to 350 degrees F (175 degrees C).",
+      "Place chicken breasts in a large pot; add enough water to completely cover chicken. Bring to a gentle simmer; cover tightly with a lid and cook until chicken is no longer pink in centers, about 15 minutes.",
+      "Transfer chicken to a cutting board. Cut into bite-sized pieces when cool enough to handle.",
+      "Combine condensed soup and mayonnaise in a bowl.",
+      "Place chicken into a 9x13-inch baking dish; layer cooked broccoli, soup mixture, and Cheddar cheese over top.",
+      "Sprinkle dry stuffing mix over top.",
+      "Bake in the preheated oven until bubbly and cheese has melted, 25 to 30 minutes.",
+      "Serve hot and enjoy!"
+    ],
+    "notes": "Use more cheese and an extra can of soup for a creamier version. You can use fresh or frozen broccoli; some reviewers use cream of chicken soup instead of cream of mushroom.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/broccoli-chicken-casserole.webp"
+  },
+  {
+    "id": "cheesy-chicken-and-broccoli-casserole",
+    "title": "Cheesy Chicken and Broccoli Casserole",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "broccoli",
+      "cheese"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "broccoli",
+      "allrecipes"
+    ],
+    "servings": 8,
+    "prepTime": 15,
+    "cookTime": 35,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/279837/cheesy-chicken-and-broccoli-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "unsalted butter",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "or as needed",
+        "optional": false
+      },
+      {
+        "item": "skinless, boneless chicken breasts",
+        "qty": 2,
+        "unit": "",
+        "prep": "cubed",
+        "optional": false
+      },
+      {
+        "item": "broccoli",
+        "qty": 3,
+        "unit": "cup",
+        "prep": "finely chopped",
+        "optional": false
+      },
+      {
+        "item": "condensed cream of chicken soup",
+        "qty": 2,
+        "unit": "can",
+        "prep": "10.5 oz each",
+        "optional": false
+      },
+      {
+        "item": "Cheddar cheese",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "shredded",
+        "optional": false
+      },
+      {
+        "item": "Parmesan cheese",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "shredded, divided",
+        "optional": false
+      },
+      {
+        "item": "mozzarella cheese",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "shredded",
+        "optional": false
+      },
+      {
+        "item": "sour cream",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ground black pepper",
+        "qty": 1,
+        "unit": "pinch",
+        "prep": "to taste",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Gather ingredients, preheat the oven to 350 degrees F (175 degrees C), and butter the bottom and sides of a 9x13-inch dish.",
+      "Bring a pot of water to a boil. Add chicken and continue to boil until no longer pink, 5 to 10 minutes.",
+      "Meanwhile, combine broccoli, cream of chicken soup, Cheddar cheese, 1/2 cup Parmesan cheese, mozzarella cheese, sour cream, and pepper in a large bowl. Mix well.",
+      "Drain chicken and add to broccoli mixture. Mix well. Pour into the prepared baking dish and spread evenly.",
+      "Bake in the preheated oven for 20 minutes. Add remaining Parmesan cheese on top and continue to bake until cheese is melted, 3 to 5 minutes."
+    ],
+    "notes": "You can use thawed, frozen broccoli instead of fresh if preferred. After baking for 20 minutes, you can sprinkle whatever cheese you like on top. Eat as-is or serve over rice.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/cheesy-chicken-and-broccoli-casserole.webp"
+  },
+  {
+    "id": "king-ranch-chicken-casserole",
+    "title": "King Ranch Chicken Casserole",
+    "cuisine": "Mexican",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "corn tortillas",
+      "cheese"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "tex-mex",
+      "allrecipes"
+    ],
+    "servings": 8,
+    "prepTime": 30,
+    "cookTime": 45,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/236805/king-ranch-chicken-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "vegetable oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "white onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "medium, diced",
+        "optional": false
+      },
+      {
+        "item": "red bell pepper",
+        "qty": 1,
+        "unit": "",
+        "prep": "medium, diced",
+        "optional": false
+      },
+      {
+        "item": "green bell pepper",
+        "qty": 1,
+        "unit": "",
+        "prep": "medium, diced",
+        "optional": false
+      },
+      {
+        "item": "condensed cream of mushroom soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 oz",
+        "optional": false
+      },
+      {
+        "item": "condensed cream of chicken soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 oz",
+        "optional": false
+      },
+      {
+        "item": "diced tomatoes with green chile peppers (such as Ro*tel)",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10 oz",
+        "optional": false
+      },
+      {
+        "item": "chicken broth",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "sour cream",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ground cumin",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ancho chile powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "dried oregano",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chipotle chile powder",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cooked chicken",
+        "qty": 1,
+        "unit": "",
+        "prep": "3-pound, torn into shreds or cut into chunks, divided",
+        "optional": false
+      },
+      {
+        "item": "shredded Cheddar cheese",
+        "qty": 1,
+        "unit": "package",
+        "prep": "8 oz, divided",
+        "optional": false
+      },
+      {
+        "item": "corn tortillas",
+        "qty": 10,
+        "unit": "",
+        "prep": "6-inch, cut into quarters, divided",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+      "Heat oil in a large skillet over high heat. Add onion and bell peppers; sauté until they begin to soften, about 2 minutes. Transfer to a large bowl.",
+      "Stir mushroom and chicken condensed soups, diced tomatoes with chile peppers, chicken broth, sour cream, cumin, ancho chile powder, oregano, and chipotle chile powder into onion mixture until sauce is well combined.",
+      "Reserve 1/2 cup sauce and 1/2 cup Cheddar cheese for topping. Spread a few tablespoons of the remaining sauce into a 9x13-inch baking dish. Top with 1/2 of the chicken, 1/2 of the remaining sauce, 1/2 of the remaining Cheddar cheese, and 1/2 of the tortillas.",
+      "Top tortillas with the remaining chicken, remaining sauce, remaining Cheddar cheese, and remaining tortillas. Spread the reserved 1/2 cup sauce over the tortillas and sprinkle with the reserved 1/2 cup Cheddar cheese.",
+      "Bake casserole in the preheated oven until bubbling, about 40 minutes.",
+      "Turn on the broiler; broil until the top is golden, 2 to 3 minutes more.",
+      "Serve hot. Enjoy!"
+    ],
+    "notes": "You can add a poblano for extra heat, or use Pepper Jack instead of Cheddar. Some reviewers use Doritos or tortilla chips instead of corn tortillas for a crunchy twist. Any type of cooked chicken works, including rotisserie chicken.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/king-ranch-chicken-casserole.webp"
+  },
+  {
+    "id": "chicken-pot-pie-casserole",
+    "title": "Chicken Pot Pie Casserole",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "allrecipes"
+    ],
+    "servings": 8,
+    "prepTime": 15,
+    "cookTime": 30,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/8521866/chicken-pot-pie-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "unsalted butter",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "frozen chopped onion",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "fresh thyme",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "Dijon mustard",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "onion powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "table salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 0.75,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "whole milk",
+        "qty": 1.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chicken broth",
+        "qty": 1.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cooked chicken",
+        "qty": 2.5,
+        "unit": "cup",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "frozen mixed vegetables",
+        "qty": 1,
+        "unit": "package",
+        "prep": "16 ounce",
+        "optional": false
+      },
+      {
+        "item": "fresh flat-leaf parsley",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "refrigerated crescent roll dough",
+        "qty": 2,
+        "unit": "package",
+        "prep": "8 ounce each",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a 9x13-inch casserole dish.",
+      "Melt butter in a large Dutch oven over medium. Add onion and cook, stirring often, until tender, about 5 minutes.",
+      "Stir in flour, thyme, mustard, garlic powder, onion powder, salt, and pepper; cook, stirring constantly, 1 minute.",
+      "Gradually stir milk and broth into flour mixture; cook, stirring constantly, until bubbling and thickened, 3 to 5 minutes. Stir in chicken, vegetables, and parsley. Remove from heat, and cover to keep warm.",
+      "Unroll crescent dough sheets onto a cutting board. Cut each dough sheet crosswise into 12 (1-inch) strips to get 24 strips total. Roll each strip to form a spiral.",
+      "Pour chicken mixture into prepared casserole dish; arrange dough spirals on top of filling.",
+      "Bake in the preheated oven until filling is bubbling around edges and crescent dough is golden brown, 20 to 25 minutes. Let stand, uncovered, for 15 minutes before serving."
+    ],
+    "notes": "Recipe developed by Laura Kanya. Additional standing time: 15 minutes.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/chicken-pot-pie-casserole.webp"
+  },
+  {
+    "id": "creamy-chicken-cordon-bleu-casserole",
+    "title": "Creamy Chicken Cordon Bleu Casserole",
+    "cuisine": "French",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "ham"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "allrecipes"
+    ],
+    "servings": 8,
+    "prepTime": 10,
+    "cookTime": 45,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/231154/creamy-chicken-cordon-bleu-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "wide egg noodles",
+        "qty": 1,
+        "unit": "package",
+        "prep": "8 ounce",
+        "optional": false
+      },
+      {
+        "item": "cooked chicken breast",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "cooked ham",
+        "qty": 8,
+        "unit": "oz",
+        "prep": "cubed",
+        "optional": false
+      },
+      {
+        "item": "Swiss cheese",
+        "qty": 8,
+        "unit": "oz",
+        "prep": "cubed",
+        "optional": false
+      },
+      {
+        "item": "cream of chicken soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 ounce, reduced-fat reduced-sodium, condensed",
+        "optional": false
+      },
+      {
+        "item": "2% milk",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "light sour cream",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "seasoned bread crumbs",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Parmesan cheese",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "grated",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Gather all ingredients.",
+      "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch casserole dish.",
+      "Bring a large pot of lightly salted water to a boil. Cook egg noodles in boiling water, stirring occasionally, until tender yet firm to the bite, 7 to 9 minutes. Drain and transfer noodles to the prepared casserole dish.",
+      "Top noodles with chicken, ham, and Swiss cheese.",
+      "Mix together condensed soup, milk, and sour cream in a medium bowl until combined; spoon over noodle mixture in the casserole dish.",
+      "Melt butter in a skillet over medium heat; cook and stir bread crumbs and Parmesan cheese in hot butter until crumbs are well coated, 2 to 3 minutes. Sprinkle over casserole.",
+      "Bake in the preheated oven until casserole is bubbling and lightly browned, about 30 minutes.",
+      "Allow to cool slightly before serving."
+    ],
+    "notes": "",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/creamy-chicken-cordon-bleu-casserole.webp"
+  },
+  {
+    "id": "quick-and-easy-green-chile-chicken-enchilada-casserole",
+    "title": "Quick and Easy Green Chile Chicken Enchilada Casserole",
+    "cuisine": "Mexican",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "allrecipes"
+    ],
+    "servings": 8,
+    "prepTime": 15,
+    "cookTime": 90,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/44989/quick-and-easy-green-chile-chicken-enchilada-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "skinless, boneless chicken breast halves",
+        "qty": 4,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic salt",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      },
+      {
+        "item": "corn tortillas",
+        "qty": 18,
+        "unit": "",
+        "prep": "6 inch, torn in half",
+        "optional": false
+      },
+      {
+        "item": "green chile enchilada sauce",
+        "qty": 1,
+        "unit": "can",
+        "prep": "28 ounce",
+        "optional": false
+      },
+      {
+        "item": "shredded Monterey Jack cheese",
+        "qty": 1,
+        "unit": "package",
+        "prep": "16 ounce",
+        "optional": false
+      },
+      {
+        "item": "reduced fat sour cream",
+        "qty": 1,
+        "unit": "package",
+        "prep": "8 ounce container",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a medium baking dish.",
+      "Season chicken with garlic salt; arrange in the prepared baking dish. Bake in the preheated oven until no longer pink and juices run clear, about 45 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+      "Cool chicken, shred with two forks, and set aside.",
+      "Meanwhile, char each tortilla half over the open flame of a gas stove burner using metal tongs until lightly puffed, about 1 minute.",
+      "Pour about 1/2 inch enchilada sauce into the bottom of a medium baking dish; arrange 6 tortillas in a single layer on top.",
+      "Sprinkle with 1/2 of the chicken, 1/3 of the cheese, 1/2 of the sour cream, and 1/3 of the remaining enchilada sauce.",
+      "Repeat layers. Coat remaining tortillas thoroughly with some of the remaining enchilada sauce and arrange on top. Sprinkle with remaining cheese and top with any remaining enchilada sauce.",
+      "Cover and bake in the preheated oven for 45 minutes.",
+      "Cool slightly before serving."
+    ],
+    "notes": "If you want to skip the charring step, simply tear the tortillas into quarters so they absorb the sauce better.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/quick-and-easy-green-chile-chicken-enchilada-casserole.webp"
+  },
+  {
+    "id": "chicken-alfredo-casserole",
+    "title": "Chicken Alfredo Casserole",
+    "cuisine": "Italian",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "pasta"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "allrecipes"
+    ],
+    "servings": 6,
+    "prepTime": 15,
+    "cookTime": 45,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/276726/chicken-alfredo-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "skinless, boneless chicken breast halves",
+        "qty": 3,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "penne pasta",
+        "qty": 1,
+        "unit": "package",
+        "prep": "8 ounce",
+        "optional": false
+      },
+      {
+        "item": "Alfredo sauce",
+        "qty": 0.5,
+        "unit": "jar",
+        "prep": "16 ounce jar",
+        "optional": false
+      },
+      {
+        "item": "shredded mozzarella cheese",
+        "qty": 1.5,
+        "unit": "cup",
+        "prep": "divided",
+        "optional": false
+      },
+      {
+        "item": "milk",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "onion powder",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "shredded Cheddar cheese",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 350 degrees F (175 degrees C).",
+      "Place chicken into a pot and cover with water. Bring to a boil over high heat; reduce heat and simmer until no longer pink in the centers and juices run clear, about 15 minutes.",
+      "At the same time, bring a large pot of lightly salted water to a boil. Add penne and cook, stirring occasionally, until tender yet firm to the bite, about 11 minutes. Drain.",
+      "Drain cooked chicken and cut into bite-size pieces.",
+      "Place chicken, noodles, Alfredo sauce, 1/2 mozzarella cheese, milk, onion powder, and garlic powder in a large bowl and mix well.",
+      "Pour into a 1 1/2-quart casserole dish. Layer remaining mozzarella cheese and Cheddar cheese on top.",
+      "Bake in the preheated oven until melted and bubbly, about 25 minutes."
+    ],
+    "notes": "You can use any medium pasta noodles that you prefer, such as ziti, large elbow, etc. If using the second half of a jar of Alfredo sauce, swirl the milk in the jar to get all of it out.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/chicken-alfredo-casserole.webp"
+  },
+  {
+    "id": "chicken-noodle-casserole",
+    "title": "Chicken Noodle Casserole",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "pasta"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "allrecipes"
+    ],
+    "servings": 6,
+    "prepTime": 30,
+    "cookTime": 55,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/11864/chicken-noodle-casserole-i/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "skinless, boneless chicken breast halves",
+        "qty": 4,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "egg noodles",
+        "qty": 6,
+        "unit": "oz",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "condensed cream of mushroom soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 ounce",
+        "optional": false
+      },
+      {
+        "item": "condensed cream of chicken soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 ounce",
+        "optional": false
+      },
+      {
+        "item": "sour cream",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      },
+      {
+        "item": "ground black pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "buttery round crackers",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "crumbled",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+      "Fill a large pot with water and bring to a simmer over medium heat. Add chicken; poach in simmering water until no longer pink in center, about 12 minutes. Use a slotted spoon to remove chicken from pot and set aside. Leave water in the pot.",
+      "Bring chicken cooking water to a boil. Stir in egg noodles and cook until tender with a slight bite, about 10 minutes. Drain.",
+      "Transfer noodles to a large bowl. Cut chicken into bite-size pieces and mix with noodles.",
+      "Mix together both condensed soups and sour cream in a separate bowl. Season with salt and pepper. Add soup mixture to chicken mixture and gently stir until combined. Transfer to a 2-quart baking dish.",
+      "Melt butter in a small saucepan over low heat and remove from heat. Stir in crumbled crackers.",
+      "Sprinkle mixture over top of casserole.",
+      "Bake in the preheated oven until heated through and browned on top, about 30 minutes."
+    ],
+    "notes": "Leftovers are delicious topped with melted cheese.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/chicken-noodle-casserole.webp"
+  },
+  {
+    "id": "chicken-and-stuffing-casserole",
+    "title": "Chicken and Stuffing Casserole",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "stuffing mix"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "comfort-food",
+      "make-ahead",
+      "allrecipes"
+    ],
+    "servings": 8,
+    "prepTime": 15,
+    "cookTime": 70,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/240220/rotisserie-chicken-and-stuffing-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "cooking spray",
+        "qty": null,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 1.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "quick-cooking stuffing mix",
+        "qty": 1,
+        "unit": "package",
+        "prep": "6 ounce, such as Stove Top, or more to taste",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "medium, diced",
+        "optional": false
+      },
+      {
+        "item": "celery",
+        "qty": 3,
+        "unit": "",
+        "prep": "stalks, diced, or more to taste",
+        "optional": false
+      },
+      {
+        "item": "cream of chicken soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 ounce, low-sodium",
+        "optional": false
+      },
+      {
+        "item": "cream of mushroom soup",
+        "qty": 0.5,
+        "unit": "can",
+        "prep": "10.5 ounce, low-sodium",
+        "optional": false
+      },
+      {
+        "item": "sour cream",
+        "qty": 8,
+        "unit": "oz",
+        "prep": "1 container",
+        "optional": false
+      },
+      {
+        "item": "rotisserie chicken",
+        "qty": 1,
+        "unit": "",
+        "prep": "whole, cooked, skinned, boned, and shredded",
+        "optional": false
+      },
+      {
+        "item": "salt and ground black pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 375 degrees F (190 degrees C). Spray a 9x13-inch baking dish with cooking spray.",
+      "Bring water and 1/4 cup butter to a boil in a saucepan over medium heat. Add stuffing mix and stir to combine. Remove the saucepan from the heat, cover, and let sit until water is absorbed, about 5 minutes. Fluff stuffing with a fork.",
+      "While you are preparing stuffing, melt 1 tablespoon butter in a skillet over medium heat. Add onion and celery; cook and stir until softened, 5 to 10 minutes.",
+      "Mix both condensed soups with sour cream in a bowl until well combined.",
+      "Spread shredded chicken in the bottom of the prepared baking dish. Layer onion mixture over chicken and season with salt and pepper.",
+      "Top with soup mixture and spread stuffing evenly over top.",
+      "Bake in the preheated oven until filling is bubbly and topping is golden brown, about 1 hour.",
+      "Serve hot and enjoy!"
+    ],
+    "notes": "If using leftover chicken, aim for about 4 cups of shredded chicken. Leftover turkey at Thanksgiving works well, too. Add frozen peas or mixed vegetables for a heartier meal. Leftovers reheat beautifully for easy lunches.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/chicken-and-stuffing-casserole.webp"
+  },
+  {
+    "id": "mamaws-chicken-and-rice-casserole",
+    "title": "Mamaw's Chicken and Rice Casserole",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "rice"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "rice",
+      "comfort-food",
+      "southern",
+      "allrecipes"
+    ],
+    "servings": 6,
+    "prepTime": 10,
+    "cookTime": 60,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/233983/mamaws-chicken-and-rice-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "chicken breasts",
+        "qty": 3,
+        "unit": "",
+        "prep": "cut into cubes",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "instant white rice",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cream of chicken soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 ounce",
+        "optional": false
+      },
+      {
+        "item": "cream of celery soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 ounce",
+        "optional": false
+      },
+      {
+        "item": "cream of mushroom soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 ounce",
+        "optional": false
+      },
+      {
+        "item": "salt and ground black pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "sliced into pats",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C). Grease sides and bottom of a casserole dish.",
+      "Stir chicken, water, rice, cream of chicken soup, cream of celery soup, and cream of mushroom soup together in the prepared casserole dish; season with salt and pepper.",
+      "Arrange butter evenly over the top of the chicken mixture.",
+      "Bake in the preheated oven until the rice is tender and the chicken is cooked through, 60 to 75 minutes.",
+      "Cool 10 to 15 minutes before serving. Enjoy!"
+    ],
+    "notes": "",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/mamaws-chicken-and-rice-casserole.webp"
+  },
+  {
+    "id": "chicken-and-spinach-casserole",
+    "title": "Chicken and Spinach Casserole",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "spinach",
+      "rice"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "spinach",
+      "comfort-food",
+      "potluck",
+      "allrecipes"
+    ],
+    "servings": 8,
+    "prepTime": 10,
+    "cookTime": 35,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/240431/spinach-and-chicken-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "cooking spray",
+        "qty": null,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "unsalted butter",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "yellow onion",
+        "qty": 1.5,
+        "unit": "cup",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 6,
+        "unit": "clove",
+        "prep": "medium, thinly sliced",
+        "optional": false
+      },
+      {
+        "item": "dried Italian seasoning",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "crushed red pepper",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "kosher salt",
+        "qty": 1.75,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "whole milk",
+        "qty": 2.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chive and onion cream cheese",
+        "qty": 4,
+        "unit": "oz",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "rotisserie chicken",
+        "qty": 4,
+        "unit": "cup",
+        "prep": "shredded",
+        "optional": false
+      },
+      {
+        "item": "long-grain white rice",
+        "qty": 3,
+        "unit": "cup",
+        "prep": "cooked",
+        "optional": false
+      },
+      {
+        "item": "frozen chopped spinach",
+        "qty": 2,
+        "unit": "package",
+        "prep": "10 ounce each, thawed and squeezed dry",
+        "optional": false
+      },
+      {
+        "item": "fresh lemon juice",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "lemon zest",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "part-skim mozzarella cheese",
+        "qty": 8,
+        "unit": "oz",
+        "prep": "shredded",
+        "optional": false
+      },
+      {
+        "item": "parmesan cheese",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "grated",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Gather all ingredients.",
+      "Preheat the oven to 350 degrees F (175 degrees C) and arrange rack in the upper third position. Coat a 9x13-inch baking dish with cooking spray.",
+      "Melt butter in a large nonstick skillet over medium heat. Add onion, garlic, Italian seasoning, crushed red pepper, and 3/4 teaspoon of salt; cook, stirring often, until onions are softened and translucent, about 4 minutes.",
+      "Stir in flour and cook, stirring constantly, for 1 minute. Gradually add milk, and cook, stirring constantly, until slightly thickened, about 3 minutes.",
+      "Add cream cheese, and remaining 1 teaspoon salt; cook, stirring constantly, until fully combined. Remove from heat and stir in shredded chicken, cooked rice, spinach, lemon juice, and lemon zest until fully combined. Transfer mixture to prepared baking dish and spread in an even layer. Sprinkle evenly with mozzarella and Parmesan.",
+      "Bake in the preheated oven until cheese is melted, about 15 minutes. Turn on the broiler and broil until cheese is browned, 2 to 3 minutes."
+    ],
+    "notes": "",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/chicken-and-spinach-casserole.webp"
+  },
+  {
+    "id": "chicken-cobbler",
+    "title": "Chicken Cobbler",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "biscuit mix"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "cobbler",
+      "comfort-food",
+      "tiktok",
+      "allrecipes"
+    ],
+    "servings": 8,
+    "prepTime": 5,
+    "cookTime": 45,
+    "source": {
+      "url": "https://www.allrecipes.com/chicken-cobbler-recipe-7966464",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "butter",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "rotisserie chicken meat",
+        "qty": 4,
+        "unit": "cup",
+        "prep": "shredded",
+        "optional": false
+      },
+      {
+        "item": "frozen mixed vegetables",
+        "qty": 1,
+        "unit": "package",
+        "prep": "15 ounce bag",
+        "optional": false
+      },
+      {
+        "item": "Cheddar Bay biscuit mix",
+        "qty": 1,
+        "unit": "package",
+        "prep": "11.36 ounce, such as Red Lobster Cheddar Bay Biscuit Mix",
+        "optional": false
+      },
+      {
+        "item": "milk",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cream of chicken soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 ounce",
+        "optional": false
+      },
+      {
+        "item": "chicken stock",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "fresh parsley",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "chopped",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Gather the ingredients. Preheat the oven to 375 degrees F (190 degrees C). Place butter in the bottom of a 9x13-inch baking dish and place in the oven to melt.",
+      "When butter is melted, add chicken in a single layer over the butter. Top evenly with frozen veggies.",
+      "Stir together biscuit mix, seasoning packet from the mix, and milk in a bowl until well blended; pour over the chicken and veggies. Spread lightly and evenly over the top of the mixture but do not stir.",
+      "Whisk together soup and stock in a second bowl until smooth. Pour over biscuit mix but do not stir.",
+      "Bake in the preheated oven uncovered until very golden brown and only very slightly jiggly in the center, about 45 minutes.",
+      "Sprinkle parsley over the top if desired and let stand for 10 minutes before serving."
+    ],
+    "notes": "Inspired by the viral TikTok recipe from Matthew Bounds (@yourbarefootneighbor).",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/chicken-cobbler.webp"
+  },
+  {
+    "id": "buffalo-chicken-and-roasted-potato-casserole",
+    "title": "Buffalo Chicken and Roasted Potato Casserole",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "potato"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "buffalo",
+      "potato",
+      "spicy",
+      "allrecipes"
+    ],
+    "servings": 10,
+    "prepTime": 20,
+    "cookTime": 60,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/229964/buffalo-chicken-and-roasted-potato-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "cooking spray",
+        "qty": null,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "hot pepper sauce",
+        "qty": 6,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 0.33,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "freshly ground",
+        "optional": false
+      },
+      {
+        "item": "paprika",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "potatoes",
+        "qty": 8,
+        "unit": "",
+        "prep": "cut into 1/2-inch cubes",
+        "optional": false
+      },
+      {
+        "item": "skinless, boneless chicken breast halves",
+        "qty": 2,
+        "unit": "lb",
+        "prep": "cut into 1/2-inch cubes",
+        "optional": false
+      },
+      {
+        "item": "Mexican cheese blend",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "shredded, such as Great Value Fiesta Blend",
+        "optional": false
+      },
+      {
+        "item": "bacon",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "cooked and crumbled",
+        "optional": false
+      },
+      {
+        "item": "green onions",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "diced",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Gather all ingredients.",
+      "Preheat the oven to 500 degrees F (260 degrees C). Spray a 9x13-inch baking dish with cooking spray.",
+      "Heat hot pepper sauce, olive oil, garlic powder, black pepper, paprika, and salt in a large skillet over low heat, stirring until thoroughly combined. Turn off heat.",
+      "Toss potatoes in batches with the hot pepper sauce mixture to coat and use a slotted spoon to transfer potatoes to the prepared baking dish. Leave remaining sauce in the skillet.",
+      "Mix chicken into remaining sauce and allow to marinate while potatoes roast.",
+      "Bake potatoes until tender inside and crisp and brown outside, 45 to 50 minutes, stirring every 10 to 15 minutes.",
+      "Reduce oven heat to 400 degrees F (205 degrees C).",
+      "Spread chicken cubes over roasted potatoes.",
+      "Sprinkle shredded cheese, cooked bacon, and green onions over chicken. Return to the oven.",
+      "Bake in oven until chicken is cooked through and the cheese topping is bubbling, about 15 minutes."
+    ],
+    "notes": "",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/buffalo-chicken-and-roasted-potato-casserole.webp"
+  },
+  {
+    "id": "chicken-enchiladas-with-creamy-green-chile-sauce",
+    "title": "Chicken Enchiladas with Creamy Green Chile Sauce",
+    "cuisine": "Mexican",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken"
+    ],
+    "tags": [
+      "chicken",
+      "enchiladas",
+      "allrecipes"
+    ],
+    "servings": 6,
+    "prepTime": 30,
+    "cookTime": 30,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/125658/chicken-enchiladas-with-creamy-green-chile-sauce/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "vegetable oil",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "or more as needed",
+        "optional": false
+      },
+      {
+        "item": "corn tortillas",
+        "qty": 12,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chicken breast halves",
+        "qty": 3,
+        "unit": "",
+        "prep": "cooked, boneless, skinless, shredded",
+        "optional": false
+      },
+      {
+        "item": "Monterey Jack cheese",
+        "qty": 12,
+        "unit": "oz",
+        "prep": "shredded, divided",
+        "optional": false
+      },
+      {
+        "item": "onion",
+        "qty": 0.75,
+        "unit": "cup",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chicken broth",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "sour cream",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chopped green chiles",
+        "qty": 1,
+        "unit": "can",
+        "prep": "4 ounce, drained",
+        "optional": false
+      },
+      {
+        "item": "green onions",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "fresh cilantro",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "chopped",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 375 degrees F (190 degrees C). Grease a 9x13-inch baking dish.",
+      "Heat 2 tablespoons oil in a skillet over medium-high heat. Fry tortillas (one at a time) for 5 seconds on each side to soften and make them pliable. Add more oil to the pan as needed.",
+      "Drain between layers of paper towel and keep warm.",
+      "Divide chicken, 10 ounces Monterey Jack cheese, and onion among 12 tortillas.",
+      "Roll up each tortilla and place seam-side down in the prepared pan.",
+      "Melt butter in a saucepan over medium heat. Add flour and whisk until mixture begins to boil. Slowly add chicken broth, stirring with a whisk until thickened. Mix in sour cream and green chiles, stirring occasionally. Heat thoroughly but do not boil.",
+      "Pour mixture over enchiladas.",
+      "Bake in the preheated oven until bubbly and heated through, about 20 minutes. Top with remaining Monterey Jack cheese and bake for 5 more minutes.",
+      "Garnish with chopped green onions and cilantro."
+    ],
+    "notes": "",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/chicken-enchiladas-with-creamy-green-chile-sauce.webp"
+  },
+  {
+    "id": "pesto-chicken-penne-casserole",
+    "title": "Pesto Chicken Penne Casserole",
+    "cuisine": "Italian",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "pasta"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "pasta",
+      "pesto",
+      "allrecipes"
+    ],
+    "servings": 12,
+    "prepTime": 15,
+    "cookTime": 60,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/216470/pesto-chicken-penne-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "seasoned bread crumbs",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Parmesan cheese",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "grated",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "penne pasta",
+        "qty": 1,
+        "unit": "package",
+        "prep": "16 ounce box",
+        "optional": false
+      },
+      {
+        "item": "cooked chicken",
+        "qty": 6,
+        "unit": "cup",
+        "prep": "cubed",
+        "optional": false
+      },
+      {
+        "item": "Italian cheese blend",
+        "qty": 4,
+        "unit": "cup",
+        "prep": "shredded",
+        "optional": false
+      },
+      {
+        "item": "fresh baby spinach",
+        "qty": 3,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "crushed tomatoes",
+        "qty": 1,
+        "unit": "can",
+        "prep": "15 ounce",
+        "optional": false
+      },
+      {
+        "item": "Alfredo sauce",
+        "qty": 1,
+        "unit": "jar",
+        "prep": "15 ounce",
+        "optional": false
+      },
+      {
+        "item": "pesto sauce",
+        "qty": 1,
+        "unit": "jar",
+        "prep": "15 ounce",
+        "optional": false
+      },
+      {
+        "item": "milk",
+        "qty": 1.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat an oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish. Combine the bread crumbs, Parmesan cheese, and olive oil in a small bowl until evenly moistened; set aside.",
+      "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the penne, and return to a boil. Cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 11 minutes. Drain well in a colander set in the sink.",
+      "Meanwhile, combine the chicken in a bowl with the Italian cheese blend, spinach, tomatoes, alfredo sauce, pesto sauce, and milk. Stir in the pasta once done, and scoop into the prepared baking dish. Top with the bread crumb mixture.",
+      "Bake in the preheated oven until bubbly and golden brown on top, 40 to 45 minutes."
+    ],
+    "notes": "Cook's Note: I make my own Alfredo sauce and use 2 cups in place of the jarred sauce.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/pesto-chicken-penne-casserole.webp"
+  },
+  {
+    "id": "spaghetti-chicken-casserole",
+    "title": "Spaghetti Chicken Casserole",
+    "cuisine": "Italian",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "pasta"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "pasta",
+      "allrecipes"
+    ],
+    "servings": 8,
+    "prepTime": 20,
+    "cookTime": 60,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/15502/spaghetti-chicken-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "spaghetti",
+        "qty": 8,
+        "unit": "oz",
+        "prep": "broken into pieces",
+        "optional": false
+      },
+      {
+        "item": "chicken meat",
+        "qty": 3,
+        "unit": "cup",
+        "prep": "cooked, cubed",
+        "optional": false
+      },
+      {
+        "item": "Cheddar cheese",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "shredded, divided",
+        "optional": false
+      },
+      {
+        "item": "condensed cream of mushroom soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 ounce",
+        "optional": false
+      },
+      {
+        "item": "onion",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "pimento peppers",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "green bell pepper",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "white wine",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt and pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 350 degrees F (175 degrees C).",
+      "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, 10 to 12 minutes.",
+      "Drain spaghetti and transfer to a large bowl. Add chicken, 1 1/2 cups Cheddar cheese, condensed soup, onion, pimentos, bell pepper, wine, salt, and pepper. Mix until well combined, then spread mixture into a 9x13-inch baking dish.",
+      "Bake in the preheated oven for 30 minutes. Sprinkle remaining 1/2 cup Cheddar over casserole and bake until melted, about 15 minutes longer."
+    ],
+    "notes": "",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/spaghetti-chicken-casserole.jpg"
+  },
+  {
+    "id": "no-peek-chicken",
+    "title": "No-Peek Chicken",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "rice"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "rice",
+      "allrecipes"
+    ],
+    "servings": 6,
+    "prepTime": 15,
+    "cookTime": 90,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/8515263/no-peek-chicken/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "cooking spray",
+        "qty": null,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "long-grain white rice",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "uncooked",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cream of mushroom soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 ounce",
+        "optional": false
+      },
+      {
+        "item": "cream of chicken soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 ounce",
+        "optional": false
+      },
+      {
+        "item": "yellow onion",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "red bell pepper",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "onion soup mix",
+        "qty": 1,
+        "unit": "package",
+        "prep": "1 ounce",
+        "optional": false
+      },
+      {
+        "item": "fresh oregano or thyme",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "chicken thighs",
+        "qty": 6,
+        "unit": "",
+        "prep": "skinless, boneless",
+        "optional": false
+      },
+      {
+        "item": "seasoned salt",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish with cooking spray.",
+      "Whisk rice, water, chicken soup, mushroom soup, onion, bell pepper, onion soup mix, and oregano in a large bowl until well combined.",
+      "Pour rice mixture into the prepared dish.",
+      "Sprinkle chicken thighs with seasoning salt and arrange on top of rice mixture. Cover dish tightly with foil.",
+      "Bake in the preheated oven, keeping tightly covered, for 1 hour 30 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+      "Serve and enjoy."
+    ],
+    "notes": "Test Kitchen Tip: This recipe was tested in our test kitchen in May 2023 and updated to bake, covered, for 1 hour and 30 minutes. We used 2 cups of water instead of chicken broth and added onion soup mix. Called 'no-peek' because the foil traps steam and keeps the chicken tender and juicy — resist the urge to lift the foil while baking.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/no-peek-chicken.webp"
+  },
+  {
+    "id": "chef-johns-chicken-and-rice-casserole",
+    "title": "Chef John's Chicken and Rice Casserole",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "rice"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "rice",
+      "allrecipes"
+    ],
+    "servings": 8,
+    "prepTime": 30,
+    "cookTime": 60,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/283422/exotic-chicken-and-rice-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "plain yogurt",
+        "qty": 0.33,
+        "unit": "cup",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "lime",
+        "qty": 1,
+        "unit": "",
+        "prep": "medium, zested and juiced",
+        "optional": false
+      },
+      {
+        "item": "kosher salt",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "ground paprika",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ground cumin",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ground coriander",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cayenne pepper",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ground white pepper",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ground cardamom",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ground cinnamon",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ground allspice",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "whole chicken",
+        "qty": 1,
+        "unit": "",
+        "prep": "2 to 3 pound, cut into 8 pieces",
+        "optional": false
+      },
+      {
+        "item": "saffron",
+        "qty": 1,
+        "unit": "pinch",
+        "prep": "for the rice",
+        "optional": false
+      },
+      {
+        "item": "chicken broth",
+        "qty": 2.25,
+        "unit": "cup",
+        "prep": "divided",
+        "optional": false
+      },
+      {
+        "item": "unsalted butter",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "kosher salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the rice",
+        "optional": false
+      },
+      {
+        "item": "basmati rice",
+        "qty": 1.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": null,
+        "unit": "",
+        "prep": "1 drizzle",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      },
+      {
+        "item": "plain yogurt",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "for the garlic yogurt sauce",
+        "optional": true
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "clove",
+        "prep": "crushed",
+        "optional": true
+      },
+      {
+        "item": "green onions",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "thinly sliced",
+        "optional": true
+      },
+      {
+        "item": "mint",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "finely chopped",
+        "optional": true
+      },
+      {
+        "item": "cilantro",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "finely chopped",
+        "optional": true
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste, for the sauce",
+        "optional": true
+      },
+      {
+        "item": "water",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "or as needed, for the sauce",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Add yogurt, lime zest and juice, salt, paprika, cumin, coriander, cayenne, white pepper, cardamom, cinnamon, and allspice for marinade to a large mixing bowl; whisk to combine.",
+      "Make one or two slits into each piece of dark chicken meat, down to the bone. Add chicken parts to the yogurt marinade and toss very thoroughly. Wrap in plastic wrap and marinate in the refrigerator for 4 to 8 hours.",
+      "Preheat the oven to 450 degrees F (230 degrees C). Lightly grease a 9x13-inch casserole dish.",
+      "Grind saffron in a mortar with a pestle. Pour in 1/4 cup chicken broth and stir to combine.",
+      "Combine unsalted butter and salt in a saucepan; pour in remaining 2 cups chicken broth and chicken broth-saffron mixture. Bring to a boil over high heat. Add basmati rice and stir to combine. Reduce heat to low, cover tightly, and let simmer gently for exactly 15 minutes; do not disturb while cooking. Turn off the heat and let rest for 10 minutes.",
+      "While rice is still hot, transfer into the prepared casserole dish. Use a fork to fluff the rice while gently spreading into an even layer. Place the chicken pieces, skin-side up, on top of rice. Drizzle with olive oil and sprinkle with salt.",
+      "Roast in the center of the preheated oven until chicken is no longer pink in the centers and juices run clear, about 45 minutes. An instant-read thermometer inserted into the thickest part of the thigh, near the bone, should read 165 degrees F (74 degrees C).",
+      "While chicken is in the oven, mix yogurt, garlic, green onions, mint, cilantro, salt, and water together for sauce. Reserve in the refrigerator until needed. Serve chicken and rice on a plate and top with sauce."
+    ],
+    "notes": "Chef's Notes: I used sheep's milk yogurt, but any plain, full-fat yogurt will do. If you don't have white pepper, you can use freshly ground black pepper. You can use any long-grain white rice. The page URL says 'exotic chicken and rice casserole'; the recipe's current title is 'Chef John's Chicken and Rice Casserole'. Total time is long because of the 4-8 hour marinade.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/chef-johns-chicken-and-rice-casserole.webp"
+  },
+  {
+    "id": "make-ahead-chicken-divan-casserole",
+    "title": "Make-Ahead Chicken Divan Casserole",
+    "cuisine": "French",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "broccoli",
+      "rice"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "allrecipes"
+    ],
+    "servings": 8,
+    "prepTime": 20,
+    "cookTime": 55,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/281996/make-ahead-chicken-divan-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "Cheddar cheese",
+        "qty": 1.5,
+        "unit": "cup",
+        "prep": "grated",
+        "optional": false
+      },
+      {
+        "item": "Parmesan cheese",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "shredded, or more to taste",
+        "optional": false
+      },
+      {
+        "item": "broccoli florets",
+        "qty": 4,
+        "unit": "cup",
+        "prep": "fresh",
+        "optional": false
+      },
+      {
+        "item": "salted butter",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "mushrooms",
+        "qty": 1,
+        "unit": "package",
+        "prep": "sliced fresh, 8 ounce package",
+        "optional": false
+      },
+      {
+        "item": "onion",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "diced",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 3,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "condensed cream of mushroom soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.5 ounce",
+        "optional": false
+      },
+      {
+        "item": "sour cream",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "milk",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "mayonnaise",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt and ground black pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      },
+      {
+        "item": "rice",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "cooked, or more to taste",
+        "optional": false
+      },
+      {
+        "item": "chicken",
+        "qty": 5,
+        "unit": "cup",
+        "prep": "shredded cooked, or more to taste",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 350 degrees F (175 degrees C).",
+      "Combine Cheddar cheese and 1/2 cup Parmesan cheese in a small bowl and set aside.",
+      "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add broccoli, cover, and steam until tender, 2 to 6 minutes.",
+      "Meanwhile, melt butter in a large skillet over medium heat. Add mushrooms, onion, and garlic; saute until soft, 5 to 7 minutes.",
+      "Whisk together condensed soup, sour cream, milk, and mayonnaise in a large bowl until smooth. Add 1/2 cup Cheddar-Parmesan mixture and season with salt and pepper. Add sauteed vegetables and stir to combine sauce.",
+      "Spread 1/2 cup cheese-vegetable sauce onto the bottom of a 9x13-inch casserole dish. Add cooked rice as the bottom layer. Add steamed broccoli as the next layer, then top with a layer of cooked chicken. Cover with remaining cheese-vegetable sauce. Pat down evenly and smooth with a spatula.",
+      "Bake in the preheated oven for 30 minutes. Sprinkle with remaining Cheddar-Parmesan mixture, plus extra Parmesan if desired, and continue to bake until browned, about 15 minutes more."
+    ],
+    "notes": "Cook's Notes: You can use cooked brown rice instead of white, cubed cooked chicken instead of shredded, and cream of chicken soup instead of mushroom. If you like a really browned top, put it under the broiler for 2 to 3 minutes after baking for 30 minutes. This can be prepared a day or two in advance and baked before serving.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/make-ahead-chicken-divan-casserole.webp"
+  },
+  {
+    "id": "pantry-chicken-casserole",
+    "title": "Pantry Chicken Casserole",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "pasta"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "allrecipes"
+    ],
+    "servings": 10,
+    "prepTime": 15,
+    "cookTime": 40,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/279536/pantry-chicken-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "cooking spray",
+        "qty": null,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "penne pasta",
+        "qty": 1,
+        "unit": "package",
+        "prep": "16 ounce",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 4,
+        "unit": "tbsp",
+        "prep": "unsalted",
+        "optional": false
+      },
+      {
+        "item": "onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "large, chopped",
+        "optional": false
+      },
+      {
+        "item": "green bell pepper",
+        "qty": 1,
+        "unit": "",
+        "prep": "stemmed, seeded, and finely chopped",
+        "optional": false
+      },
+      {
+        "item": "mushrooms",
+        "qty": 1,
+        "unit": "package",
+        "prep": "sliced fresh, 8 ounce",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 3,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "processed cheese food (Velveeta)",
+        "qty": 2,
+        "unit": "package",
+        "prep": "cubed, 8 ounce each",
+        "optional": false
+      },
+      {
+        "item": "diced tomatoes",
+        "qty": 1,
+        "unit": "can",
+        "prep": "14.5 ounce, undrained",
+        "optional": false
+      },
+      {
+        "item": "diced tomatoes and green chiles (Rotel)",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10 ounce, undrained",
+        "optional": false
+      },
+      {
+        "item": "mild chopped green chile peppers",
+        "qty": 1,
+        "unit": "can",
+        "prep": "4 ounce",
+        "optional": false
+      },
+      {
+        "item": "chicken",
+        "qty": 4,
+        "unit": "cup",
+        "prep": "cooked, cut into bite-sized pieces",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 350 degrees F (175 degrees C). Coat a 9x13-inch casserole dish with cooking spray.",
+      "Fill a large pot of lightly salted water and bring to a roiling boil. Stir in penne and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 11 minutes; drain.",
+      "While pasta is cooking, melt butter in a large skillet over medium heat. Add onion and bell pepper; cook, stirring occasionally, until tender, about 5 minutes. Add mushrooms; cook until their liquid is released, about 5 minutes. Add garlic and cook, stirring occasionally, until fragrant, about 1 minute.",
+      "Stir in cheese, diced tomatoes with juice, diced tomatoes and green chiles with juice, and chile peppers; cook and stir until cheese melted, 5 to 10 minutes. Remove from heat; stir in cooked pasta and chicken then pour into the prepared baking dish.",
+      "Bake in the preheated oven until heated through, about 20 minutes. Serve warm."
+    ],
+    "notes": "Tips: You can substitute margarine for butter, any shelf-stable processed cheese food for Velveeta, and two (12.5 ounce) cans of cooked, flaked chicken for leftover chicken. You can use two (4 ounce) cans of sliced mushrooms instead of fresh mushrooms; add them when you add the tomatoes. Choose hot Rotel and peppers if you like heat.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/pantry-chicken-casserole.webp"
+  },
+  {
+    "id": "cheap-chicken-noodle-casserole",
+    "title": "Cheap Chicken Noodle Casserole",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "egg noodles"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "allrecipes"
+    ],
+    "servings": 4,
+    "prepTime": 30,
+    "cookTime": 30,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/16612/cheap-chicken-noodle-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "egg noodles",
+        "qty": 1,
+        "unit": "package",
+        "prep": "cooked, 8 ounce",
+        "optional": false
+      },
+      {
+        "item": "chicken breast halves",
+        "qty": 2,
+        "unit": "",
+        "prep": "skinless, boneless, cut into cubes",
+        "optional": false
+      },
+      {
+        "item": "onion",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "condensed cream of chicken soup",
+        "qty": 1,
+        "unit": "can",
+        "prep": "10.75 ounce",
+        "optional": false
+      },
+      {
+        "item": "milk",
+        "qty": 1.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "peas and carrots",
+        "qty": 1,
+        "unit": "can",
+        "prep": "14.5 ounce, drained",
+        "optional": false
+      },
+      {
+        "item": "salt and pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      },
+      {
+        "item": "paprika",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      },
+      {
+        "item": "chili powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Monterey Jack cheese",
+        "qty": 4,
+        "unit": "slice",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "soft white bread",
+        "qty": 4,
+        "unit": "slice",
+        "prep": "cubed",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350 degrees F (175 degrees C). Spread cooked egg noodles in a 9x13 inch baking dish and set aside.",
+      "In a large skillet over medium high heat, saute cubed chicken meat with onion for about 7 to 10 minutes, or until chicken is cooked through and no longer pink inside. Add the soup, milk, peas and carrots and stir together. Season with salt and pepper, paprika and chili powder to taste. Stir until just bubbly and remove from heat.",
+      "Stir chicken mixture into noodles in baking dish until well combined; top with cheese slices, then bread cubes.",
+      "Bake at 350 degrees F (175 degrees C) for about 30 minutes or until bread is toasted; serve hot."
+    ],
+    "notes": "",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/cheap-chicken-noodle-casserole.webp"
+  },
+  {
+    "id": "the-best-parmesan-chicken-bake",
+    "title": "The Best Parmesan Chicken Bake",
+    "cuisine": "Italian",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "allrecipes"
+    ],
+    "servings": 6,
+    "prepTime": 15,
+    "cookTime": 35,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/219164/the-best-parmesan-chicken-bake/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "olive oil",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "clove",
+        "prep": "crushed and finely chopped",
+        "optional": false
+      },
+      {
+        "item": "red pepper flakes",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "crushed, or to taste",
+        "optional": false
+      },
+      {
+        "item": "chicken breast halves",
+        "qty": 6,
+        "unit": "",
+        "prep": "skinless, boneless",
+        "optional": false
+      },
+      {
+        "item": "marinara sauce",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "prepared",
+        "optional": false
+      },
+      {
+        "item": "fresh basil",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "mozzarella cheese",
+        "qty": 1,
+        "unit": "package",
+        "prep": "shredded, divided, 8 ounce",
+        "optional": false
+      },
+      {
+        "item": "Parmesan cheese",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "grated, divided",
+        "optional": false
+      },
+      {
+        "item": "garlic croutons",
+        "qty": 1,
+        "unit": "package",
+        "prep": "5 ounce",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 350 degrees F (175 degrees C).",
+      "Coat the bottom of a 9x13-inch casserole dish with olive oil, and sprinkle with garlic and red pepper flakes.",
+      "Arrange chicken breasts in the bottom of the dish.",
+      "Pour marinara sauce over chicken. Sprinkle basil over marinara sauce, and top with 1/2 of the mozzarella cheese, followed by 1/2 of the Parmesan cheese, and croutons.",
+      "Top with remaining mozzarella cheese and remaining Parmesan cheese.",
+      "Bake in the preheated oven until cheese and croutons are golden brown and the chicken is no longer pink inside, about 35 minutes to an hour, depending on the shape and thickness of your chicken breasts. An instant-read thermometer inserted into the thickest part of a chicken breast should read at least 160 degrees F (70 degrees C).",
+      "Serve hot and enjoy!"
+    ],
+    "notes": "Recipe Tips: You can use more marinara sauce if you like. Fake Parmesan will not taste the same. Go buy some real Parmigiano-Reggiano, please!",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/the-best-parmesan-chicken-bake.webp"
+  },
+  {
+    "id": "ladybugs-poppy-seed-chicken-casserole",
+    "title": "Ladybug's Poppy Seed Chicken Casserole",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "chicken"
+    ],
+    "tags": [
+      "casserole",
+      "chicken",
+      "allrecipes"
+    ],
+    "servings": 8,
+    "prepTime": 15,
+    "cookTime": 60,
+    "source": {
+      "url": "https://www.allrecipes.com/recipe/219340/ladybugs-poppy-seed-chicken-casserole/",
+      "note": "Allrecipes"
+    },
+    "ingredients": [
+      {
+        "item": "buttery round crackers",
+        "qty": 6,
+        "unit": "oz",
+        "prep": "crumbled",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "melted",
+        "optional": false
+      },
+      {
+        "item": "poppy seeds",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chicken breast halves",
+        "qty": 8,
+        "unit": "",
+        "prep": "skinless, boneless, cooked and cut into bite-sized pieces",
+        "optional": false
+      },
+      {
+        "item": "condensed cream of chicken soup",
+        "qty": 2,
+        "unit": "can",
+        "prep": "10.75 ounce each",
+        "optional": false
+      },
+      {
+        "item": "sour cream",
+        "qty": 8,
+        "unit": "oz",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350 degrees F (175 degrees C).",
+      "Mix together the cracker crumbs, melted butter, and poppy seeds in a bowl. Layer the bottom of a 9x13-inch glass baking dish with 2/3 of the cracker mix. Mix the chicken breast pieces with cream of chicken soup and sour cream until thoroughly combined, and spoon the mixture on top of the crumb crust. Sprinkle remaining 1/3 of the cracker mix over the top of the chicken mixture.",
+      "Bake in the preheated oven until the casserole is hot and bubbling, about 1 hour."
+    ],
+    "notes": "Cook's Notes: To freeze, prepare as above. Let cool then wrap pan with foil and freeze. To cook after freezing, let thaw in fridge overnight and cook for 1 hour at 350 degrees F. If not thawed, cook until warmed through. It is even better after being frozen.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/ladybugs-poppy-seed-chicken-casserole.webp"
   }
 ]
