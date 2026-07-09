@@ -25800,5 +25800,3029 @@
     ],
     "createdAt": "2026-07-08",
     "image": "images/tiramisu-chef-dennis.jpg"
+  },
+  {
+    "id": "whipped-feta-chargrilled-chicken",
+    "title": "Whipped Feta & Chargrilled Chicken",
+    "cuisine": "Mediterranean",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "chicken",
+      "feta"
+    ],
+    "tags": [
+      "grilling",
+      "tiktok"
+    ],
+    "servings": 4,
+    "prepTime": 20,
+    "cookTime": 20,
+    "source": {
+      "url": "https://www.tiktok.com/@ed.cudlipp/video/7659445638198840579",
+      "note": "@ed.cudlipp on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "boneless chicken thighs",
+        "qty": 800,
+        "unit": "g",
+        "prep": "sliced into chunks",
+        "optional": false
+      },
+      {
+        "item": "fat-free Greek yoghurt",
+        "qty": 150,
+        "unit": "g",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "clove",
+        "prep": "grated, for the marinade",
+        "optional": false
+      },
+      {
+        "item": "ginger",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "grated, for the marinade",
+        "optional": false
+      },
+      {
+        "item": "ground cumin",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "ground coriander",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "smoked paprika",
+        "qty": 1.5,
+        "unit": "tsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "turmeric",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "lemon",
+        "qty": 1,
+        "unit": "",
+        "prep": "juiced, for the marinade",
+        "optional": false
+      },
+      {
+        "item": "extra virgin olive oil",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the marinade",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "pinch",
+        "prep": "generous, for the marinade",
+        "optional": false
+      },
+      {
+        "item": "Greek feta",
+        "qty": 400,
+        "unit": "g",
+        "prep": "patted dry, for the whipped feta",
+        "optional": false
+      },
+      {
+        "item": "fat-free Greek yoghurt",
+        "qty": 150,
+        "unit": "g",
+        "prep": "for the whipped feta",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 1,
+        "unit": "clove",
+        "prep": "grated, for the whipped feta",
+        "optional": false
+      },
+      {
+        "item": "lemon",
+        "qty": 1,
+        "unit": "",
+        "prep": "zest and half the juice, for the whipped feta",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the whipped feta",
+        "optional": false
+      },
+      {
+        "item": "fresh mint",
+        "qty": null,
+        "unit": "",
+        "prep": "to serve",
+        "optional": false
+      },
+      {
+        "item": "fresh coriander",
+        "qty": null,
+        "unit": "",
+        "prep": "to serve",
+        "optional": false
+      },
+      {
+        "item": "lemon",
+        "qty": null,
+        "unit": "",
+        "prep": "zest and juice, to serve",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": null,
+        "unit": "",
+        "prep": "to serve",
+        "optional": false
+      },
+      {
+        "item": "chilli oil",
+        "qty": null,
+        "unit": "",
+        "prep": "to serve",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Slice 800g boneless chicken thighs into chunks.",
+      "Make the marinade: combine 150g fat-free Greek yoghurt, 2 grated garlic cloves, 1 tbsp grated ginger, 2 tsp ground cumin, 2 tsp ground coriander, 1.5 tsp smoked paprika, 1 tsp turmeric, the juice of 1 lemon, 2 tbsp extra virgin olive oil, and a generous pinch of salt.",
+      "Toss the chicken in the marinade to coat and marinate at least 1 hour, ideally overnight.",
+      "Make the whipped feta: pat 400g Greek feta dry and blitz until fine. Add 150g fat-free Greek yoghurt, 1 grated garlic clove, and the zest plus half the juice of 1 lemon, and blitz until smooth. Stream in 2 tbsp olive oil until glossy.",
+      "Thread the marinated chicken onto skewers and grill over low coals for 15-20 minutes, turning, until charred and cooked through.",
+      "Spread the whipped feta on a platter and dress with fresh mint, coriander, lemon zest, olive oil, and chilli oil.",
+      "Lay the skewers on top and finish with a squeeze of lemon juice."
+    ],
+    "notes": "Marinate the chicken at least 1 hour, ideally overnight.",
+    "diet": [
+      "gluten-free"
+    ],
+    "createdAt": "2026-07-08",
+    "image": "images/whipped-feta-chargrilled-chicken.jpg"
+  },
+  {
+    "id": "bang-bang-tofu-rice-paper-rolls",
+    "title": "Bang Bang Tofu Rice Paper Rolls",
+    "cuisine": "Asian",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "tofu"
+    ],
+    "tags": [
+      "tiktok"
+    ],
+    "servings": 6,
+    "prepTime": 30,
+    "cookTime": 10,
+    "source": {
+      "url": "https://www.tiktok.com/@julieandamy_/video/7639431804235123998",
+      "note": "@julieandamy_ on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "tofu",
+        "qty": 1,
+        "unit": "block",
+        "prep": "cut into strips, for the tofu",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "clove",
+        "prep": "grated, for the tofu",
+        "optional": false
+      },
+      {
+        "item": "low-sodium tamari",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the tofu",
+        "optional": false
+      },
+      {
+        "item": "sweet chili sauce",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the tofu",
+        "optional": false
+      },
+      {
+        "item": "vegan oyster sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the tofu",
+        "optional": false
+      },
+      {
+        "item": "rice vinegar",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the tofu",
+        "optional": false
+      },
+      {
+        "item": "sriracha",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the tofu",
+        "optional": true
+      },
+      {
+        "item": "maple syrup",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the tofu",
+        "optional": false
+      },
+      {
+        "item": "lime",
+        "qty": 1,
+        "unit": "",
+        "prep": "zested, for the tofu",
+        "optional": true
+      },
+      {
+        "item": "cornstarch",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "for the reserved marinade",
+        "optional": false
+      },
+      {
+        "item": "English cucumber",
+        "qty": 1,
+        "unit": "",
+        "prep": "julienned, for the veg",
+        "optional": false
+      },
+      {
+        "item": "carrots",
+        "qty": 2,
+        "unit": "",
+        "prep": "julienned, for the veg",
+        "optional": false
+      },
+      {
+        "item": "rice vinegar",
+        "qty": null,
+        "unit": "",
+        "prep": "for the veg",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "",
+        "prep": "for the veg",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": null,
+        "unit": "",
+        "prep": "for the veg",
+        "optional": false
+      },
+      {
+        "item": "rice paper sheets",
+        "qty": 6,
+        "unit": "sheet",
+        "prep": "6-8, for the rolls",
+        "optional": false
+      },
+      {
+        "item": "cooked vermicelli noodles",
+        "qty": 1,
+        "unit": "",
+        "prep": "1-2 servings, or sushi rice, for the rolls",
+        "optional": false
+      },
+      {
+        "item": "scallions",
+        "qty": null,
+        "unit": "",
+        "prep": "green part in long strips, for the rolls",
+        "optional": false
+      },
+      {
+        "item": "cilantro",
+        "qty": null,
+        "unit": "",
+        "prep": "for the rolls",
+        "optional": false
+      },
+      {
+        "item": "vegan mayo",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "for the dipping sauce",
+        "optional": false
+      },
+      {
+        "item": "sweet chili sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the dipping sauce",
+        "optional": false
+      },
+      {
+        "item": "sriracha",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "for the dipping sauce",
+        "optional": false
+      },
+      {
+        "item": "rice vinegar",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the dipping sauce",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Boil the tofu strips in heavily salted water for 5 minutes, then drain and pat dry.",
+      "Whisk together the marinade (all tofu ingredients except the cornstarch): grated garlic, tamari, sweet chili sauce, vegan oyster sauce, rice vinegar, sriracha, maple syrup, and lime zest. Coat the tofu and marinate at least 10 minutes.",
+      "Heat neutral oil in a pan over medium heat. Cook the tofu (reserving the excess marinade) for 3-4 minutes, then flip and cook 2-3 minutes more.",
+      "Whisk the 1/2 tsp cornstarch into the reserved marinade, lower the heat, and pour over the tofu until glossy.",
+      "Toss the julienned cucumber and carrot with rice vinegar, salt, and sugar to pickle.",
+      "Dip a rice paper sheet in cool water for 5-7 seconds. Add 2-3 tofu strips, noodles, pickled veg, scallion, and cilantro, then roll like a burrito.",
+      "Whisk together the dipping sauce ingredients: vegan mayo, sweet chili sauce, sriracha, and rice vinegar. Serve with the rolls."
+    ],
+    "notes": "",
+    "diet": [
+      "vegetarian",
+      "vegan"
+    ],
+    "createdAt": "2026-07-08",
+    "image": "images/bang-bang-tofu-rice-paper-rolls.jpg"
+  },
+  {
+    "id": "homemade-enchilada-sauce",
+    "title": "Homemade Enchilada Sauce",
+    "cuisine": "Mexican",
+    "mealTypes": [
+      "side"
+    ],
+    "mainIngredients": [
+      "tomato sauce",
+      "chili powder"
+    ],
+    "tags": [
+      "sauce",
+      "tiktok"
+    ],
+    "servings": 8,
+    "prepTime": 5,
+    "cookTime": 17,
+    "source": {
+      "url": "https://www.tiktok.com/@better.from.scratch/video/7654739013567335710",
+      "note": "@better.from.scratch on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "oil",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "vegetable, canola, or avocado",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chili powder",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ground cumin",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "dried oregano",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "low-sodium beef broth",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "tomato sauce",
+        "qty": 2.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 1,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "In a saucepan, stir together the oil, flour, chili powder, cumin, and oregano. Cook over medium heat for 2 minutes until bubbly.",
+      "Add the beef broth, tomato sauce, garlic, and salt.",
+      "Simmer on low for 15 minutes, stirring occasionally."
+    ],
+    "notes": "Keeps 1 week in the fridge and freezes for 3 months. For a gluten-free version, swap 1 tbsp cornstarch for the flour.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/homemade-enchilada-sauce.jpg"
+  },
+  {
+    "id": "pollo-asado-marinade",
+    "title": "Pollo Asado Marinade",
+    "cuisine": "Mexican",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "chicken"
+    ],
+    "tags": [
+      "marinade",
+      "chicken",
+      "tiktok"
+    ],
+    "servings": 6,
+    "prepTime": 10,
+    "cookTime": 12,
+    "source": {
+      "url": "https://www.tiktok.com/@hrnaeatz/video/7649925118948298014",
+      "note": "@hrnaeatz on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "boneless skinless chicken thighs",
+        "qty": 4,
+        "unit": "lb",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "limes",
+        "qty": 2,
+        "unit": "",
+        "prep": "juiced, 2-3",
+        "optional": false
+      },
+      {
+        "item": "oranges",
+        "qty": 2,
+        "unit": "",
+        "prep": "large, juiced",
+        "optional": false
+      },
+      {
+        "item": "oregano",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cilantro",
+        "qty": 0.5,
+        "unit": "",
+        "prep": "about half a bushel",
+        "optional": false
+      },
+      {
+        "item": "chile de arbol",
+        "qty": 3,
+        "unit": "",
+        "prep": "3-4, to taste",
+        "optional": false
+      },
+      {
+        "item": "chipotle peppers",
+        "qty": 0.5,
+        "unit": "can",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "yellow onion",
+        "qty": 0.5,
+        "unit": "",
+        "prep": "large",
+        "optional": false
+      },
+      {
+        "item": "paprika",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cloves",
+        "qty": 3,
+        "unit": "",
+        "prep": "whole spice",
+        "optional": false
+      },
+      {
+        "item": "peppercorns",
+        "qty": 7,
+        "unit": "",
+        "prep": "7-8",
+        "optional": false
+      },
+      {
+        "item": "achiote",
+        "qty": 0.5,
+        "unit": "",
+        "prep": "half a bar",
+        "optional": false
+      },
+      {
+        "item": "oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Blend all the marinade ingredients together.",
+      "Coat the chicken in the marinade and marinate at least 6 hours. Bring to room temperature before cooking.",
+      "Preheat the grill 20-30 minutes at medium-high heat.",
+      "Grill 10-14 minutes total, about 5-7 minutes per side, until cooked through."
+    ],
+    "notes": "Marinate at least 6 hours; bring to room temp before grilling.",
+    "diet": [
+      "gluten-free"
+    ],
+    "createdAt": "2026-07-08",
+    "image": "images/pollo-asado-marinade.jpg"
+  },
+  {
+    "id": "honey-mustard-chicken-marinade",
+    "title": "Honey Mustard Chicken Marinade",
+    "cuisine": "American",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "chicken"
+    ],
+    "tags": [
+      "marinade",
+      "chicken",
+      "tiktok"
+    ],
+    "servings": 4,
+    "prepTime": 5,
+    "cookTime": 28,
+    "source": {
+      "url": "https://www.tiktok.com/@everydayisfeastday/video/7655101359750008078",
+      "note": "@everydayisfeastday on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "garlic",
+        "qty": 3,
+        "unit": "clove",
+        "prep": "grated or minced, 3-4",
+        "optional": false
+      },
+      {
+        "item": "honey",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "mustard",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "kosher salt",
+        "qty": null,
+        "unit": "pinch",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "onion powder",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "vinegar",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "2-3",
+        "optional": false
+      },
+      {
+        "item": "oil",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "1/3 to 1/2 cup",
+        "optional": false
+      },
+      {
+        "item": "boneless skinless chicken thighs",
+        "qty": 1.5,
+        "unit": "lb",
+        "prep": "1.5-2 lbs",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Combine all the marinade ingredients: grated garlic, honey, mustard, kosher salt, black pepper, onion powder, vinegar, and oil.",
+      "Coat the chicken thighs in the marinade.",
+      "Roast at 450F for about 25-30 minutes.",
+      "If the chicken is cooked but not caramelized, broil for 1 minute, watching closely."
+    ],
+    "notes": "",
+    "diet": [
+      "gluten-free"
+    ],
+    "createdAt": "2026-07-08",
+    "image": "images/honey-mustard-chicken-marinade.jpg"
+  },
+  {
+    "id": "cherry-garcia-cookies",
+    "title": "Cherry Garcia Cookies",
+    "cuisine": "Bakery",
+    "mealTypes": [
+      "dessert",
+      "snack"
+    ],
+    "mainIngredients": [
+      "dark chocolate",
+      "cherries",
+      "flour",
+      "butter"
+    ],
+    "tags": [
+      "cookies",
+      "tiktok"
+    ],
+    "servings": 12,
+    "prepTime": 20,
+    "cookTime": 14,
+    "source": {
+      "url": "https://www.tiktok.com/@betterbakesbygrace/video/7637567747475410207",
+      "note": "@betterbakesbygrace on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "unsalted butter",
+        "qty": 165,
+        "unit": "g",
+        "prep": "melted and cooled",
+        "optional": false
+      },
+      {
+        "item": "brown sugar",
+        "qty": 120,
+        "unit": "g",
+        "prep": "packed",
+        "optional": false
+      },
+      {
+        "item": "white sugar",
+        "qty": 60,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "egg",
+        "qty": 1,
+        "unit": "",
+        "prep": "large",
+        "optional": false
+      },
+      {
+        "item": "egg yolk",
+        "qty": 1,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Luxardo cherry syrup",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "vanilla extract",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "almond extract",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 200,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "bread flour",
+        "qty": 30,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "baking soda",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "kosher salt",
+        "qty": 0.75,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "dark chocolate",
+        "qty": 120,
+        "unit": "g",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "Luxardo cherries",
+        "qty": 130,
+        "unit": "g",
+        "prep": "chopped and blotted dry",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Separate the cherries from the juice.",
+      "Combine the sugars and the melted, cooled butter.",
+      "Add the egg and egg yolk.",
+      "Add the vanilla, Luxardo cherry juice, and almond extract.",
+      "Mix in the dry ingredients until just combined.",
+      "Add the chopped, patted-dry cherries and the chocolate.",
+      "Cover and refrigerate 20 minutes (the dough is loose before chilling).",
+      "Scoop the dough and garnish with extra cherries and chocolate.",
+      "Bake at 350F for 12-14 minutes."
+    ],
+    "notes": "Dough is loose before chilling, so the fridge rest is important.",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-07-08",
+    "image": "images/cherry-garcia-cookies.jpg"
+  },
+  {
+    "id": "chicken-caesar-garlic-knot-sandwiches",
+    "title": "Chicken Caesar Garlic Knot Sandwiches",
+    "cuisine": "Italian-American",
+    "mealTypes": [
+      "dinner",
+      "lunch"
+    ],
+    "mainIngredients": [
+      "chicken breast",
+      "romaine",
+      "Parmesan",
+      "garlic knot rolls"
+    ],
+    "tags": [
+      "tiktok"
+    ],
+    "servings": 4,
+    "prepTime": 40,
+    "cookTime": 15,
+    "source": {
+      "url": "https://www.tiktok.com/@thesapor/video/7655095192323656974",
+      "note": "@thesapor on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "boneless skinless chicken breast",
+        "qty": 1.5,
+        "unit": "lb",
+        "prep": "sliced thin",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for chicken",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "for chicken",
+        "optional": false
+      },
+      {
+        "item": "oregano",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "for chicken",
+        "optional": false
+      },
+      {
+        "item": "paprika",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for chicken",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "",
+        "prep": "for chicken, to taste",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "for chicken, to taste",
+        "optional": false
+      },
+      {
+        "item": "MSG",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "for chicken",
+        "optional": true
+      },
+      {
+        "item": "eggs",
+        "qty": 3,
+        "unit": "",
+        "prep": "breading; beaten",
+        "optional": false
+      },
+      {
+        "item": "panko",
+        "qty": 1.5,
+        "unit": "cup",
+        "prep": "breading",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "breading",
+        "optional": false
+      },
+      {
+        "item": "shredded Parmesan",
+        "qty": 0.33,
+        "unit": "cup",
+        "prep": "breading, mixed into breadcrumbs",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "",
+        "prep": "breading, to taste",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "breading, to taste",
+        "optional": false
+      },
+      {
+        "item": "parsley",
+        "qty": null,
+        "unit": "",
+        "prep": "breading",
+        "optional": false
+      },
+      {
+        "item": "mayonnaise",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "Caesar dressing",
+        "optional": false
+      },
+      {
+        "item": "lemon",
+        "qty": 0.5,
+        "unit": "",
+        "prep": "Caesar dressing; juiced",
+        "optional": false
+      },
+      {
+        "item": "shredded Parmesan",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "Caesar dressing",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "Caesar dressing",
+        "optional": false
+      },
+      {
+        "item": "Worcestershire sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "Caesar dressing",
+        "optional": false
+      },
+      {
+        "item": "Dijon mustard",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "Caesar dressing",
+        "optional": false
+      },
+      {
+        "item": "garlic paste",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "prep": "Caesar dressing",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "Caesar dressing",
+        "optional": false
+      },
+      {
+        "item": "anchovy paste",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "Caesar dressing",
+        "optional": false
+      },
+      {
+        "item": "romaine",
+        "qty": 3,
+        "unit": "cup",
+        "prep": "Caesar dressing; chopped",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "",
+        "prep": "Caesar dressing, to taste",
+        "optional": false
+      },
+      {
+        "item": "garlic knot rolls",
+        "qty": 4,
+        "unit": "",
+        "prep": "to assemble",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Marinate the sliced chicken with olive oil, oregano, garlic powder, paprika, salt, MSG, and pepper in the fridge for 30 or more minutes.",
+      "Set up a breading station: flour, beaten eggs, and panko mixed with Parmesan.",
+      "Dredge the chicken flour, then egg, then panko-Parmesan.",
+      "Fry in a skillet at 350F for 3-4 minutes per side until golden. Drain.",
+      "Whisk together the Caesar dressing ingredients, then add the romaine and toss.",
+      "Spread Caesar dressing on the garlic knot rolls, add the Caesar salad, place the crispy cutlet, add extra Parmesan, and top with the garlic-butter-brushed roll."
+    ],
+    "notes": "The creator's rolls are their brioche milk bread with 1 tbsp garlic powder, topped with garlic butter.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/chicken-caesar-garlic-knot-sandwiches.jpg"
+  },
+  {
+    "id": "thai-beef-rice-paper-rolls-peanut-lime-sauce",
+    "title": "Thai Beef Rice Paper Rolls with Peanut Lime Sauce",
+    "cuisine": "Thai",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "beef",
+      "rice paper",
+      "rice noodles",
+      "peanut butter"
+    ],
+    "tags": [
+      "tiktok"
+    ],
+    "servings": 4,
+    "prepTime": 30,
+    "cookTime": 10,
+    "source": {
+      "url": "https://www.tiktok.com/@hermanathome/video/7651699426574011662",
+      "note": "@hermanathome on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "fish sauce",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "Thai style beef",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 1.5,
+        "unit": "tbsp",
+        "prep": "Thai style beef",
+        "optional": false
+      },
+      {
+        "item": "dark soy sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "Thai style beef",
+        "optional": false
+      },
+      {
+        "item": "oyster sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "Thai style beef",
+        "optional": false
+      },
+      {
+        "item": "brown sugar",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "Thai style beef",
+        "optional": false
+      },
+      {
+        "item": "lime juice",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "Thai style beef",
+        "optional": false
+      },
+      {
+        "item": "shallot",
+        "qty": 1,
+        "unit": "",
+        "prep": "Thai style beef; minced",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 3,
+        "unit": "clove",
+        "prep": "Thai style beef; minced",
+        "optional": false
+      },
+      {
+        "item": "Thai chilies",
+        "qty": 2,
+        "unit": "",
+        "prep": "Thai style beef; de-seeded and minced",
+        "optional": false
+      },
+      {
+        "item": "beef",
+        "qty": 1,
+        "unit": "lb",
+        "prep": "Thai style beef; thinly sliced",
+        "optional": false
+      },
+      {
+        "item": "Thai basil",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "Thai style beef; packed",
+        "optional": false
+      },
+      {
+        "item": "dried rice noodles",
+        "qty": 8,
+        "unit": "oz",
+        "prep": "rolls",
+        "optional": false
+      },
+      {
+        "item": "rice paper sheets",
+        "qty": 8,
+        "unit": "sheet",
+        "prep": "rolls; 22cm, use 8-10",
+        "optional": false
+      },
+      {
+        "item": "green lettuce leaves",
+        "qty": 8,
+        "unit": "",
+        "prep": "rolls; use 8-10",
+        "optional": false
+      },
+      {
+        "item": "Persian cucumbers",
+        "qty": 2,
+        "unit": "",
+        "prep": "rolls; cut into thin strips",
+        "optional": false
+      },
+      {
+        "item": "mint leaves",
+        "qty": 0.5,
+        "unit": "oz",
+        "prep": "rolls",
+        "optional": false
+      },
+      {
+        "item": "avocados",
+        "qty": 2,
+        "unit": "",
+        "prep": "rolls; ripe, peeled and sliced thin",
+        "optional": false
+      },
+      {
+        "item": "peanut butter",
+        "qty": 0.33,
+        "unit": "cup",
+        "prep": "peanut lime sauce",
+        "optional": false
+      },
+      {
+        "item": "lime",
+        "qty": 1,
+        "unit": "",
+        "prep": "peanut lime sauce; juiced",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "peanut lime sauce",
+        "optional": false
+      },
+      {
+        "item": "sriracha",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "peanut lime sauce",
+        "optional": false
+      },
+      {
+        "item": "honey",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "peanut lime sauce",
+        "optional": false
+      },
+      {
+        "item": "warm water",
+        "qty": 4,
+        "unit": "tbsp",
+        "prep": "peanut lime sauce; 4-5 tbsp, as needed",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Mix together the fish sauce, soy sauce, dark soy sauce, oyster sauce, brown sugar, and lime juice.",
+      "Saute the shallot, garlic, and chilies for 30 seconds.",
+      "Add the beef and cook 3-4 minutes.",
+      "Toss in the sauce and Thai basil and cook 1-2 minutes.",
+      "Cook the rice noodles per package directions and rinse under cold water.",
+      "Dip a rice paper sheet in lukewarm water, then layer lettuce, cucumber, mint, avocado, noodles, and beef, and roll like a burrito.",
+      "Whisk the peanut sauce until smooth, adding water as needed.",
+      "Serve the rolls with the peanut lime sauce."
+    ],
+    "notes": "",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/thai-beef-rice-paper-rolls-peanut-lime-sauce.jpg"
+  },
+  {
+    "id": "crispy-pan-fried-pork-shrimp-dumplings",
+    "title": "Crispy Pan-Fried Pork & Shrimp Dumplings",
+    "cuisine": "Chinese",
+    "mealTypes": [
+      "dinner",
+      "appetizer"
+    ],
+    "mainIngredients": [
+      "ground pork",
+      "shrimp",
+      "shiitake mushrooms",
+      "dumpling wrappers"
+    ],
+    "tags": [
+      "tiktok"
+    ],
+    "servings": 6,
+    "prepTime": 30,
+    "cookTime": 12,
+    "source": {
+      "url": "https://www.tiktok.com/@foodierandy/video/7655714480919350549",
+      "note": "@foodierandy on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "ground pork",
+        "qty": 400,
+        "unit": "g",
+        "prep": "filling",
+        "optional": false
+      },
+      {
+        "item": "shiitake mushrooms",
+        "qty": 160,
+        "unit": "g",
+        "prep": "filling; finely chopped",
+        "optional": false
+      },
+      {
+        "item": "small shrimp",
+        "qty": 30,
+        "unit": "",
+        "prep": "filling; peeled",
+        "optional": false
+      },
+      {
+        "item": "green onions",
+        "qty": 2,
+        "unit": "",
+        "prep": "filling; finely chopped",
+        "optional": false
+      },
+      {
+        "item": "green onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "garnish; thinly sliced",
+        "optional": false
+      },
+      {
+        "item": "egg",
+        "qty": 1,
+        "unit": "",
+        "prep": "filling",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "filling",
+        "optional": false
+      },
+      {
+        "item": "oyster sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "filling",
+        "optional": false
+      },
+      {
+        "item": "sesame oil",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "filling",
+        "optional": false
+      },
+      {
+        "item": "chicken stock",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "filling",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "filling; to taste",
+        "optional": false
+      },
+      {
+        "item": "dumpling wrappers",
+        "qty": 1,
+        "unit": "package",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "neutral oil",
+        "qty": null,
+        "unit": "",
+        "prep": "for cooking",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "for steaming",
+        "optional": false
+      },
+      {
+        "item": "chili oil",
+        "qty": null,
+        "unit": "",
+        "prep": "to serve",
+        "optional": false
+      },
+      {
+        "item": "chili crisp",
+        "qty": null,
+        "unit": "",
+        "prep": "to serve",
+        "optional": false
+      },
+      {
+        "item": "green onion",
+        "qty": null,
+        "unit": "",
+        "prep": "to serve; sliced",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Combine the pork, shiitake, chopped green onion, egg, soy sauce, oyster sauce, sesame oil, chicken stock, and salt, and mix until sticky.",
+      "Place a spoonful of filling in the center of each wrapper and clump together.",
+      "Heat a nonstick skillet over medium with a little oil, place one shrimp on top of each dumpling, and press it in.",
+      "Cook 1-2 minutes until the bottoms brown, then add 1/4 cup water, cover, and steam 6-7 minutes.",
+      "Uncover and cook 1-2 minutes more until the water evaporates and the bottoms crisp.",
+      "Garnish with green onion, chili oil, and chili crisp."
+    ],
+    "notes": "Makes about 30 dumplings.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/crispy-pan-fried-pork-shrimp-dumplings.jpg"
+  },
+  {
+    "id": "mozzarella-snuggets",
+    "title": "Mozzarella Snuggets",
+    "cuisine": "Italian",
+    "mealTypes": [
+      "appetizer",
+      "snack"
+    ],
+    "mainIngredients": [
+      "pizza dough",
+      "mozzarella",
+      "garlic butter"
+    ],
+    "tags": [
+      "tiktok"
+    ],
+    "servings": 4,
+    "prepTime": 20,
+    "cookTime": 5,
+    "source": {
+      "url": "https://www.tiktok.com/@thebkydpalate/video/7645283269201677581",
+      "note": "@thebkydpalate on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "pizza dough",
+        "qty": 2,
+        "unit": "",
+        "prep": "or 1 large",
+        "optional": false
+      },
+      {
+        "item": "mozzarella cheese sticks",
+        "qty": 6,
+        "unit": "",
+        "prep": "use 6-7",
+        "optional": false
+      },
+      {
+        "item": "basil",
+        "qty": null,
+        "unit": "",
+        "prep": "lightly dried",
+        "optional": false
+      },
+      {
+        "item": "Italian seasoning",
+        "qty": null,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 1,
+        "unit": "stick",
+        "prep": "garlic butter",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "garlic butter",
+        "optional": false
+      },
+      {
+        "item": "basil",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "garlic butter",
+        "optional": false
+      },
+      {
+        "item": "Parmesan",
+        "qty": null,
+        "unit": "",
+        "prep": "garnish",
+        "optional": false
+      },
+      {
+        "item": "basil",
+        "qty": null,
+        "unit": "",
+        "prep": "garnish",
+        "optional": false
+      },
+      {
+        "item": "frying oil",
+        "qty": null,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Stretch the dough into a rectangle and dust with flour and cornmeal.",
+      "Cut the cheese sticks into 1-inch pieces and place them on the dough with room to fold over.",
+      "Season with basil and Italian seasoning, then fold over and pinch the ends closed.",
+      "Cut into individual pieces, sealing all the ends.",
+      "Fry at 350-375F for a few minutes, stirring, until golden brown, then place on a rack.",
+      "Make garlic butter by combining the melted butter, garlic, and basil.",
+      "Toss the snuggets in garlic butter and Parmesan, then garnish with basil and Parmesan."
+    ],
+    "notes": "",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-07-08",
+    "image": "images/mozzarella-snuggets.jpg"
+  },
+  {
+    "id": "homemade-coffee-syrups",
+    "title": "Homemade Coffee Syrups",
+    "cuisine": "American",
+    "mealTypes": [
+      "drink"
+    ],
+    "mainIngredients": [
+      "water",
+      "brown sugar",
+      "honey",
+      "peanut butter",
+      "blueberries"
+    ],
+    "tags": [
+      "coffee",
+      "syrup",
+      "make-ahead",
+      "tiktok"
+    ],
+    "servings": 16,
+    "prepTime": 5,
+    "cookTime": 10,
+    "source": {
+      "url": "https://www.tiktok.com/@munchiesbymallory/video/7633926371835743502",
+      "note": "@munchiesbymallory on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "water",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "for the Teddy Graham syrup",
+        "optional": false
+      },
+      {
+        "item": "light brown sugar",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "for the Teddy Graham syrup",
+        "optional": false
+      },
+      {
+        "item": "honey",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "for the Teddy Graham syrup",
+        "optional": false
+      },
+      {
+        "item": "ground cinnamon",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "prep": "for the Teddy Graham syrup",
+        "optional": false
+      },
+      {
+        "item": "vanilla bean paste",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "prep": "for the Teddy Graham syrup, or vanilla extract",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "for the Birthday Cake syrup",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "for the Birthday Cake syrup",
+        "optional": false
+      },
+      {
+        "item": "cake batter extract",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the Birthday Cake syrup",
+        "optional": false
+      },
+      {
+        "item": "vanilla bean paste",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the Birthday Cake syrup, or vanilla extract",
+        "optional": false
+      },
+      {
+        "item": "almond extract",
+        "qty": 0.125,
+        "unit": "tsp",
+        "prep": "for the Birthday Cake syrup",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "for the Peanut Butter syrup",
+        "optional": false
+      },
+      {
+        "item": "light brown sugar",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "for the Peanut Butter syrup",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "for the Peanut Butter syrup",
+        "optional": false
+      },
+      {
+        "item": "peanut butter",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "for the Peanut Butter syrup, not natural",
+        "optional": false
+      },
+      {
+        "item": "vanilla bean paste",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the Peanut Butter syrup, or vanilla extract",
+        "optional": false
+      },
+      {
+        "item": "blueberries",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "for the Blueberry syrup, fresh or frozen",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "for the Blueberry syrup",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "for the Blueberry syrup",
+        "optional": false
+      },
+      {
+        "item": "vanilla bean paste",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the Blueberry syrup, or vanilla extract",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Pick a flavor. Combine the water and sugar(s) for that flavor (and the blueberries for the Blueberry syrup) in a saucepan over medium heat.",
+      "Whisk until the sugar is fully dissolved, then simmer for a few minutes.",
+      "Whisk in the flavorings for that syrup (extracts, honey, cinnamon, peanut butter, or vanilla paste).",
+      "For the Blueberry syrup, mash the blueberries and strain out the solids.",
+      "Let cool, then store in the fridge for about 2 weeks."
+    ],
+    "notes": "One method covers all four flavors: pick a flavor and simmer that set of ingredients. Keeps about 2 weeks refrigerated.",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-07-08",
+    "image": "images/homemade-coffee-syrups.jpg"
+  },
+  {
+    "id": "mocha-sauce",
+    "title": "Mocha Sauce",
+    "cuisine": "American",
+    "mealTypes": [
+      "drink"
+    ],
+    "mainIngredients": [
+      "dark brown sugar",
+      "cocoa powder",
+      "vanilla paste"
+    ],
+    "tags": [
+      "coffee",
+      "sauce",
+      "make-ahead",
+      "tiktok"
+    ],
+    "servings": 12,
+    "prepTime": 2,
+    "cookTime": 5,
+    "source": {
+      "url": "https://www.tiktok.com/@morgandrinkscoffee/video/7657997508576169247",
+      "note": "@morgandrinkscoffee on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "dark brown sugar",
+        "qty": 200,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 150,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cocoa powder",
+        "qty": 100,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "vanilla paste",
+        "qty": 7,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "kosher salt",
+        "qty": 4,
+        "unit": "g",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Combine the dark brown sugar, water, and cocoa powder in a saucepan over medium-low heat.",
+      "Whisk constantly for about 4 to 5 minutes until it is about to simmer, breaking up any cocoa clumps.",
+      "Remove from the heat and stir in the vanilla paste and salt.",
+      "Let cool, then store in the fridge for 2 weeks."
+    ],
+    "notes": "Use in mochas, hot chocolates, and other drinks.",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "createdAt": "2026-07-08",
+    "image": "images/mocha-sauce.jpg"
+  },
+  {
+    "id": "dak-gomtang-korean-chicken-soup",
+    "title": "Dak Gomtang (Korean Chicken Soup)",
+    "cuisine": "Korean",
+    "mealTypes": [
+      "soup",
+      "dinner"
+    ],
+    "mainIngredients": [
+      "chicken legs",
+      "green onion",
+      "garlic",
+      "ginger",
+      "rice"
+    ],
+    "tags": [
+      "soup",
+      "high-protein",
+      "tiktok"
+    ],
+    "servings": 3,
+    "prepTime": 15,
+    "cookTime": 45,
+    "source": {
+      "url": "https://www.tiktok.com/@joexfitness/video/7657366525136948493",
+      "note": "@joexfitness on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "chicken legs",
+        "qty": 1,
+        "unit": "lb",
+        "prep": "whole, bone-in, skin-on, raw",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 5,
+        "unit": "clove",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ginger",
+        "qty": 3,
+        "unit": "slice",
+        "prep": "sliced",
+        "optional": false
+      },
+      {
+        "item": "onion",
+        "qty": 0.5,
+        "unit": "",
+        "prep": "medium, chopped",
+        "optional": false
+      },
+      {
+        "item": "green onion",
+        "qty": 5,
+        "unit": "",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "peppercorn",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      },
+      {
+        "item": "pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": null,
+        "unit": "",
+        "prep": "enough to cover the chicken",
+        "optional": false
+      },
+      {
+        "item": "jalapenos",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the dipping sauce, diced",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 5,
+        "unit": "tbsp",
+        "prep": "for the dipping sauce",
+        "optional": false
+      },
+      {
+        "item": "honey",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the dipping sauce",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the dipping sauce",
+        "optional": false
+      },
+      {
+        "item": "cooked rice",
+        "qty": 1.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Chop the green onions and onion.",
+      "In a pot on high heat, add the garlic, ginger, onion, green onions, peppercorns, salt and pepper, and enough water to fill about 3/4 of the pot; bring to a boil.",
+      "Add the chicken legs and boil for 30 to 50 minutes until fully cooked and tender.",
+      "Remove the chicken and shred it with a fork.",
+      "Mix the diced jalapenos, soy sauce, honey, and water for the dipping sauce.",
+      "Strain the soup, remove any impurities, and pour the clear soup into a bowl.",
+      "Add the cooked rice and shredded chicken, top with green onion, and serve with the dipping sauce."
+    ],
+    "notes": "Macros per serving: 42g protein, 38g carbs, 14g fat, 454 calories.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/dak-gomtang-korean-chicken-soup.jpg"
+  },
+  {
+    "id": "banana-pudding-cheesecake-bars",
+    "title": "Banana Pudding Cheesecake Bars",
+    "cuisine": "Bakery",
+    "mealTypes": [
+      "dessert"
+    ],
+    "mainIngredients": [
+      "cream cheese",
+      "banana",
+      "nilla wafers",
+      "banana pudding mix",
+      "heavy whipping cream"
+    ],
+    "tags": [
+      "cheesecake",
+      "tiktok"
+    ],
+    "servings": 9,
+    "prepTime": 30,
+    "cookTime": 35,
+    "source": {
+      "url": "https://www.tiktok.com/@audreybakes/video/7656856992652348702",
+      "note": "@audreybakes on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "nilla wafer crumbs",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "for the crust",
+        "optional": false
+      },
+      {
+        "item": "granulated sugar",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the crust",
+        "optional": false
+      },
+      {
+        "item": "unsalted butter",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "for the crust, melted",
+        "optional": false
+      },
+      {
+        "item": "cream cheese",
+        "qty": 16,
+        "unit": "oz",
+        "prep": "for the cheesecake, softened",
+        "optional": false
+      },
+      {
+        "item": "granulated sugar",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "for the cheesecake",
+        "optional": false
+      },
+      {
+        "item": "banana",
+        "qty": 1,
+        "unit": "",
+        "prep": "for the cheesecake, ripe, mashed (~100g)",
+        "optional": false
+      },
+      {
+        "item": "sour cream",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "for the cheesecake, room temp",
+        "optional": false
+      },
+      {
+        "item": "vanilla",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the cheesecake",
+        "optional": false
+      },
+      {
+        "item": "cornstarch",
+        "qty": 0.5,
+        "unit": "tbsp",
+        "prep": "for the cheesecake",
+        "optional": false
+      },
+      {
+        "item": "eggs",
+        "qty": 2,
+        "unit": "",
+        "prep": "for the cheesecake, room temp",
+        "optional": false
+      },
+      {
+        "item": "heavy whipping cream",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "for the whipped cream, cold",
+        "optional": false
+      },
+      {
+        "item": "powdered sugar",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the whipped cream",
+        "optional": false
+      },
+      {
+        "item": "dry banana pudding mix",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the whipped cream, reserved from a 3.4 oz box",
+        "optional": false
+      },
+      {
+        "item": "vanilla",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "for the whipped cream",
+        "optional": false
+      },
+      {
+        "item": "dry banana pudding mix",
+        "qty": null,
+        "unit": "",
+        "prep": "for the banana pudding, remaining ~84g",
+        "optional": false
+      },
+      {
+        "item": "milk",
+        "qty": 1.667,
+        "unit": "cup",
+        "prep": "for the banana pudding, cold",
+        "optional": false
+      },
+      {
+        "item": "banana",
+        "qty": null,
+        "unit": "",
+        "prep": "for the banana pudding, sliced",
+        "optional": false
+      },
+      {
+        "item": "nilla wafers",
+        "qty": null,
+        "unit": "",
+        "prep": "for the banana pudding, crushed, plus more for topping",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 325F and line an 8x8 pan with parchment.",
+      "Mix the nilla wafer crumbs, sugar, and melted butter; press into the pan and bake 6 to 8 minutes, then cool.",
+      "Beat the cream cheese and sugar until smooth. Add the sour cream, mashed banana, cornstarch, and vanilla.",
+      "Add the eggs and mix on low just until combined; spread over the crust.",
+      "Bake 30 to 40 minutes until the edges are set and the center is jiggly. Cool 30 minutes, then chill 3+ hours.",
+      "Prepare the pudding: reserve 1 tbsp pudding mix for the whipped cream, then whisk the rest with the cold milk for 2 minutes; chill.",
+      "Whip the heavy cream with the powdered sugar, 1 tbsp pudding mix, and vanilla to medium peaks.",
+      "Layer sliced bananas over the chilled cheesecake, spread the banana pudding, spread the whipped cream, and top with nilla wafer crumbs; chill briefly."
+    ],
+    "notes": "The banana pudding mix comes from a 3.4 oz box: reserve 1 tbsp for the whipped cream and use the remaining ~84g for the pudding layer.",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-07-08",
+    "image": "images/banana-pudding-cheesecake-bars.jpg"
+  },
+  {
+    "id": "tiramisu-chia-pudding",
+    "title": "Tiramisu Chia Pudding",
+    "cuisine": "American",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "mainIngredients": [
+      "chia seeds",
+      "Greek yogurt",
+      "espresso",
+      "milk"
+    ],
+    "tags": [
+      "chia pudding",
+      "make-ahead",
+      "tiktok"
+    ],
+    "servings": 2,
+    "prepTime": 5,
+    "cookTime": 0,
+    "source": {
+      "url": "https://www.tiktok.com/@lovelydelites/video/7641451068118945037",
+      "note": "@lovelydelites on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "milk",
+        "qty": 0.75,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "espresso",
+        "qty": 2,
+        "unit": "shot",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "maple syrup",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "vanilla bean paste",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "pinch",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Greek yogurt",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "chia seeds",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cacao powder",
+        "qty": null,
+        "unit": "",
+        "prep": "for topping",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Mix the milk, espresso, maple syrup, vanilla bean paste, and salt.",
+      "Add the chia seeds, then mix in the Greek yogurt.",
+      "Cover and refrigerate for 4 hours or overnight.",
+      "Top with yogurt and cacao powder."
+    ],
+    "notes": "",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-07-08",
+    "image": "images/tiramisu-chia-pudding.jpg"
+  },
+  {
+    "id": "creme-brulee-coffee-syrup",
+    "title": "Creme Brûlée Coffee Syrup",
+    "cuisine": "American",
+    "mealTypes": [
+      "drink"
+    ],
+    "mainIngredients": [
+      "brown sugar",
+      "sweetened condensed milk",
+      "vanilla"
+    ],
+    "tags": [
+      "coffee",
+      "syrup",
+      "make-ahead",
+      "tiktok"
+    ],
+    "servings": 16,
+    "prepTime": 5,
+    "cookTime": 5,
+    "source": {
+      "url": "https://www.tiktok.com/@destinyruizzz/video/7654267629871418655",
+      "note": "@destinyruizzz on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "light brown sugar",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "hot water",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "sweetened condensed milk",
+        "qty": 1,
+        "unit": "can",
+        "prep": "14 oz can",
+        "optional": false
+      },
+      {
+        "item": "sea salt",
+        "qty": null,
+        "unit": "pinch",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "vanilla extract",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Dissolve the brown sugar in the hot water in a saucepan over medium heat.",
+      "Whisk in the sweetened condensed milk, salt, and vanilla.",
+      "Simmer a couple of minutes until smooth.",
+      "Cool and store in the fridge for about 2 weeks. Shake before use."
+    ],
+    "notes": "Keeps about 2 weeks in the fridge. Shake before use.",
+    "diet": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "createdAt": "2026-07-08",
+    "image": "images/creme-brulee-coffee-syrup.jpg"
+  },
+  {
+    "id": "crispy-teriyaki-chicken-rice-paper-dumplings",
+    "title": "Crispy Teriyaki Chicken Rice Paper Dumplings",
+    "cuisine": "Asian",
+    "mealTypes": [
+      "dinner",
+      "appetizer"
+    ],
+    "mainIngredients": [
+      "ground chicken",
+      "rice paper",
+      "soy sauce"
+    ],
+    "tags": [
+      "high-protein",
+      "tiktok"
+    ],
+    "servings": 8,
+    "prepTime": 20,
+    "cookTime": 15,
+    "source": {
+      "url": "https://www.tiktok.com/@hunt4shredz/video/7633829199408581901",
+      "note": "@hunt4shredz on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "ground chicken",
+        "qty": 1,
+        "unit": "lb",
+        "prep": "454g",
+        "optional": false
+      },
+      {
+        "item": "sesame oil",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "carrots",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "shredded",
+        "optional": false
+      },
+      {
+        "item": "green onions",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 3,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "ginger",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      },
+      {
+        "item": "low sodium soy sauce",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "for the sticky teriyaki glaze",
+        "optional": false
+      },
+      {
+        "item": "honey",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the sticky teriyaki glaze",
+        "optional": false
+      },
+      {
+        "item": "rice vinegar",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the sticky teriyaki glaze",
+        "optional": false
+      },
+      {
+        "item": "sesame oil",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the sticky teriyaki glaze",
+        "optional": false
+      },
+      {
+        "item": "cornstarch",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the sticky teriyaki glaze",
+        "optional": false
+      },
+      {
+        "item": "rice paper sheets",
+        "qty": 8,
+        "unit": "sheet",
+        "prep": "dipped in warm water to wrap",
+        "optional": false
+      },
+      {
+        "item": "green onion",
+        "qty": null,
+        "unit": "",
+        "prep": "to garnish",
+        "optional": false
+      },
+      {
+        "item": "sesame seeds",
+        "qty": null,
+        "unit": "",
+        "prep": "to garnish",
+        "optional": false
+      },
+      {
+        "item": "chili oil",
+        "qty": null,
+        "unit": "",
+        "prep": "to garnish",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Mix the ground chicken with sesame oil, shredded carrots, green onion, garlic, ginger, salt, and pepper.",
+      "Cook the filling in a pan until done.",
+      "Simmer the glaze ingredients (soy sauce, honey, rice vinegar, sesame oil, cornstarch) until thickened, then toss the cooked filling in it.",
+      "Dip each rice paper sheet in warm water, add filling, and fold into a parcel.",
+      "Pan-fry the wrapped dumplings in a little oil until crispy on all sides.",
+      "Top with green onion, sesame seeds, and chili oil."
+    ],
+    "notes": "Makes 8 dumplings. Macros per dumpling: 120 cal, 12g protein, 9g carbs, 4g fat.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/crispy-teriyaki-chicken-rice-paper-dumplings.jpg"
+  },
+  {
+    "id": "japanese-grated-onion-dressing",
+    "title": "Japanese Grated Onion Dressing",
+    "cuisine": "Japanese",
+    "mealTypes": [
+      "dressing"
+    ],
+    "mainIngredients": [
+      "onion",
+      "soy sauce",
+      "rice vinegar"
+    ],
+    "tags": [
+      "dressing",
+      "make-ahead",
+      "tiktok"
+    ],
+    "servings": 8,
+    "prepTime": 10,
+    "cookTime": 0,
+    "source": {
+      "url": "https://www.tiktok.com/@lennardy/video/7643799767063006471",
+      "note": "@lennardy on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "finely grated or pureed",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 4,
+        "unit": "tbsp",
+        "prep": "or white dashi/clear soy",
+        "optional": false
+      },
+      {
+        "item": "rice vinegar",
+        "qty": 4,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "2-3 tbsp, to taste",
+        "optional": false
+      },
+      {
+        "item": "neutral oil",
+        "qty": 4,
+        "unit": "tbsp",
+        "prep": "grapeseed or salad oil",
+        "optional": false
+      },
+      {
+        "item": "sesame oil",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Grate or puree the onion.",
+      "If the raw harshness is too strong, cover with 2 cups cold water, let sit 1 minute, then strain and press out the water.",
+      "Combine the onion with the rest of the ingredients.",
+      "Transfer to a container (keeps 3-4 days). Use on salad, mixing well."
+    ],
+    "notes": "Keeps 3-4 days refrigerated. Use on salad, mixing well.",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-07-08",
+    "image": "images/japanese-grated-onion-dressing.jpg"
+  },
+  {
+    "id": "salted-caramel-banana-bread",
+    "title": "Salted Caramel Banana Bread",
+    "cuisine": "Bakery",
+    "mealTypes": [
+      "bread",
+      "dessert"
+    ],
+    "mainIngredients": [
+      "banana",
+      "flour",
+      "butter",
+      "caramel"
+    ],
+    "tags": [
+      "sweet",
+      "banana bread",
+      "tiktok"
+    ],
+    "servings": 10,
+    "prepTime": 25,
+    "cookTime": 50,
+    "source": {
+      "url": "https://www.tiktok.com/@jonesfamilyrecipe/video/7655401351102434591",
+      "note": "@jonesfamilyrecipe on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "ripe bananas",
+        "qty": 3,
+        "unit": "",
+        "prep": "1-2 mashed, plus 1 more reserved for the top; for the banana bread",
+        "optional": false
+      },
+      {
+        "item": "unsalted butter",
+        "qty": 8,
+        "unit": "tbsp",
+        "prep": "browned and cooled; for the banana bread",
+        "optional": false
+      },
+      {
+        "item": "egg",
+        "qty": 1,
+        "unit": "",
+        "prep": "for the banana bread",
+        "optional": false
+      },
+      {
+        "item": "granulated sugar",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "for the banana bread",
+        "optional": false
+      },
+      {
+        "item": "brown sugar",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "for the banana bread",
+        "optional": false
+      },
+      {
+        "item": "vanilla bean paste",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the banana bread",
+        "optional": false
+      },
+      {
+        "item": "Greek yogurt",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "or sour cream; for the banana bread",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 1.5,
+        "unit": "cup",
+        "prep": "for the banana bread",
+        "optional": false
+      },
+      {
+        "item": "baking soda",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "for the banana bread",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "pinch",
+        "prep": "for the banana bread",
+        "optional": false
+      },
+      {
+        "item": "cinnamon",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "for the banana bread",
+        "optional": true
+      },
+      {
+        "item": "cane sugar",
+        "qty": 125,
+        "unit": "g",
+        "prep": "for the salted caramel",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 40,
+        "unit": "ml",
+        "prep": "for the salted caramel",
+        "optional": false
+      },
+      {
+        "item": "sea salt",
+        "qty": null,
+        "unit": "pinch",
+        "prep": "for the salted caramel",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 70,
+        "unit": "g",
+        "prep": "room temp; for the salted caramel",
+        "optional": false
+      },
+      {
+        "item": "flaky sea salt",
+        "qty": null,
+        "unit": "",
+        "prep": "to finish",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 350F and line a 9x5 pan.",
+      "Brown the butter and let it cool slightly.",
+      "Mix the brown butter with both sugars; add the egg; then add the mashed bananas, Greek yogurt, and vanilla bean paste.",
+      "Whisk the flour, cinnamon, baking soda, and salt separately, then fold into the wet ingredients until just combined.",
+      "For the caramel, combine the cane sugar and water in a saucepan over low-medium heat and simmer without stirring, swirling to caramelize; once amber, remove from heat and add the salt and butter (it may sputter), swirling until combined.",
+      "Slice or chop the reserved banana onto the bottom of the pan and pour the hot caramel over the banana.",
+      "Pour the batter over the caramel and banana, then smooth the top.",
+      "Bake 40-55 minutes until a toothpick comes out clean.",
+      "Flip out onto a board, remove the parchment, and top with flaky sea salt."
+    ],
+    "notes": "Uses 3 bananas total (2 mashed into the batter, 1 reserved for the caramel layer).",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-07-08",
+    "image": "images/salted-caramel-banana-bread.jpg"
+  },
+  {
+    "id": "bourbon-chicken",
+    "title": "Bourbon Chicken",
+    "cuisine": "Asian",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "chicken thighs",
+      "soy sauce",
+      "brown sugar"
+    ],
+    "tags": [
+      "weeknight",
+      "tiktok"
+    ],
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 25,
+    "source": {
+      "url": "https://www.tiktok.com/@foodiligence/video/7658010221662555406",
+      "note": "@foodiligence on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "chicken thighs",
+        "qty": 2,
+        "unit": "lb",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "onion powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "paprika",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "hoisin sauce",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ketchup",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "apple juice",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "apple cider vinegar",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "light brown sugar",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ginger",
+        "qty": null,
+        "unit": "",
+        "prep": "1 inch, grated",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 3,
+        "unit": "clove",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cornstarch",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "dissolved in water",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Whisk the soy sauce, hoisin, ketchup, apple juice, water, vinegar, brown sugar, ginger, and garlic together and set aside.",
+      "Season the chicken thighs with garlic powder, onion powder, paprika, and black pepper.",
+      "Brown both sides of the chicken in a skillet with 1 tbsp oil (not fully cooked), then remove and rest.",
+      "Add the sauce to the pan, scrape up the fond, and reduce by half, then add the cornstarch slurry.",
+      "Add the chicken back and simmer until cooked through and up to temperature."
+    ],
+    "notes": "",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/bourbon-chicken.png"
+  },
+  {
+    "id": "cottage-pie",
+    "title": "Cottage Pie",
+    "cuisine": "British",
+    "mealTypes": [
+      "dinner",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "ground beef",
+      "potatoes",
+      "Parmesan"
+    ],
+    "tags": [
+      "comfort food",
+      "nyt",
+      "tiktok"
+    ],
+    "servings": 6,
+    "prepTime": 30,
+    "cookTime": 60,
+    "source": {
+      "url": "https://www.tiktok.com/@foodiligence/video/7656462090818866445",
+      "note": "@foodiligence on TikTok"
+    },
+    "ingredients": [
+      {
+        "item": "ground beef",
+        "qty": 2,
+        "unit": "lb",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "",
+        "prep": "to taste",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the filling",
+        "optional": false
+      },
+      {
+        "item": "yellow onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "celery",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "carrot",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 3,
+        "unit": "clove",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "tomato paste",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "beef broth",
+        "qty": 2,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "dry red wine",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "frozen peas",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Worcestershire sauce",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "thyme",
+        "qty": 4,
+        "unit": "sprig",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "dried bay leaves",
+        "qty": 2,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "potatoes",
+        "qty": 2.5,
+        "unit": "lb",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "whole milk",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 5,
+        "unit": "tbsp",
+        "prep": "for the potatoes",
+        "optional": false
+      },
+      {
+        "item": "Parmesan",
+        "qty": 0.75,
+        "unit": "cup",
+        "prep": "grated",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 350F.",
+      "In an ovenproof 12-inch skillet over medium heat, cook the ground beef with a pinch of salt for 5-7 minutes until just pink; transfer with a slotted spoon, leaving 1 tsp fat in the pan.",
+      "Add 2 tbsp butter, the onion, celery, carrot, and a pinch of salt; cook 5 minutes; stir in the garlic and tomato paste for 1 minute, then add the flour.",
+      "Stir in the beef broth, red wine, peas, Worcestershire, thyme, bay leaves, and 1 tsp each salt and pepper; simmer 7-10 minutes until thick like gravy; remove the herbs, fold the beef back in, and set aside.",
+      "Boil the potatoes in 4 quarts salted water for 15 minutes until knife-tender; drain and mash with the milk, 4 tbsp butter, and 1/2 cup Parmesan until creamy.",
+      "Spread the mashed potatoes over the beef in the skillet, drizzle with the remaining 1 tbsp butter, and sprinkle with the remaining 1/4 cup Parmesan.",
+      "Bake 30 minutes until golden and bubbly, then rest 10 minutes."
+    ],
+    "notes": "From NYT Cooking (NYT top 50 2025), adapted by @grossypelosi.",
+    "diet": [],
+    "createdAt": "2026-07-08",
+    "image": "images/cottage-pie.png"
   }
 ]
