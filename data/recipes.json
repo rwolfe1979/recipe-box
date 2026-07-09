@@ -25168,5 +25168,637 @@
       "gluten-free"
     ],
     "createdAt": "2026-07-08"
+  },
+  {
+    "id": "philly-cheesesteak-beef-marinade",
+    "title": "Philly Cheesesteak Beef Marinade",
+    "cuisine": "American",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "beef",
+      "bell pepper"
+    ],
+    "tags": [
+      "marinade",
+      "beef",
+      "meal-prep",
+      "instagram"
+    ],
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 10,
+    "source": {
+      "url": "https://www.instagram.com/reel/DZI9uOtSmY8/",
+      "note": "@eat.haga on Instagram"
+    },
+    "ingredients": [
+      {
+        "item": "ribeye steak",
+        "qty": 1.5,
+        "unit": "lb",
+        "prep": "thinly sliced (or sirloin for a cheaper option)",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "paprika",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "yellow onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "sliced",
+        "optional": false
+      },
+      {
+        "item": "green bell pepper",
+        "qty": 1,
+        "unit": "",
+        "prep": "sliced",
+        "optional": false
+      },
+      {
+        "item": "red bell pepper",
+        "qty": 1,
+        "unit": "",
+        "prep": "sliced",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1.5,
+        "unit": "tsp",
+        "prep": "or to taste",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "provolone cheese",
+        "qty": null,
+        "unit": "",
+        "prep": "to melt into the sandwiches when cooking",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Combine all the marinade ingredients with the beef in a freezer bag or container and coat well. Marinate in the fridge, or freeze up to 3 months (thaw before cooking).",
+      "When ready, cook in a hot pan or on the grill until done to your liking."
+    ],
+    "notes": "Meal-prep marinade. When cooking, melt provolone over the beef and peppers and pile onto rolls.",
+    "diet": [
+      "gluten-free"
+    ],
+    "createdAt": "2026-07-08"
+  },
+  {
+    "id": "rosemary-garlic-butter-beef-marinade",
+    "title": "Rosemary Garlic Butter Beef Marinade",
+    "cuisine": "American",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "beef"
+    ],
+    "tags": [
+      "marinade",
+      "beef",
+      "meal-prep",
+      "instagram"
+    ],
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 10,
+    "source": {
+      "url": "https://www.instagram.com/reel/DZI9uOtSmY8/",
+      "note": "@eat.haga on Instagram"
+    },
+    "ingredients": [
+      {
+        "item": "ribeye steak",
+        "qty": 2,
+        "unit": "lb",
+        "prep": "or flank/skirt, cubed or cut into strips against the grain",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "paprika",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "onion powder",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "or to taste",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 6,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "fresh rosemary",
+        "qty": 2,
+        "unit": "sprig",
+        "prep": "finely chopped",
+        "optional": false
+      },
+      {
+        "item": "butter",
+        "qty": 5,
+        "unit": "tbsp",
+        "prep": "cut into squares and frozen; add when the steak is almost done cooking",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Combine all the marinade ingredients with the beef in a freezer bag or container and coat well. Marinate in the fridge, or freeze up to 3 months (thaw before cooking).",
+      "When ready, cook in a hot pan or on the grill until done to your liking."
+    ],
+    "notes": "Meal-prep marinade. Freeze the butter squares in the bag and drop them in near the end of cooking for a glossy garlic-butter finish.",
+    "diet": [
+      "gluten-free"
+    ],
+    "createdAt": "2026-07-08"
+  },
+  {
+    "id": "carne-asada-beef-marinade",
+    "title": "Carne Asada Beef Marinade",
+    "cuisine": "American",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "beef"
+    ],
+    "tags": [
+      "marinade",
+      "beef",
+      "meal-prep",
+      "instagram"
+    ],
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 10,
+    "source": {
+      "url": "https://www.instagram.com/reel/DZI9uOtSmY8/",
+      "note": "@eat.haga on Instagram"
+    },
+    "ingredients": [
+      {
+        "item": "ribeye steak",
+        "qty": 2,
+        "unit": "lb",
+        "prep": "or flank/skirt, cut into strips against the grain",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "orange juice",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "onion powder",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "paprika",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cumin",
+        "qty": 1.5,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1.5,
+        "unit": "tsp",
+        "prep": "or to taste",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Combine all the marinade ingredients with the beef in a freezer bag or container and coat well. Marinate in the fridge, or freeze up to 3 months (thaw before cooking).",
+      "When ready, cook in a hot pan or on the grill until done to your liking."
+    ],
+    "notes": "Meal-prep marinade. Great in tacos, burritos, or bowls.",
+    "diet": [],
+    "createdAt": "2026-07-08"
+  },
+  {
+    "id": "korean-stir-fry-beef-marinade",
+    "title": "Korean Stir-Fry Beef Marinade",
+    "cuisine": "American",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "beef"
+    ],
+    "tags": [
+      "marinade",
+      "beef",
+      "meal-prep",
+      "instagram"
+    ],
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 10,
+    "source": {
+      "url": "https://www.instagram.com/reel/DZI9uOtSmY8/",
+      "note": "@eat.haga on Instagram"
+    },
+    "ingredients": [
+      {
+        "item": "ribeye steak",
+        "qty": 2,
+        "unit": "lb",
+        "prep": "or flank/skirt, cut into strips against the grain",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "sesame oil",
+        "qty": 1.5,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "rice wine vinegar",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "brown sugar",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "gochujang",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 5,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "ginger",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "grated",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Combine all the marinade ingredients with the beef in a freezer bag or container and coat well. Marinate in the fridge, or freeze up to 3 months (thaw before cooking).",
+      "When ready, cook in a hot pan or on the grill until done to your liking."
+    ],
+    "notes": "Meal-prep marinade. Serve over rice with kimchi and green onion.",
+    "diet": [],
+    "createdAt": "2026-07-08"
+  },
+  {
+    "id": "beef-shawarma-marinade",
+    "title": "Beef Shawarma Marinade",
+    "cuisine": "American",
+    "mealTypes": [
+      "marinade"
+    ],
+    "mainIngredients": [
+      "beef"
+    ],
+    "tags": [
+      "marinade",
+      "beef",
+      "meal-prep",
+      "instagram"
+    ],
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 10,
+    "source": {
+      "url": "https://www.instagram.com/reel/DZI9uOtSmY8/",
+      "note": "@eat.haga on Instagram"
+    },
+    "ingredients": [
+      {
+        "item": "ribeye steak",
+        "qty": 2,
+        "unit": "lb",
+        "prep": "or flank/skirt, cut into strips against the grain",
+        "optional": false
+      },
+      {
+        "item": "olive oil",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "white vinegar",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "lemon juice",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "fresh",
+        "optional": false
+      },
+      {
+        "item": "paprika",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "cumin",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "coriander",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "turmeric",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "red pepper flakes",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "or chili powder",
+        "optional": false
+      },
+      {
+        "item": "cinnamon",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 2,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 5,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "yellow onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "sliced",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Combine all the marinade ingredients with the beef in a freezer bag or container and coat well. Marinate in the fridge, or freeze up to 3 months (thaw before cooking).",
+      "When ready, cook in a hot pan or on the grill until done to your liking."
+    ],
+    "notes": "Meal-prep marinade. Serve in pita or over rice with garlic sauce and pickles.",
+    "diet": [
+      "gluten-free"
+    ],
+    "createdAt": "2026-07-08"
+  },
+  {
+    "id": "tiramisu-chef-dennis",
+    "title": "Tiramisu (Chef Dennis)",
+    "cuisine": "Italian",
+    "mealTypes": [
+      "dessert"
+    ],
+    "mainIngredients": [
+      "mascarpone",
+      "ladyfingers"
+    ],
+    "tags": [
+      "italian",
+      "no-bake",
+      "make-ahead",
+      "classic"
+    ],
+    "servings": 9,
+    "prepTime": 30,
+    "cookTime": 10,
+    "source": {
+      "url": "https://www.askchefdennis.com/the-best-tiramisu-you-will-ever-make/",
+      "note": "Chef Dennis (askchefdennis.com)"
+    },
+    "ingredients": [
+      {
+        "item": "egg yolks",
+        "qty": 6,
+        "unit": "",
+        "prep": "large (about ½ cup)",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "superfine/caster if possible",
+        "optional": false
+      },
+      {
+        "item": "mascarpone cheese",
+        "qty": 1.25,
+        "unit": "cup",
+        "prep": "room temperature",
+        "optional": false
+      },
+      {
+        "item": "heavy whipping cream",
+        "qty": 1.75,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "Italian ladyfingers",
+        "qty": 30,
+        "unit": "",
+        "prep": "Savoiardi style, about 1½ of the 7 oz packages",
+        "optional": false
+      },
+      {
+        "item": "cold espresso",
+        "qty": 1.5,
+        "unit": "cup",
+        "prep": "1½–2 cups, or strong coffee",
+        "optional": false
+      },
+      {
+        "item": "coffee liqueur",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "½–1 cup, optional, to taste",
+        "optional": true
+      },
+      {
+        "item": "unsweetened cocoa",
+        "qty": 1,
+        "unit": "oz",
+        "prep": "for dusting",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Add 1 inch of water to a small pot and bring to a boil, then reduce to a simmer. Set a metal bowl on top so it sits on the pot without touching the water.",
+      "Add the egg yolks and sugar to the bowl and whisk to combine.",
+      "Set the bowl over the simmering water and whisk constantly for about 10 minutes to cook the eggs — the mixture will thicken and grow in volume (this is the sabayon). It should reach at least 165°F. If it gets too hot, lift the bowl off for 15 seconds while continuing to whisk.",
+      "Off the heat, keep whisking briefly to cool it down. It should be thick and lemon-yellow. Let it cool slightly.",
+      "Add the room-temperature mascarpone to the yolks and mix just until combined — don’t overmix, or it can curdle.",
+      "In a separate bowl, whip the heavy cream to stiff peaks, starting slow and increasing the speed over about 10 minutes (this keeps it stable). Use very cold, fresh cream.",
+      "Gently fold the whipped cream into the mascarpone mixture and refrigerate until you’re ready to assemble.",
+      "Mix the cold espresso with the coffee liqueur. Quickly dip the ladyfingers into the mixture just long enough to wet them — do not soak.",
+      "Arrange a layer of dipped ladyfingers in the bottom of a 9-inch square dish.",
+      "Spread half the mascarpone cream evenly over the ladyfingers.",
+      "Add a second layer of dipped ladyfingers, then spread the remaining cream on top.",
+      "Refrigerate at least 4 hours (overnight is best). Dust with cocoa powder just before serving."
+    ],
+    "notes": "No raw eggs — the yolks are cooked in the sabayon. Use full-fat mascarpone (Galbani is great) and very cold, fresh heavy cream. Only quick-dip crunchy Savoiardi ladyfingers; cake-style get too soft. Chilling overnight gives the cleanest slices and best flavor. Omit the liqueur (and add a little more espresso) for an alcohol-free version. ~490 cal/serving.",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-07-08",
+    "image": "images/tiramisu-chef-dennis.jpg"
   }
 ]
