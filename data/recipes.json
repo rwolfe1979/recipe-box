@@ -28824,5 +28824,326 @@
     "diet": [],
     "createdAt": "2026-07-08",
     "image": "images/cottage-pie.png"
+  },
+  {
+    "id": "pasta-with-sausage-ragu",
+    "title": "Pasta with Sausage Ragù",
+    "cuisine": "Italian",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "Italian sausage",
+      "pappardelle",
+      "tomatoes",
+      "fennel"
+    ],
+    "tags": [
+      "pasta",
+      "sausage",
+      "weeknight",
+      "cooks country"
+    ],
+    "servings": 4,
+    "prepTime": 20,
+    "cookTime": 60,
+    "source": {
+      "url": "https://youtu.be/nj_MovVasbs",
+      "note": "Cook's Country (America's Test Kitchen)"
+    },
+    "ingredients": [
+      {
+        "item": "fennel bulb",
+        "qty": 0.5,
+        "unit": "",
+        "prep": "stalks discarded, chopped coarse",
+        "optional": false
+      },
+      {
+        "item": "onion",
+        "qty": 0.5,
+        "unit": "",
+        "prep": "chopped coarse",
+        "optional": false
+      },
+      {
+        "item": "fennel seeds",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "whole peeled tomatoes",
+        "qty": 1,
+        "unit": "can",
+        "prep": "28 oz can",
+        "optional": false
+      },
+      {
+        "item": "sweet Italian sausage",
+        "qty": 2,
+        "unit": "lb",
+        "prep": "casings removed",
+        "optional": false
+      },
+      {
+        "item": "extra virgin olive oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "plus more for drizzling",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "for the ragù",
+        "optional": false
+      },
+      {
+        "item": "tomato paste",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 4,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "dried oregano",
+        "qty": 1.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "dry red wine",
+        "qty": 0.75,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "pappardelle",
+        "qty": 1,
+        "unit": "lb",
+        "prep": "or tagliatelle",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the pasta water",
+        "optional": false
+      },
+      {
+        "item": "Parmesan cheese",
+        "qty": null,
+        "unit": "",
+        "prep": "grated, to serve",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Pulse the fennel, onion, and fennel seeds in a food processor to about 10 pulses until finely chopped; transfer to a bowl.",
+      "Add the whole peeled tomatoes to the processor and process until smooth, about 1 minute; transfer to a separate bowl.",
+      "Add the sausage to the processor and process about 10 seconds until finely ground.",
+      "Heat 1 Tbsp olive oil in a Dutch oven over medium-high heat until shimmering. Add the sausage in an even layer and cook 10-15 minutes, until the liquid has evaporated and the meat begins to sizzle and brown at the bottom of the pot.",
+      "Add the fennel mixture and 1/2 tsp salt; cook about 5 minutes until softened and well browned.",
+      "Add the tomato paste, garlic, and oregano; cook about 30 seconds until fragrant.",
+      "Pour in the red wine and cook about 1 minute, scraping up the browned bits, until nearly evaporated.",
+      "Add the pureed tomatoes and 1 cup water; bring to a simmer, then reduce to low and simmer uncovered about 45 minutes until thickened. (Makes about 6 cups.)",
+      "Meanwhile, bring 4 quarts water to a boil. Add 1 Tbsp salt and the pappardelle and cook until al dente. Reserve 1 cup of the pasta cooking water, then drain the pasta.",
+      "Toss the drained pasta with 3 cups of the ragù and about 1/2 cup of the reserved pasta water until well coated. Serve topped with grated Parmesan and a drizzle of olive oil."
+    ],
+    "notes": "This 90-minute ragù tastes slow-simmered. It makes about 6 cups — enough for 2 lb of pasta; this serves it with 1 lb, so refrigerate or freeze the remaining 3 cups. Whole-tomato quantity (1 x 28 oz can) confirmed from the published Cook’s Country recipe (not stated in the video).",
+    "diet": [],
+    "createdAt": "2026-07-08"
+  },
+  {
+    "id": "fluffy-baked-polenta-red-sauce",
+    "title": "Fluffy Baked Polenta with Red Sauce",
+    "cuisine": "Italian-American",
+    "mealTypes": [
+      "dinner",
+      "side"
+    ],
+    "mainIngredients": [
+      "cornmeal",
+      "Pecorino Romano",
+      "tomato sauce"
+    ],
+    "tags": [
+      "make-ahead",
+      "comfort food",
+      "vegetarian",
+      "cooks country"
+    ],
+    "servings": 6,
+    "prepTime": 30,
+    "cookTime": 30,
+    "source": {
+      "url": "https://youtu.be/nj_MovVasbs",
+      "note": "Cook's Country (America's Test Kitchen)"
+    },
+    "ingredients": [
+      {
+        "item": "butter",
+        "qty": 4,
+        "unit": "tbsp",
+        "prep": "for the polenta",
+        "optional": false
+      },
+      {
+        "item": "extra virgin olive oil",
+        "qty": 2,
+        "unit": "tbsp",
+        "prep": "for the polenta",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 2,
+        "unit": "clove",
+        "prep": "smashed; for the polenta",
+        "optional": false
+      },
+      {
+        "item": "water",
+        "qty": 7,
+        "unit": "cup",
+        "prep": "for the polenta",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1.5,
+        "unit": "tsp",
+        "prep": "for the polenta",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "for the polenta",
+        "optional": false
+      },
+      {
+        "item": "cornmeal",
+        "qty": 1.5,
+        "unit": "cup",
+        "prep": "fine/regular yellow, not coarse \"polenta\"",
+        "optional": false
+      },
+      {
+        "item": "Pecorino Romano",
+        "qty": 1.5,
+        "unit": "cup",
+        "prep": "grated; for the polenta",
+        "optional": false
+      },
+      {
+        "item": "half-and-half",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "extra virgin olive oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "for the sauce, to brown the onion",
+        "optional": false
+      },
+      {
+        "item": "onion",
+        "qty": 1,
+        "unit": "",
+        "prep": "halved through the root; for the sauce",
+        "optional": false
+      },
+      {
+        "item": "tomato sauce",
+        "qty": 1,
+        "unit": "can",
+        "prep": "15 oz can",
+        "optional": false
+      },
+      {
+        "item": "whole peeled tomatoes",
+        "qty": 1,
+        "unit": "can",
+        "prep": "14.5 oz can, pureed",
+        "optional": false
+      },
+      {
+        "item": "Pecorino Romano",
+        "qty": 0.5,
+        "unit": "cup",
+        "prep": "grated; for the sauce",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 1.5,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 0.75,
+        "unit": "tsp",
+        "prep": "for the sauce",
+        "optional": false
+      },
+      {
+        "item": "garlic powder",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "extra virgin olive oil",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "for the sauce, stirred in at the end",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Melt the butter with 2 Tbsp olive oil in a large saucepan. Add the 2 smashed garlic cloves and toast about 4 minutes until browned, to perfume the oil; discard the garlic.",
+      "Add 7 cups water, 1 1/2 tsp salt, and 1/2 tsp pepper; bring to a boil.",
+      "Slowly whisk in the cornmeal in a steady stream, whisking constantly so it does not clump. Return to a boil, then reduce to medium-low and simmer about 20 minutes, stirring every few minutes, until thick and tender.",
+      "Off the heat, stir in 1 1/2 cups Pecorino and the half-and-half until combined.",
+      "Scrape the polenta into a greased 8-inch square baking pan and smooth the top. Let cool about 2 hours on the counter, then refrigerate about 3 hours until fully set and firm.",
+      "For the sauce: heat 1 Tbsp olive oil in a saucepan over medium heat; add the halved onion cut-side down and cook about 4 minutes until browned, then discard the onion.",
+      "Puree the whole peeled tomatoes about 30 seconds. Add the tomato sauce and pureed tomatoes to the pan, then stir in 1/2 cup Pecorino, the sugar, 3/4 tsp salt, garlic powder, and 3 Tbsp olive oil.",
+      "Bring to a boil, then reduce to medium-low and simmer about 15 minutes until thickened and the flavors meld.",
+      "Turn the chilled polenta out onto a cutting board and cut into 6 equal bricks. Transfer to a greased, parchment-lined sheet and bake at 375°F about 30 minutes, until heated through and beginning to brown.",
+      "Serve the polenta bricks topped with plenty of the red sauce."
+    ],
+    "notes": "Inspired by the polenta at Mike’s Kitchen (VFW, Cranston, RI). Use fine/regular cornmeal (e.g. Quaker), not coarse \"polenta\" — it sets into a firmer brick. Plan ahead: the polenta needs about 5 hours to chill and set. Cornmeal (1 1/2 cups) and tomato-sauce (1 x 15 oz can) amounts confirmed from the published Cook’s Country recipe (not stated in the video).",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-07-08"
   }
 ]
