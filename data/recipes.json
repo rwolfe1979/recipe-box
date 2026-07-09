@@ -24689,5 +24689,484 @@
     "diet": [],
     "createdAt": "2026-07-08",
     "image": "images/ladybugs-poppy-seed-chicken-casserole.webp"
+  },
+  {
+    "id": "classic-marinara-sauce",
+    "title": "Classic Marinara Sauce",
+    "cuisine": "Italian",
+    "mealTypes": [
+      "side"
+    ],
+    "mainIngredients": [
+      "tomatoes"
+    ],
+    "tags": [
+      "sauce",
+      "pantry",
+      "make-ahead"
+    ],
+    "servings": 6,
+    "prepTime": 5,
+    "cookTime": 30,
+    "source": {
+      "url": "",
+      "note": "Created with Claude"
+    },
+    "ingredients": [
+      {
+        "item": "olive oil",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 4,
+        "unit": "clove",
+        "prep": "thinly sliced",
+        "optional": false
+      },
+      {
+        "item": "crushed tomatoes",
+        "qty": 2,
+        "unit": "can",
+        "prep": "28 oz each",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "sugar",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "optional, to balance acidity",
+        "optional": true
+      },
+      {
+        "item": "red pepper flakes",
+        "qty": 0.25,
+        "unit": "tsp",
+        "prep": "optional",
+        "optional": true
+      },
+      {
+        "item": "fresh basil",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "torn (or 1 tsp dried oregano)",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Heat the olive oil in a saucepan over medium heat. Add the sliced garlic (and red pepper flakes, if using) and cook gently until fragrant and just golden, 1–2 minutes — do not brown it.",
+      "Add the crushed tomatoes, salt, and sugar. Bring to a simmer.",
+      "Simmer uncovered, stirring occasionally, 25–30 minutes, until thickened and the raw-tomato taste is gone.",
+      "Stir in the torn basil and taste for salt. For a smoother sauce, blend with an immersion blender."
+    ],
+    "notes": "Makes about 4 cups — enough to sauce 1 lb of pasta with some left over. Freezes well.",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "createdAt": "2026-07-08"
+  },
+  {
+    "id": "baked-mac-and-cheese",
+    "title": "Baked Mac and Cheese",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner",
+      "side",
+      "casserole"
+    ],
+    "mainIngredients": [
+      "pasta",
+      "cheese"
+    ],
+    "tags": [
+      "casserole",
+      "comfort food",
+      "kid favorite"
+    ],
+    "servings": 8,
+    "prepTime": 20,
+    "cookTime": 30,
+    "source": {
+      "url": "",
+      "note": "Created with Claude"
+    },
+    "ingredients": [
+      {
+        "item": "elbow macaroni",
+        "qty": 1,
+        "unit": "lb",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "unsalted butter",
+        "qty": 5,
+        "unit": "tbsp",
+        "prep": "divided",
+        "optional": false
+      },
+      {
+        "item": "all-purpose flour",
+        "qty": 0.333,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "whole milk",
+        "qty": 3,
+        "unit": "cup",
+        "prep": "warmed",
+        "optional": false
+      },
+      {
+        "item": "sharp cheddar cheese",
+        "qty": 4,
+        "unit": "cup",
+        "prep": "16 oz, shredded, divided",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "ground mustard",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "panko breadcrumbs",
+        "qty": 0.75,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Heat the oven to 375°F. Cook the macaroni in well-salted water 1 minute short of al dente, then drain.",
+      "Melt 4 tbsp of the butter in a large pot over medium heat. Whisk in the flour and cook 1 minute. Gradually whisk in the warm milk and cook, whisking, until thickened, 4–5 minutes.",
+      "Off the heat, stir in 3 cups of the cheddar, the salt, pepper, and ground mustard until smooth.",
+      "Fold in the drained macaroni. Transfer to a greased 9x13-inch baking dish and top with the remaining 1 cup cheddar.",
+      "Melt the last 1 tbsp butter, toss it with the panko, and sprinkle over the top.",
+      "Bake 25–30 minutes, until bubbly and golden. Rest 5 minutes before serving."
+    ],
+    "notes": "For extra-creamy, use half cheddar and half Gruyère or Monterey Jack.",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-07-08"
+  },
+  {
+    "id": "simple-roast-chicken",
+    "title": "Simple Roast Chicken",
+    "cuisine": "American",
+    "mealTypes": [
+      "dinner"
+    ],
+    "mainIngredients": [
+      "chicken"
+    ],
+    "tags": [
+      "classic",
+      "weekend"
+    ],
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 75,
+    "source": {
+      "url": "",
+      "note": "Created with Claude"
+    },
+    "ingredients": [
+      {
+        "item": "whole chicken",
+        "qty": 1,
+        "unit": "",
+        "prep": "about 4 lb",
+        "optional": false
+      },
+      {
+        "item": "unsalted butter",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "softened (or olive oil)",
+        "optional": false
+      },
+      {
+        "item": "kosher salt",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": 1,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 4,
+        "unit": "clove",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "lemon",
+        "qty": 1,
+        "unit": "",
+        "prep": "halved",
+        "optional": false
+      },
+      {
+        "item": "fresh thyme",
+        "qty": 4,
+        "unit": "sprig",
+        "prep": "or 1 tsp dried",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Heat the oven to 425°F. Pat the chicken very dry and, if you have time, let it sit at room temperature about 30 minutes.",
+      "Rub the softened butter all over the chicken (and under the breast skin), then season generously inside and out with the salt and pepper.",
+      "Stuff the cavity with the garlic, lemon halves, and thyme. Tie the legs together with kitchen twine and tuck the wing tips under.",
+      "Place breast-side up on a rack in a roasting pan (or in a cast-iron skillet). Roast 70–80 minutes, until the thickest part of the thigh reads 165°F and the juices run clear.",
+      "Rest 15 minutes before carving."
+    ],
+    "notes": "Save the carcass for stock. A squeeze of the roasted lemon over the carved meat is lovely.",
+    "diet": [
+      "gluten-free"
+    ],
+    "createdAt": "2026-07-08"
+  },
+  {
+    "id": "easy-fried-rice",
+    "title": "Easy Fried Rice",
+    "cuisine": "Chinese",
+    "mealTypes": [
+      "dinner",
+      "side"
+    ],
+    "mainIngredients": [
+      "rice",
+      "eggs"
+    ],
+    "tags": [
+      "quick",
+      "weeknight",
+      "leftovers"
+    ],
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 10,
+    "source": {
+      "url": "",
+      "note": "Created with Claude"
+    },
+    "ingredients": [
+      {
+        "item": "cooked rice",
+        "qty": 4,
+        "unit": "cup",
+        "prep": "day-old and cold, jasmine or long-grain",
+        "optional": false
+      },
+      {
+        "item": "eggs",
+        "qty": 3,
+        "unit": "",
+        "prep": "beaten",
+        "optional": false
+      },
+      {
+        "item": "neutral oil",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "divided",
+        "optional": false
+      },
+      {
+        "item": "garlic",
+        "qty": 3,
+        "unit": "clove",
+        "prep": "minced",
+        "optional": false
+      },
+      {
+        "item": "frozen peas and carrots",
+        "qty": 1,
+        "unit": "cup",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "green onions",
+        "qty": 4,
+        "unit": "",
+        "prep": "sliced, whites and greens separated",
+        "optional": false
+      },
+      {
+        "item": "soy sauce",
+        "qty": 3,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "sesame oil",
+        "qty": 1,
+        "unit": "tbsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "black pepper",
+        "qty": null,
+        "unit": "to taste",
+        "prep": "",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Heat 1 tbsp of the oil in a large skillet or wok over medium-high heat. Add the beaten eggs, scramble until just set, and remove to a plate.",
+      "Add the remaining 2 tbsp oil. Add the garlic and green onion whites and stir 30 seconds, then add the peas and carrots and cook 2 minutes.",
+      "Add the cold rice, breaking up any clumps, and stir-fry 3–4 minutes until heated through and starting to crisp.",
+      "Push the rice to the side, add the soy sauce and sesame oil, then toss everything to coat and return the eggs.",
+      "Stir in the green onion greens, season with salt and pepper, and serve."
+    ],
+    "notes": "Cold, day-old rice is the secret — fresh rice turns mushy. Add cooked chicken, shrimp, or any leftover protein if you like.",
+    "diet": [
+      "vegetarian"
+    ],
+    "createdAt": "2026-07-08"
+  },
+  {
+    "id": "guacamole",
+    "title": "Guacamole",
+    "cuisine": "Mexican",
+    "mealTypes": [
+      "appetizer",
+      "side"
+    ],
+    "mainIngredients": [
+      "avocado"
+    ],
+    "tags": [
+      "dip",
+      "no-cook",
+      "party"
+    ],
+    "servings": 6,
+    "prepTime": 10,
+    "cookTime": null,
+    "source": {
+      "url": "",
+      "note": "Created with Claude"
+    },
+    "ingredients": [
+      {
+        "item": "ripe avocados",
+        "qty": 3,
+        "unit": "",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "lime",
+        "qty": 1,
+        "unit": "",
+        "prep": "juiced",
+        "optional": false
+      },
+      {
+        "item": "salt",
+        "qty": 0.5,
+        "unit": "tsp",
+        "prep": "",
+        "optional": false
+      },
+      {
+        "item": "red onion",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "finely diced",
+        "optional": false
+      },
+      {
+        "item": "roma tomato",
+        "qty": 1,
+        "unit": "",
+        "prep": "seeded and diced",
+        "optional": false
+      },
+      {
+        "item": "cilantro",
+        "qty": 0.25,
+        "unit": "cup",
+        "prep": "chopped",
+        "optional": false
+      },
+      {
+        "item": "jalapeño",
+        "qty": 1,
+        "unit": "",
+        "prep": "seeded and minced, optional",
+        "optional": true
+      },
+      {
+        "item": "garlic",
+        "qty": 1,
+        "unit": "clove",
+        "prep": "minced, optional",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Halve the avocados, remove the pits, and scoop the flesh into a bowl. Add the lime juice and salt and mash to your desired texture.",
+      "Fold in the red onion, tomato, cilantro, and the jalapeño and garlic if using.",
+      "Taste and adjust with more lime or salt. Serve right away with tortilla chips."
+    ],
+    "notes": "Use ripe Hass avocados that yield to gentle pressure. To store, press plastic wrap directly onto the surface to slow browning.",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "createdAt": "2026-07-08"
   }
 ]
