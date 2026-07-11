@@ -4,6 +4,11 @@
       "date": "2026-07-13",
       "slot": "lunch",
       "recipeId": "chipotle-chicken-bean-salad"
+    },
+    {
+      "date": "2026-07-15",
+      "slot": "lunch",
+      "recipeId": "buffalo-lite-chicken-white-bean-salad"
     }
   ]
 }
