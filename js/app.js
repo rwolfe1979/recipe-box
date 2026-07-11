@@ -242,6 +242,14 @@ const App = {
         ${r.cookTime ? `<span>Cook ${r.cookTime} min</span>` : ''}
         ${r.source && (r.source.url || r.source.note) ? `<span>Source: ${r.source.url ? `<a href="${this.esc(r.source.url)}" target="_blank" rel="noopener">${this.esc(r.source.note || this.hostOf(r.source.url))}</a>` : this.esc(r.source.note)}</span>` : ''}
       </div>
+      ${r.nutrition ? `<div class="detail-macros">
+        ${r.nutrition.calories != null ? `<span><strong>${r.nutrition.calories}</strong> cal</span>` : ''}
+        ${r.nutrition.protein != null ? `<span><strong>${r.nutrition.protein}g</strong> protein</span>` : ''}
+        ${r.nutrition.fiber != null ? `<span><strong>${r.nutrition.fiber}g</strong> fiber</span>` : ''}
+        ${r.nutrition.carbs != null ? `<span><strong>${r.nutrition.carbs}g</strong> carbs</span>` : ''}
+        ${r.nutrition.fat != null ? `<span><strong>${r.nutrition.fat}g</strong> fat</span>` : ''}
+        <span class="macros-per">per serving</span>
+      </div>` : ''}
       <div class="btn-row no-print">
         <button class="btn primary" id="d-plan">📅 Add to plan</button>
         <button class="btn" id="d-shop">🛒 Add to shopping list</button>
@@ -661,6 +669,7 @@ const App = {
         createdAt: r ? (r.createdAt || null) : new Date().toISOString().slice(0, 10),
         ...(r && r.image ? { image: r.image } : {}),
         ...(r && r.diet ? { diet: r.diet } : {}),
+        ...(r && r.nutrition ? { nutrition: r.nutrition } : {}),
       };
       const btn = document.getElementById('e-save');
       btn.disabled = true; btn.textContent = 'Saving…';

@@ -252,6 +252,11 @@ label.field > input, label.field > select, label.field > textarea { margin-top: 
 /* ---- recipe detail ---- */
 .detail-meta { display: flex; gap: 14px; flex-wrap: wrap; color: var(--ink-soft); font-size: 0.85rem; margin-bottom: 10px; }
 
+.detail-macros { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 14px; }
+.detail-macros span { background: var(--chip-bg, rgba(0,0,0,0.05)); border: 1px solid var(--line); border-radius: 999px; padding: 3px 10px; font-size: 0.8rem; color: var(--ink-soft); }
+.detail-macros span strong { color: var(--ink); font-weight: 600; }
+.detail-macros .macros-per { background: none; border: none; padding: 3px 2px; font-style: italic; opacity: 0.7; }
+
 .ing-list { list-style: none; padding: 0; margin: 0; }
 .ing-list li { padding: 6px 0; border-bottom: 1px dashed var(--line); }
 .ing-list li:last-child { border-bottom: none; }
