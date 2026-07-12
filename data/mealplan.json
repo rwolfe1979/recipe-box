@@ -24,6 +24,11 @@
       "date": "2026-07-13",
       "slot": "dinner",
       "recipeId": "cobb-style-chicken-salad"
+    },
+    {
+      "date": "2026-07-17",
+      "slot": "dinner",
+      "recipeId": "one-pot-soy-glazed-chicken-rice"
     }
   ]
 }
