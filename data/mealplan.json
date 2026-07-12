@@ -29,6 +29,11 @@
       "date": "2026-07-17",
       "slot": "dinner",
       "recipeId": "one-pot-soy-glazed-chicken-rice"
+    },
+    {
+      "date": "2026-07-14",
+      "slot": "dinner",
+      "recipeId": "baked-penne-with-italian-sausage-spinach"
     }
   ]
 }
